@@ -4,7 +4,7 @@ title: Lesson 15
 subtitle: Strength in numbers
 quote: "Let me see: four times five is twelve, and four times six is thirteen, and four times seven is fourteen—oh dear! I shall never get to twenty at this rate!"
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/3-15.m4a 
+audio: /assets/audio/21lessons/3-15.m4a
 ---
 
 Numbers are an essential part of our everyday life. Large numbers,
@@ -31,7 +31,7 @@ can wrap our head around:
 -  10¹²: One trillion seconds ago Manhattan was covered under a [thick
     layer of ice].
 
-{% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="xkcd-1125.png" caption="About 1 trillion seconds ago. Source: xkcd #1125" %}
+{% include image.html path="./assets/images/xkcd-1125.png" caption="About 1 trillion seconds ago. Source: xkcd #1125" %}
 
 As soon as we enter the beyond-astronomical realm of modern
 cryptography, our intuition fails catastrophically. Bitcoin is built
@@ -76,7 +76,7 @@ yourself a favor and take the five minutes to watch it. As all other
 [3Blue1Brown] videos it is not only fascinating but also exceptionally
 well made. Warning: You might fall down a math rabbit hole.
 
-{% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="youtube-vid.png" caption="Answer: Pretty secure." %}
+{% include image.html path="./assets/images/youtube-vid.png" caption="Answer: Pretty secure." %}
 
 [Bruce Schneier] used the physical limits of computation to put this
 number into perspective: even if we could build an optimal computer,
@@ -137,7 +137,7 @@ Simply generate a large number and you are pretty much good to go. The
 central authority of account creation is mathematics. And God only knows
 who is in charge of that.
 
-{% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="elliptic-curve-examples.png" caption="Elliptic curve examples (cc-by-sa Emmanuel Boutet)" %}
+{% include image.html path="./assets/images/elliptic-curve-examples.png" caption="Elliptic curve examples (cc-by-sa Emmanuel Boutet)" %}
 
 Bitcoin is built upon our best understanding of reality. While there are
 still many open problems in physics, computer science, and mathematics,

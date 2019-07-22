@@ -4,7 +4,7 @@ title: Lesson 20
 subtitle: Cypherpunks write code
 quote: "I see you're trying to invent something."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/3-20.m4a 
+audio: /assets/audio/21lessons/3-20.m4a
 ---
 
 Like many great ideas, Bitcoin didn't come out of nowhere. It was made
@@ -53,7 +53,7 @@ Thanks to this code, everyone can verify that this novel system actually
 works, and every 10 minutes or so Bitcoin proofs to the world that it is
 still living.
 
-{% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin version 0.1.0" %}
+{% include image.html path="./assets/images/bitcoin-v0.1-code.png" caption="Code excerpts from Bitcoin version 0.1.0" %}
 
 To make sure that his innovation transcends fantasy and becomes reality,
 Satoshi wrote code to implement his idea before he wrote the whitepaper.

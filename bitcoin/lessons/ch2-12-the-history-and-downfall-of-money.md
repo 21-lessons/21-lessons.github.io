@@ -4,7 +4,7 @@ title: Lesson 12
 subtitle: The history and downfall of money
 quote: "They would not remember the simple rules their friends had given them, such as, that, if you get into the fire, it will burn you, and that, if you cut your finger very deeply with a knife, it generally bleeds, and she had never forgotten that, if you drink a bottle marked \"poison,\" it is almost certain to disagree with you, sooner or later."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/2-12.m4a 
+audio: /assets/audio/21lessons/2-12.m4a
 ---
 
 Many people think that money is backed by gold, which is locked away in
@@ -32,7 +32,7 @@ good a certain type of fiat money is, is only correlated to the
 political and fiscal (in)stability of those who dream it into existence.
 Its value is imposed by decree, arbitrarily.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="fiat-definition.png" caption="fi·at /ˈfēˌät,ˈfēət/ --- 'Let it be done'" %}
+{% include image.html path="./assets/images/fiat-definition.png" caption="fi·at /ˈfēˌät,ˈfēət/ --- 'Let it be done'" %}
 
 Until recently, two types of money were used: **commodity money**, made
 out of precious *things*, and **representative money**, which simply
@@ -45,7 +45,7 @@ coin] found so far is made of a natural gold-and-silver mix and was made
 more than 2700 years ago. If something is new in Bitcoin, the concept of
 a coin is not it.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="lydian-coin-stater.png" caption="Lydian electrum coin" %}
+{% include image.html path="./assets/images/lydian-coin-stater.png" caption="Lydian electrum coin" %}
 
 Turns out that hoarding coins, or hodling, to use today's parlance, is
 almost as old as coins. The earliest coin hodler was someone who put
@@ -71,7 +71,7 @@ of these masters. He is attributed with adding the small stripes at the
 side of coins which are still present today. Gone were the days of easy
 coin shaving.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="clipped-coins.png" %}
+{% include image.html path="./assets/images/clipped-coins.png" %}
 
 Even with these methods of [coin debasement] kept in check, coins still
 suffer from other issues. They are bulky and not very convenient to
@@ -88,7 +88,7 @@ because Joachimsthal was *the* valley for silver coin production, people
 simply referred to these silver coins as *Thaler.* Thaler (German)
 morphed into daalders (Dutch), and finally dollars (English).
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="joachimsthaler.png" caption="The original 'dollar'. Saint Joachim is pictured with his robe and wizard hat. Picture cc-by-sa Berlin-George"%}
+{% include image.html path="./assets/images/joachimsthaler.png" caption="The original 'dollar'. Saint Joachim is pictured with his robe and wizard hat. Picture cc-by-sa Berlin-George"%}
 
 The introduction of representative money heralded the downfall of hard
 money. Gold certificates were introduced in 1863, and about fifteen
@@ -99,7 +99,7 @@ It took about 50 years from the introduction of the first [silver
 certificates] until these pieces of paper morphed into something that we
 would today recognize as one U.S. dollar.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="us-silver-dollar-note-smaller.png" caption="A 1928 U.S. silver dollar. 'Payable to the bearer on demand.' Picture credit to the National Numismatic Collection at the Smithsonian Institution" %}
+{% include image.html path="./assets/images/us-silver-dollar-note-smaller.png" caption="A 1928 U.S. silver dollar. 'Payable to the bearer on demand.' Picture credit to the National Numismatic Collection at the Smithsonian Institution" %}
 
 Note that the 1928 U.S. silver dollar above still goes by the name of
 *silver certificate*, indicating that this is indeed simply a document
@@ -125,7 +125,7 @@ the writing from top to bottom:
 > United States of America one hundred dollars in gold coin payable to
 > the bearer on demand."
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="us-gold-cert-100-smaller.png" caption="Picture credit to National Numismatic Collection, National Museum of American History." %}
+{% include image.html path="./assets/images/us-gold-cert-100-smaller.png" caption="Picture credit to National Numismatic Collection, National Museum of American History." %}
 
 In 1963, the words "PAYABLE TO THE BEARER ON DEMAND" were removed from
 all newly issued notes. Five years later, the redemption of paper notes
@@ -143,7 +143,7 @@ an army and operating jails says it is worth something. As can be
 clearly read on every dollar note in circulation today, "THIS NOTE IS
 LEGAL TENDER". In other words: It is valuable because the note says so.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="us-dollar-2004.jpg" caption="A 2004 series U.S. twenty dollar note used today. 'THIS NOTE IS LEGAL TENDER'" %}
+{% include image.html path="./assets/images/us-dollar-2004.jpg" caption="A 2004 series U.S. twenty dollar note used today. 'THIS NOTE IS LEGAL TENDER'" %}
 
 By the way, there is another interesting lesson on today's bank notes,
 hidden in plain sight. The second line reads that this is legal tender

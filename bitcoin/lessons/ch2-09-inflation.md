@@ -4,7 +4,7 @@ title: Lesson 9
 subtitle: Inflation
 quote: "My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/2-09.m4a 
+audio: /assets/audio/21lessons/2-09.m4a
 ---
 
 Trying to understand monetary inflation, and how a non-inflationary
@@ -52,7 +52,7 @@ paper money in your wallet will still be there, of course. But it will
 be exactly that: worthless paper.
 
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="children-playing-with-money.png" caption="Hyperinflation in the Weimar Republic (1921-1923)" %}
+{% include image.html path="./assets/images/children-playing-with-money.png" caption="Hyperinflation in the Weimar Republic (1921-1923)" %}
 
 Money declines in value with so-called "mild" inflation as well. It
 just happens slowly enough that most people don't notice the diminishing

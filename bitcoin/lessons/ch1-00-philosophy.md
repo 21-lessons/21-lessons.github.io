@@ -4,7 +4,7 @@ title: Chapter I
 subtitle: Philosophy
 quote: "The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-00.m4a 
+audio: /assets/audio/21lessons/1-00.m4a
 ---
 
 Looking at Bitcoin superficially, one might conclude that it is slow, wasteful,
@@ -16,7 +16,7 @@ After a while, just when you were about to get comfortable again, Bitcoin will
 smash through the wall like a bull in a china shop and shatter your assumptions
 once more.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="blind-monks.jpg" caption="Blind monks examining the Bitcoin bull" %}
+{% include image.html path="./assets/images/blind-monks.jpg" caption="Blind monks examining the Bitcoin bull" %}
 
 Bitcoin is a child of many disciplines. Like blind monks examining an elephant,
 everyone who approaches this novel technology does so from a different angle.

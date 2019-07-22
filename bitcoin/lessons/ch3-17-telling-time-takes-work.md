@@ -19,7 +19,7 @@ complex is *telling the time* in a decentralized system.
 As outlined in the whitepaper, the proof-of-work system (aka mining) is
 a way to implement a distributed timestamp server.
 
-{% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="bitcoin-whitepaper-timestamp-wide.png" caption="Excerpts from the whitepaper. Did someone say timechain?" %}
+{% include image.html path="./assets/images/bitcoin-whitepaper-timestamp-wide.png" caption="Excerpts from the whitepaper. Did someone say timechain?" %}
 
 When I first learned how Bitcoin works I also thought that proof-of-work
 is inefficient and wasteful. After a while, I started to [shift my

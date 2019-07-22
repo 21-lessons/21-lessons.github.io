@@ -54,7 +54,7 @@ way. As Thompson summarized in his [*Reflections on Trusting Trust*][]:
 "The moral is obvious. You can't trust code that you did not totally
 create yourself."
 
-{% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="ken-thompson-hack.png" %}
+{% include image.html path="./assets/images/ken-thompson-hack.png" %}
 
 Thompson demonstrated that even if you have access to the source code,
 your compiler --- or any other program-handling program or
@@ -79,7 +79,7 @@ can't be seen, the backdoor can't be detected by optical inspection,
 which is one of the most important tamper-detection mechanism for chips
 like these.
 
-{% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="stealthy-hardware-trojan.png" caption="Stealthy Dopant-Level Hardware Trojans by Becker, Regazzoni, Paar, Burleson" %}
+{% include image.html path="./assets/images/stealthy-hardware-trojan.png" caption="Stealthy Dopant-Level Hardware Trojans by Becker, Regazzoni, Paar, Burleson" %}
 
 Sounds scary? Well, even if you would be able to build everything from
 scratch, you would still have to trust the underlying mathematics. You
@@ -119,7 +119,7 @@ the served binary was not tampered with by rebuilding it from scratch.
 Recently, a [pull-request] was merged to integrate Guix into the Bitcoin build
 process.
 
-{% include image.html otherPost="2019-04-02-technological-teachings-of-bitcoin" name="guix-bootstrap-dependencies.png" caption="Which came first, the chicken or the egg?" %}
+{% include image.html path="./assets/images/guix-bootstrap-dependencies.png" caption="Which came first, the chicken or the egg?" %}
 
 Luckily, Bitcoin doesn't rely on a single algorithm or piece of
 hardware. One effect of Bitcoin's radical decentralization is a

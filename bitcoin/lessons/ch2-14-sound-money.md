@@ -33,7 +33,7 @@ Bitcoin does away with the temptation to print money in an ingenious
 way. Satoshi was aware of our greed and fallibility --- this is why he
 chose something more reliable than human restraint: mathematics.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="supply-formula-white.png" caption="Bitcoin's supply formula" %}
+{% include image.html path="./assets/images/supply-formula-white.png" caption="Bitcoin's supply formula" %}
 
 While this formula is useful to describe Bitcoin's supply, it is
 actually nowhere to be found in the code. Issuance of new bitcoin is
@@ -44,7 +44,7 @@ be best seen by looking at the change in block reward, the reward paid
 out to whoever finds a valid block, which roughly happens every 10
 minutes.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="you-are-here.png" %}
+{% include image.html path="./assets/images/you-are-here.png" %}
 
 Formulas, logarithmic functions and exponentials are not exactly
 intuitive to understand. The concept of *soundness* might be easier to
@@ -121,7 +121,7 @@ stock-to-flow ratio will be. Spoiler alert: it will be high.
 
 How high? Well, it turns out that Bitcoin will get infinitely hard.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="stock-to-flow-white-cc-by-sources.png" caption="Visualization of stock and flow for USD, gold, and Bitcoin" %}
+{% include image.html path="./assets/images/stock-to-flow-white-cc-by-sources.png" caption="Visualization of stock and flow for USD, gold, and Bitcoin" %}
 
 
 
@@ -136,7 +136,7 @@ somewhere around the year 2140, effectively stopping the production of
 bitcoin. This is a long game. If you are reading this, you are still
 early.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="soundness-over-time.png" caption="Rising stock-to-flow ratio of bitcoin as compared to gold" %}
+{% include image.html path="./assets/images/soundness-over-time.png" caption="Rising stock-to-flow ratio of bitcoin as compared to gold" %}
 
 As bitcoin approaches infinite stock to flow ratio it will be the
 soundest money in existence. Infinite soundness is hard to beat.

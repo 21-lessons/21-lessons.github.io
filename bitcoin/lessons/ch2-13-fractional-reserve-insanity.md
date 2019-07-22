@@ -4,7 +4,7 @@ title: Lesson 13
 subtitle: Fractional Reserve Insanity
 quote: "Alas! it was too late: she went on growing and growing, and very soon had to kneel down: in another minute there was not room even for this, and she tried the effect of lying down, with one elbow against the door, and the other arm curled round her head. Still she went on growing, and as a last resource she put one arm out of the window, and one foot up the chimney, and said to herself \"now I can do no more—what will become of me?\""
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/2-13.m4a 
+audio: /assets/audio/21lessons/2-13.m4a
 ---
 
 Value and money aren't trivial topics, especially in today's times. The
@@ -67,7 +67,7 @@ don't have. Without a single Abracadabra, banks magically transform
 \$100 into one thousand dollars or more. Turns out 10x is easy. It only
 takes a couple of lending rounds.
 
-{% include image.html otherPost="2019-01-11-economic-teachings-of-bitcoin" name="money-multiplier.png" %}
+{% include image.html path="./assets/images/money-multiplier.png" %}
 
 Don't get me wrong: There is nothing wrong with lending. There is
 nothing wrong with interest. There isn't even anything wrong with good
