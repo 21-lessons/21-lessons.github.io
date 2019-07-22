@@ -4,7 +4,7 @@ title: Lesson 3
 subtitle: Replication and locality
 quote: "Next came an angry voice—the rabbit's—\"Pat, Pat! where are you?\""
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-03.m4a 
+audio: /assets/audio/21lessons/1-03.m4a
 ---
 
 Quantum mechanics aside, locality is a non-issue in the physical world.
@@ -65,7 +65,7 @@ Bitcoin taught me that locality is a tricky business.
 - 🎧 [Peter Van Valkenburg on Preserving the Freedom to Innovate with Public Blockchains][wbd049] WBD #49 hosted by Peter McCormack
 
 <!-- Through the Looking-Glass -->
-[a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
+[a magic spell]: https://dergigi.com/2018/08/17/the-magic-dust-of-cryptography/
 
 <!-- Down the Rabbit Hole -->
 [Daniel Dennett]: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf

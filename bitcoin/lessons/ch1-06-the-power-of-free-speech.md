@@ -4,7 +4,7 @@ title: Lesson 6
 subtitle: The power of free speech
 quote: "\"I beg your pardon?\" said the mouse, frowning, but very politely, \"did you speak?\""
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-06.m4a 
+audio: /assets/audio/21lessons/1-06.m4a
 ---
 
 Bitcoin is an idea. An idea which, in its current form, is the
@@ -54,7 +54,7 @@ are unstoppable.
 - [First Amendment to the United States Constitution][1st Amendment], [Crypto Wars], [illegal numbers], [illegal primes] on Wikipedia
 
 <!-- Through the Looking-Glass -->
-[a magic spell]: {% post_url /bitcoin/2018-08-17-the-magic-dust-of-cryptography %}  
+[a magic spell]: https://dergigi.com/2018/08/17/the-magic-dust-of-cryptography/
 
 <!-- Down the Rabbit Hole -->
 [1st Amendment]: https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution

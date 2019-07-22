@@ -4,7 +4,7 @@ title: Lesson 14
 subtitle: Sound money
 quote: "\"The first thing I've got to do,\" said Alice to herself, as she wandered about in the wood, \"is to grow to my right size, and the second thing is to find my way into that lovely garden. I think that will be the best plan.\""
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/2-14.m4a 
+audio: /assets/audio/21lessons/2-14.m4a
 ---
 
 The most important lesson I have learned from Bitcoin is that in the
@@ -195,7 +195,7 @@ Bitcoin taught me that sound money is essential.
 - [Money Supply][how much money there is], [Speed of Light][universal speed limit] on Wikipedia
 
 <!-- Internal -->
-[much energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
+[much energy]: https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/
 
 [Fr. Bernard W. Dempsey, S.J.]: https://www.jstor.org/stable/29769582
 [Jörg Guido Hülsmann]: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf

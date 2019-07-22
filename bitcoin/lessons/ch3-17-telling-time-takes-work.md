@@ -4,7 +4,7 @@ title: Lesson 17
 subtitle: Telling time takes work
 quote: "\"Dear, dear! I shall be too late!\""
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/3-17.m4a 
+audio: /assets/audio/21lessons/3-17.m4a
 ---
 
 It is often said that bitcoins are mined because thousands of computers
@@ -90,7 +90,7 @@ decentralized.
 - [Mining][bw-mining], [Controlled supply][bw-supply] on the Bitcoin Wiki
 
 [points out]: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
-[energy]: {% post_url /bitcoin/2018-06-10-bitcoin-s-energy-consumption %}
+[energy]: https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/
 [whitepaper]: https://bitcoin.org/bitcoin.pdf
 
 [pow-efficient]: https://blog.picks.co/pow-is-efficient-aa3d442754d3

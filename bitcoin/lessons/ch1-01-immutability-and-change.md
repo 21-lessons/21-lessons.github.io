@@ -4,7 +4,7 @@ title: Lesson 1
 subtitle: Immutability and change
 quote: "I wonder if I've been changed in the night. Let me think. Was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I'm not the same, the next question is 'Who in the world am I?' Ah, that's the great puzzle!"
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-01.m4a 
+audio: /assets/audio/21lessons/1-01.m4a
 ---
 
 Bitcoin is inherently hard to describe. It is a *new thing*, and any
@@ -79,7 +79,7 @@ Bitcoin taught me that it won't change. I will.
 - 🎧 [Tales From the Crypt][tftc] hosted by Marty Bent
 
 <!-- Internal -->
-[gravity]: {% post_url /bitcoin/2019-05-01-bitcoins-gravity %}
+[gravity]: https://dergigi.com/2019/05/01/bitcoins-gravity/
 [lesson18]: {{ 'bitcoin/lessons/ch3-18-move-slowly-and-dont-break-things' | absolute_url }}
 
 <!-- Further Reading -->
