@@ -1,0 +1,67 @@
+# Site/SEO settings
+email: dergigi@pm.me
+baseurl: ""
+paginate: 99 # TODO: Fix endless scroll / pagination
+paginate_path: "/page/:num"
+permalink: /:year/:month/:day/:title/
+google_analytics:
+
+name: Gigi
+title: dergigi.com
+description: >
+  Thoughts about Bitcoin and other things.
+url: https://dergigi.com
+twitter_username: dergigi
+default_img: /assets/images/avatar.jpg
+social:
+  - name: twitter
+    url: https://twitter.com/dergigi
+  - name: instagram
+    url: https://www.instagram.com/dergigi/
+  - name: github
+    url: https://github.com/dergigi
+  - name: medium
+    url: https://medium.com/@dergigi
+  - name: bitcoin
+    url: https://dergigi.com/support
+
+# Collections
+collections_dir: collections
+collections:
+  posts:
+    title: Posts
+  books:
+    title: Books
+    output: true
+    permalink: /bitcoin/resources/:slug
+  episodes:
+    title: Episodes
+    output: true
+
+# Author settings
+author:
+  - name: Gigi
+    bio: Bio as in biological?
+    url: https://dergigi.com/contact
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - env
+  - scripts
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md

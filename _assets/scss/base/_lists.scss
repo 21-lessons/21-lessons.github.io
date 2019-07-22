@@ -1,0 +1,113 @@
+//----------------------------------------------
+//  Lists
+//----------------------------------------------
+%no-list-style {
+  list-style-type: none;
+}
+
+.upper-roman ol {
+  list-style-type: upper-roman;
+}
+
+.toc {
+  li {
+    font-size: 1em !important;
+  }
+}
+
+//----------------------------------------------
+//  Post Lists
+//----------------------------------------------
+.post {
+  ol,
+  ul:not(.post__social):not(.lesson__navigation) {
+    margin: {
+      bottom: 1.5rem;
+      left: 1em;
+    }
+
+    & > li {
+      position: relative;
+      font-family: $font-post;
+      font-size: 1.2em;
+
+      &:not(:last-child) {
+        margin-bottom: 0.25rem;
+      }
+
+      p {
+        margin-bottom: 0;
+
+        font-size: inherit;
+      }
+    }
+  }
+}
+
+//----------------------------------------------
+//  Books
+//----------------------------------------------
+
+.books {
+  @extend %no-list-style;
+  @extend %no-margin-or-padding;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+
+  img {
+    display: block;
+    max-height:250px;
+    width: auto;
+    height: auto;
+  }
+}
+
+//----------------------------------------------
+//  Resources Navigation
+//----------------------------------------------
+.resources {
+  &__navigation {
+    @extend %no-list-style;
+    @extend %no-margin-or-padding;
+    justify-content: space-between;
+    display: flex;
+    vertical-align: bottom;
+  }
+}
+
+//----------------------------------------------
+//  Lesson Navigation
+//----------------------------------------------
+.lesson {
+  &__navigation {
+    @extend %no-list-style;
+    @extend %no-margin-or-padding;
+    justify-content: space-between;
+    display: flex;
+    vertical-align: bottom;
+
+    margin: 3em 0;
+
+    img { // white rabbit
+      height: 1em;
+      margin-right: -1em;
+    }
+
+    li {
+      @extend %no-margin-or-padding;
+
+      &:first-child {
+        & a:before {
+          content: "← "
+        }
+      }
+      &:last-child {
+        align: right;
+        & a:after {
+          content: " →"
+        }
+      }
+    }
+  }
+}
