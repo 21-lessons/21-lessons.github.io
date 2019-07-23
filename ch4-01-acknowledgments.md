@@ -2,7 +2,7 @@
 layout: lesson
 title: Acknowledgments
 quote: "\"Thank you,\" said Alice"
-categories: [bitcoin, lesson]
+
 ---
 
 Thanks to the countless authors and content producers who

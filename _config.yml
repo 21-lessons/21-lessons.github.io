@@ -24,17 +24,9 @@ social:
     url: https://dergigi.com/support
 
 # Collections
-collections_dir: collections
 collections:
-  posts:
-    title: Posts
-  books:
-    title: Books
-    output: true
-    permalink: /bitcoin/resources/:slug
-  episodes:
-    title: Episodes
-    output: true
+  lessons:
+    permalink: /:number
 
 # Author settings
 author:

@@ -3,7 +3,7 @@ layout: lesson
 title: Chapter III
 subtitle: Technology
 quote: "\"Now, I'll manage better this time\" she said to herself, and began by taking the little golden key, and unlocking the door that led into the garden"
-categories: [bitcoin, lesson]
+
 audio: /assets/audio/21lessons/3-00.m4a 
 ---
 
