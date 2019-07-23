@@ -26,7 +26,7 @@ social:
 # Collections
 collections:
   lessons:
-    permalink: /:number
+    permalink: /:slug
 
 # Author settings
 author:
