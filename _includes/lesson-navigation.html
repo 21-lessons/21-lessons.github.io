@@ -1,17 +1,10 @@
 {% assign tableOfContents = "Table of Contents" %}
 {% assign notFound = "Page Not Found" %}
 
-{% assign flow = "preface, toc, intro, philosophy, 1, 2, 3, 4, 5, 6, 7, economy, 8, 9, 10, 11, 12, 13, 14, technology, 15, 16, 17, 18, 19, 20, 21, conclusion, acknowledgments, translations, audio" %}
-
 {% assign pages_sorted = site.pages | concat: site.lessons | sort: 'order' %}
 
 {% for lesson in pages_sorted %}
-  {{ lesson.path }}
-  ==
-  {{ page.path }}
-  <br/>
   {% if lesson.path == page.path %}
-    GNAAAAAAAAAAAAAAAAAA
     {% assign idxp = forloop.index | minus: 1 | minus: 1 %}
     {% assign idxn = forloop.index | plus: 1 | minus: 1 %}
   {% endif %}
