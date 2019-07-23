@@ -26,7 +26,8 @@ social:
 # Collections
 collections:
   lessons:
-    permalink: /:slug
+    output: true
+    permalink: /:path # path = filename relative
 
 # Author settings
 author:
