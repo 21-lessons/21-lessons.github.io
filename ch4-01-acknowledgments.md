@@ -2,7 +2,6 @@
 layout: lesson
 title: Acknowledgments
 quote: "\"Thank you,\" said Alice"
-
 ---
 
 Thanks to the countless authors and content producers who

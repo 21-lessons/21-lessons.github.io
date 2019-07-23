@@ -3,7 +3,6 @@ layout: lesson
 title: Chapter I
 subtitle: Philosophy
 quote: "The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing."
-
 audio: /assets/audio/21lessons/1-00.m4a
 ---
 
