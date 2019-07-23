@@ -4,6 +4,7 @@ title: Preface
 quote: "Little Alice fell <br/> d <br/> o <br/> w <br/> n <br/> the hOle, <br/> bumped her head <br/> and bruised her soul."
 audio: /assets/audio/21lessons/0-00.m4a
 permalink: preface
+order: ch0-00
 ---
 
 Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
