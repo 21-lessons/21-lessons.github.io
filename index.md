@@ -8,9 +8,6 @@ description: An exploration of questions and lessons learned from falling down t
 quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 audio: /assets/audio/21lessons/21-lessons.m4a
-redirect_from:
-  - /bitcoin/lessons/21-lessons/
-  - lessons
 ---
 
 {% include player.html file=page.audio %}
@@ -38,12 +35,12 @@ lessons available.
 
 <center>
   <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}">Follow the white rabbit →</a></p>
-  <p><a href="{{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
+  <a href="{{ 'lessons/ch0-00-preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p><a href="{{ 'lessons/ch0-00-preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
 </center>
 
 
 <!-- Internal  -->
-[preface]: {{ 'bitcoin/lessons/ch0-00-preface' | absolute_url }}
-[translations]: {{ 'bitcoin/lessons/ch4-03-translations' | absolute_url }}
-[audio]: {{ 'bitcoin/lessons/ch4-04-audio' | absolute_url }}
+[preface]: {{ 'lessons/ch0-00-preface' | absolute_url }}
+[translations]: {{ 'lessons/ch4-03-translations' | absolute_url }}
+[audio]: {{ 'lessons/ch4-04-audio' | absolute_url }}

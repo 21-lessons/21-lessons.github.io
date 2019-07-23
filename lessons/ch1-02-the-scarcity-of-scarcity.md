@@ -4,7 +4,7 @@ title: Lesson 2
 subtitle: The scarcity of scarcity
 quote: "That's quite enough — I hope I sha'n't grow any more..."
 categories: [bitcoin, lesson]
-audio: /assets/audio/21lessons/1-02.m4a 
+audio: /assets/audio/21lessons/1-02.m4a
 ---
 
 In general, the advance of technology seems to make things more
@@ -50,7 +50,7 @@ In a time of abundance, Bitcoin taught me what real scarcity is.
 - 🎧 [PlanB – Modelling Bitcoin's digital scarcity through stock-to-flow techniques﻿][slp67] SLP #67 hosted by Stephan Livera
 
 <!-- Through the Looking-Glass -->
-[lesson14]: {{ 'bitcoin/lessons/ch2-14-sound-money' | absolute_url }}
+[lesson14]: {{ 'lessons/ch2-14-sound-money' | absolute_url }}
 
 <!-- Down the Rabbit Hole -->
 [Abundance]: https://www.diamandis.com/abundance
