@@ -3,8 +3,15 @@
 
 {% assign flow = "preface, toc, intro, philosophy, 1, 2, 3, 4, 5, 6, 7, economy, 8, 9, 10, 11, 12, 13, 14, technology, 15, 16, 17, 18, 19, 20, 21, conclusion, acknowledgments, translations, audio" %}
 
-{% for needle in flow %}
+{% assign pages_sorted = site.pages | concat: site.lessons | sort: 'order' %}
+
+{% for lesson in pages_sorted %}
+  {{ lesson.path }}
+  ==
+  {{ page.path }}
+  <br/>
   {% if lesson.path == page.path %}
+    GNAAAAAAAAAAAAAAAAAA
     {% assign idxp = forloop.index | minus: 1 | minus: 1 %}
     {% assign idxn = forloop.index | plus: 1 | minus: 1 %}
   {% endif %}
@@ -13,26 +20,26 @@
   {% endif %}
 {% endfor %}
 
-{% assign previousLesson = site.pages[idxp] %}
-{% assign toc = site.pages[idxtoc] %}
-{% assign nextLesson = site.pages[idxn] %}
+{% assign previousLesson = pages_sorted[idxp] %}
+{% assign toc = pages_sorted[idxtoc] %}
+{% assign nextLesson = pages_sorted[idxn] %}
 
 {% if include.style == "compact" %}
 <ul class="lesson__navigation">
   {% if previousLesson.title == notFound %}
   <li></li>
   {% else %}
-  <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="Previous"></a></li>
+  <li><a href="{{ previousLesson.url }}" title="Previous"></a></li>
   {% endif %}
 
   {% unless previousLesson.title == notFound or page.title == tableOfContents %}
-  <li><a href="{{ toc.path | remove: '.md' | absolute_url }}" title="{{ toc.title }}">ToC</a></li>
+  <li><a href="{{ toc.url }}" title="{{ toc.title }}">ToC</a></li>
   {% endunless %}
 
   {% if nextLesson.title == notFound %}
   <li></li>
   {% else %}
-  <li><a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="Next"></a></li>
+  <li><a href="{{ nextLesson.url }}" title="Next"></a></li>
   {% endif %}
 </ul>
 {% else %}
@@ -40,20 +47,20 @@
   {% if previousLesson.title == notFound %}
   <li></li>
   {% else %}
-  <li><a href="{{ previousLesson.path | remove: '.md' | absolute_url }}" title="{{ previousLesson.subtitle }}">
+  <li><a href="{{ previousLesson.url }}" title="{{ previousLesson.subtitle }}">
     {% unless previousLesson.title == tableOfContents %}{{ previousLesson.title }}{% endunless %}
   </a></li>
   {% endif %}
 
   {% unless previousLesson.title == notFound or page.title == tableOfContents %}
-  <li><a href="{{ toc.path | remove: '.md' | absolute_url }}">{{ toc.title }}</a></li>
+  <li><a href="{{ toc.url }}">{{ toc.title }}</a></li>
   {% endunless %}
 
   {% if nextLesson.title == notFound %}
   <li></li>
   {% else %}
   <li>
-    <a href="{{ nextLesson.path | remove: '.md' | absolute_url }}" title="{{ nextLesson.subtitle }}">
+    <a href="{{ nextLesson.url }}" title="{{ nextLesson.subtitle }}">
     {{ nextLesson.title }}
     </a>
     <img src="{{ 'assets/images/rabbit.png' | absolute_url }}" title="Follow the white rabbit..."/>
