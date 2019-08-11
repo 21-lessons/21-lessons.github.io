@@ -1,5 +1,5 @@
-{% assign pages_with_order = site.pages | where: "toc", true %}
-{% assign pages_sorted = pages_with_order | concat: site.lessons | sort: 'order' %}
+{% assign toc_pages = site.pages | where: "toc", true %}
+{% assign pages_sorted = toc_pages | concat: site.lessons | sort: 'order' %}
 
 <ul>
 {% for lesson in pages_sorted %}

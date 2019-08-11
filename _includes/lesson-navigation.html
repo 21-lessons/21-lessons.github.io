@@ -1,7 +1,9 @@
 {% assign tableOfContents = "Table of Contents" %}
 {% assign notFound = "Page Not Found" %}
 
-{% assign pages_sorted = site.pages | concat: site.lessons | sort: 'order' %}
+{% assign toc_pages = site.pages | where: "toc", true %}
+{% assign pages_sorted = toc_pages | concat: site.lessons | sort: 'order' %}
+{% assign lessons_count = pages_sorted | size %}
 
 {% for lesson in pages_sorted %}
   {% if lesson.path == page.path %}
@@ -19,7 +21,7 @@
 
 {% if include.style == "compact" %}
 <ul class="lesson__navigation">
-  {% if previousLesson.title == notFound %}
+  {% if idxp < 0 %}
   <li></li>
   {% else %}
   <li><a href="{{ previousLesson.url }}" title="Previous"></a></li>
@@ -29,7 +31,7 @@
   <li><a href="{{ toc.url }}" title="{{ toc.title }}">ToC</a></li>
   {% endunless %}
 
-  {% if nextLesson.title == notFound %}
+  {% if idxn >= lessons_count %}
   <li></li>
   {% else %}
   <li><a href="{{ nextLesson.url }}" title="Next"></a></li>
@@ -37,7 +39,7 @@
 </ul>
 {% else %}
 <ul class="lesson__navigation">
-  {% if previousLesson.title == notFound %}
+  {% if idxp < 0 %}
   <li></li>
   {% else %}
   <li><a href="{{ previousLesson.url }}" title="{{ previousLesson.subtitle }}">
@@ -49,7 +51,7 @@
   <li><a href="{{ toc.url }}">{{ toc.title }}</a></li>
   {% endunless %}
 
-  {% if nextLesson.title == notFound %}
+  {% if idxn >= lessons_count %}
   <li></li>
   {% else %}
   <li>
