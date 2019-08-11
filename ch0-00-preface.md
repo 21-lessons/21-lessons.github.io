@@ -5,6 +5,7 @@ quote: "Little Alice fell <br/> d <br/> o <br/> w <br/> n <br/> the hOle, <br/> 
 audio: /assets/audio/21lessons/0-00.m4a
 permalink: preface
 order: ch0-00
+toc: true
 ---
 
 Falling down the Bitcoin rabbit hole is a strange experience. Like many others,

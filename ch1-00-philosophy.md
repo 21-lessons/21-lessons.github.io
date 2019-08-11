@@ -6,6 +6,7 @@ quote: "The mouse looked at her rather inquisitively, and seemed to her to wink 
 audio: /assets/audio/21lessons/1-00.m4a
 permalink: philosophy
 order: ch1-00
+toc: true
 ---
 
 Looking at Bitcoin superficially, one might conclude that it is slow, wasteful,

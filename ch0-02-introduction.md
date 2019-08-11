@@ -5,6 +5,7 @@ quote: "\"But I don’t want to go among mad people,\" Alice remarked.</br> \"Oh
 audio: /assets/audio/21lessons/0-02.m4a
 permalink: intro
 order: ch0-02
+toc: true
 ---
 
 In October 2018, Arjun Balaji asked the innocuous question, [*What have you

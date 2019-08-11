@@ -5,6 +5,7 @@ quote: "\"Would you tell me, please, which way I ought to go from here?\"<br/> \
 audio: /assets/audio/21lessons/0-01.m4a
 permalink: toc
 order: ch0-01
+toc: true
 ---
 
 {% include lesson-toc.html %}

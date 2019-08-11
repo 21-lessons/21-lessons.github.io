@@ -6,6 +6,7 @@ quote: "A large rose tree stood near the entrance of the garden: the roses on it
 audio: /assets/audio/21lessons/2-00.m4a
 permalink: economics
 order: ch2-00
+toc: true
 ---
 
 Money doesn’t grow on trees. To believe that it does is foolish, and our

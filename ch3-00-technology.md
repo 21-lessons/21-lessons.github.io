@@ -6,6 +6,7 @@ quote: "\"Now, I'll manage better this time\" she said to herself, and began by 
 audio: /assets/audio/21lessons/3-00.m4a
 permalink: technology
 order: ch3-00
+toc: true
 ---
 
 Golden keys, clocks which only work by chance, races to solve strange riddles,
