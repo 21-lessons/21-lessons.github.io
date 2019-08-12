@@ -14,8 +14,6 @@ toc: true
 - 🇹🇷 [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
 - 🇨🇳 [Chapter I][zh-all], [Chapter II][zh-all], and [Chapter III][zh-all] is available in Chinese thanks to [@andywan][andywan]. Some additional images and figures were added.
 
-{% include bibliography.md %}
-
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
 [tr-philosophy]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
 [tr-economics]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525
