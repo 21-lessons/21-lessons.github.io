@@ -1,14 +1,14 @@
 # Site/SEO settings
 email: dergigi@pm.me
-baseurl: ""
+baseurl: "https://21lessons.com"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Gigi
-title: dergigi.com
+title: 21lessons.com
 description: >
-  Thoughts about Bitcoin and other things.
-url: https://dergigi.com
+  21 Lessons Learned from Falling Down the Bitcoin Rabbit Hole.
+url: https://21lessons.com
 twitter_username: dergigi
 default_img: /assets/images/avatar.jpg
 social:
