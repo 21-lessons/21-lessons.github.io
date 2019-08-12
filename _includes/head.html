@@ -5,9 +5,9 @@
 {% capture fullTitle %}
   {% if page.title %}
     {% if page.subtitle %}
-      {{ page.title | escape }} - {{ page.subtitle | escape }} | {{ site.title }}
+      {{ page.title | escape }} - {{ page.subtitle | escape }} - {{ site.title }}
     {% else %}
-      {{ page.title | escape }} | {{ site.title }}
+      {{ page.title | escape }} - {{ site.title }}
     {% endif %}
   {% else %}
     {{ site.title | escape }}

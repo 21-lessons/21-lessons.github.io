@@ -1,11 +1,11 @@
 # Site/SEO settings
 email: dergigi@pm.me
-baseurl: "https://21lessons.com"
+baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Gigi
-title: 21lessons.com
+title: 21 Lessons
 description: >
   21 Lessons Learned from Falling Down the Bitcoin Rabbit Hole.
 url: https://21lessons.com
