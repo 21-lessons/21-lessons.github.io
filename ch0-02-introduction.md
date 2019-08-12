@@ -75,9 +75,9 @@ teach you. You will have to find that out for yourself.
 [this question]: https://twitter.com/arjunblj/status/1050073234719293440
 
 <!-- Internal -->
-[chapter1]: {{ 'lessons/ch1-00-philosophy' | absolute_url }}
-[chapter2]: {{ 'lessons/ch2-00-economics' | absolute_url }}
-[chapter3]: {{ 'lessons/ch3-00-technology' | absolute_url }}
+[chapter1]: {{ 'philosophy' | absolute_url }}
+[chapter2]: {{ 'economics' | absolute_url }}
+[chapter3]: {{ 'technology' | absolute_url }}
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland

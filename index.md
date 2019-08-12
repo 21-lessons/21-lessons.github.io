@@ -35,12 +35,12 @@ lessons available.
 
 <center>
   <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'lessons/ch0-00-preface' | absolute_url }}">Follow the white rabbit →</a></p>
-  <p><a href="{{ 'lessons/ch0-00-preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
+  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
 </center>
 
 
 <!-- Internal  -->
-[preface]: {{ 'lessons/ch0-00-preface' | absolute_url }}
-[translations]: {{ 'lessons/ch4-03-translations' | absolute_url }}
-[audio]: {{ 'lessons/ch4-04-audio' | absolute_url }}
+[preface]: {{ 'preface' | absolute_url }}
+[translations]: {{ 'translations' | absolute_url }}
+[audio]: {{ 'audio' | absolute_url }}
