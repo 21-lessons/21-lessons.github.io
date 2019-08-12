@@ -9,16 +9,15 @@
   {% assign skipUntil = "Lesson 14" %}
 {% endcase %}
 <ul>
-{% for lesson in site.pages %}
-  {% if lesson.categories contains 'lesson' and lesson.title contains 'Lesson ' %}
-    {% if lesson.title == skipUntil %}{% assign skipUntil = false %}{% continue %}{% endif %}
-    {% if skipUntil %}{% continue %}{% endif %}
-    <li>
-      <a href="{{ lesson.path | remove: '.md' | absolute_url }}">
-        {{ lesson.title }}: {{ lesson.subtitle }}
-      </a>
-    </li>
-    {% if lesson.title == breakAfter %}{% break %}{% endif %}
-  {% endif %}
+{% assign lessons_sorted = site.lessons | sort: 'order' %}
+{% for lesson in lessons_sorted %}
+  {% if lesson.title == skipUntil %}{% assign skipUntil = false %}{% continue %}{% endif %}
+  {% if skipUntil %}{% continue %}{% endif %}
+  <li>
+    <a href="{{ lesson.path | remove: '.md' | absolute_url }}">
+      {{ lesson.title }}: {{ lesson.subtitle }}
+    </a>
+  </li>
+  {% if lesson.title == breakAfter %}{% break %}{% endif %}
 {% endfor %}
 </ul>
