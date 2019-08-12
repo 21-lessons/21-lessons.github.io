@@ -46,7 +46,7 @@ Once more, strap in and enjoy the ride. Like all exponential technologies, we
 are about to go parabolic.
 
 <!-- Internal -->
-[chapter2]: {{ 'lessons/ch2-00-economics' | absolute_url }}
+[chapter2]: {{ 'economics' | absolute_url }}
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland

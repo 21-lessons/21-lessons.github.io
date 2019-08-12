@@ -30,12 +30,13 @@ thanks to the fine folks who were kind enough to [interview me][interviews]:
 - [21 Lessons, Chapter 2][turm9] on Bitcoin im Turm
 - [21 Lessons, Chapter 3][turm10] on Bitcoin im Turm
 
-{% include bibliography.md %}
+[interviews]: https://dergigi.com/bitcoin/interviews/
 
 [ch1-audio]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_256---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-1-e47u83
 [ch2-audio]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_257---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-2-e489f9
 [ch3-audio]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_258---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-3-e48kao
 [Guy Swann]: https://twitter.com/TheCryptoconomy
+[cryptoconomy]: https://cryptoconomy.life/
 [cb38]: https://citizenbitcoin.world/episodes/gigi-21-lessons-from-down-the-bitcoin
 [turm8]: https://media.zencast.fm/bitcoin-im-turm/episodes/8
 [turm9]: https://media.zencast.fm/bitcoin-im-turm/episodes/9
