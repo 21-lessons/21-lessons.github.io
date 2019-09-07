@@ -12,5 +12,5 @@ amazon_url:
 wikipedia_url: 
 free_url: 
 rating_order: 
-lesson: 
+lesson: ['']
 ---

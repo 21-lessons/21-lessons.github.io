@@ -13,5 +13,5 @@ wikipedia_url:
 free_url: 
 permalink: books/the-internet-of-money-volume-2
 rating_order: 8
-lesson: 
+lesson: ['']
 ---

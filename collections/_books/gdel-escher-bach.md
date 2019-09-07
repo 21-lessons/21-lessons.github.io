@@ -13,5 +13,5 @@ wikipedia_url:
 free_url: 
 permalink: books/gödel-escher-bach
 rating_order: 10
-lesson: 
+lesson: ['']
 ---

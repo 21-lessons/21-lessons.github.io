@@ -12,5 +12,5 @@ amazon_url: https://www.amazon.com/dp/B005CR8E7C
 wikipedia_url: 
 free_url: https://mises-media.s3.amazonaws.com/Economic%20Depressions%20Their%20Cause%20and%20Cure_4.pdf
 rating_order: 
-lesson: 8
+lesson: ['8']
 ---

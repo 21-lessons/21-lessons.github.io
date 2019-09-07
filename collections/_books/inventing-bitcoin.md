@@ -12,5 +12,5 @@ amazon_url: https://www.amazon.com/dp/B07MWXRWNB/
 wikipedia_url: 
 free_url: 
 rating_order: 7
-lesson: 
+lesson: ['']
 ---
