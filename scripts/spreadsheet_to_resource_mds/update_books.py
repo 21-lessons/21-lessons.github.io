@@ -38,7 +38,7 @@ for row in books.get_all_values():
     else:
         permalink_line = ''
     resource_rating_order = row[13]
-    resource_lesson = row[14]
+    resource_lesson = row[14].lstrip().rstrip().split(',')
     resource_excerpt = get_excerpt_from_page(resource_url)
 
     md_file_path = title_to_file_path(resource_title, resource_type)
