@@ -38,6 +38,9 @@ collections:
   articles:
     title: Articles
     output: true
+  links:
+    title: Links 
+    output: true
 
 # Author settings
 author:
