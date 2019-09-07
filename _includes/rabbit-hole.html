@@ -1,0 +1,13 @@
+{% assign articles = site.articles | where: 'lesson', include.lesson %}
+{% assign episodes = site.episodes | where: 'lesson', include.lesson %}
+{% assign links = site.links | where: 'lesson', include.lesson %}
+
+{% assign resources = articles | concat: episodes | concat: links | sort: 'date' %}
+
+<ul class="resources">
+{% for resource in resources %}
+  <li>
+    <a href="{{ resource.link }}" target="_blank">{{ resource.title }}</a> by {{ resource.author }}
+  </li>
+{% endfor %}
+</ul>
