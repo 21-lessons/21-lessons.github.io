@@ -24,10 +24,20 @@ social:
     url: https://dergigi.com/support
 
 # Collections
+collections_dir: collections
 collections:
   lessons:
     output: true
     permalink: /:path/ # path = filename relative
+  books:
+    title: Books
+    output: true
+  episodes:
+    title: Episodes
+    output: true
+  articles:
+    title: Articles
+    output: true
 
 # Author settings
 author:
