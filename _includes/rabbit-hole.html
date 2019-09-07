@@ -21,7 +21,12 @@
 {% endfor %}
 {% for book in books %}
   <li>
-    📚 <a href="{{ book.resource_url }}" taret="_blank">{{ book.title }} - {{ book.subtitle }}</a> by {{ book.authors }}
+    {% if book.subtitle %}
+      {% assign fullTitle = book.title | append: ' - ' | append: book.subtitle %}
+    {% else %}
+      {% assign fullTitle = book.title %}
+    {% endif %}
+    📚 <a href="{{ book.resource_url }}" taret="_blank">{{ fullTitle }}</a> by {{ book.authors }}
   </li>
 {% endfor %}
 </ul>
