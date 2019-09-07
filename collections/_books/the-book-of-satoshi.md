@@ -12,4 +12,5 @@ amazon_url: https://www.amazon.com/dp/0996061312
 wikipedia_url: 
 free_url: https://satoshi.nakamotoinstitute.org/
 rating_order: 
+lesson: 
 ---
