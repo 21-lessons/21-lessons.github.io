@@ -1,13 +1,24 @@
-{% assign articles = site.articles | where: 'lesson', include.lesson %}
-{% assign episodes = site.episodes | where: 'lesson', include.lesson %}
-{% assign links = site.links | where: 'lesson', include.lesson %}
+{% assign articles = site.articles | where: 'lesson', include.lesson | sort: 'date' %}
+{% assign links = site.links | where: 'lesson', include.lesson | sort: 'date' %}
+{% assign episodes = site.episodes | where: 'lesson', include.lesson | sort: 'date' %}
 
 {% assign resources = articles | concat: episodes | concat: links | sort: 'date' %}
 
 <ul class="resources">
-{% for resource in resources %}
+{% for article in articles %}
   <li>
-    <a href="{{ resource.link }}" target="_blank">{{ resource.title }}</a> by {{ resource.author }}
+    <a href="{{ article.link }}" target="_blank">{{ article.title }}</a> by {{ article.author }}
+  </li>
+{% endfor %}
+{% for link in links %}
+  <li>
+    <a href="{{ link.link }}" target="_blank">{{ link.title }}</a> by {{ link.author }}
+  </li>
+{% endfor %}
+{% for sode in episodes %}
+  <li>
+    <a href="{{ sode.link }}" taret="_blank">🎧 {{ sode.title }}</a><br/>
+    {{ sode.podcast }} #{{ sode.episode }} hosted by {{ sode.hosts }}
   </li>
 {% endfor %}
 </ul>
