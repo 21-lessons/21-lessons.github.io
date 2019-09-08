@@ -19,11 +19,12 @@ After writing 21 Lessons, I wrote some articles and essays to explore a few of B
 
 Find all 'Down the Rabbit Hole' links for each lesson below. A curated list of Bitcoin resources is available at [bitcoin-resources.com][resources].
 
-{% for i in (1..21) %}
+{% assign lessons_sorted = site.lessons | sort: 'order' %}
+{% for lesson in lessons_sorted %}
 
-#### Lesson {{ i }}
+#### {{ lesson.title }}: {{ lesson.subtitle }}
 
-{% include rabbit-hole.html lesson=i %}
+{% include rabbit-hole.html lesson=forloop.index %}
 
 {% endfor %}
 
