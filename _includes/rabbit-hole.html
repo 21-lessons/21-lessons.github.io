@@ -16,7 +16,8 @@
 {% endfor %}
 {% for sode in episodes %}
   <li>
-    🎧 <a href="{{ sode.link }}" taret="_blank">{{ sode.title }}</a> {{ sode.podcast }}#{{ sode.episode }} hosted by {{ sode.hosts }}
+    🎧 <a href="{{ sode.link }}" taret="_blank">{{ sode.title }}</a><br/>
+    {{ sode.podcast }}#{{ sode.episode }} hosted by {{ sode.hosts }}
   </li>
 {% endfor %}
 {% for book in books %}
