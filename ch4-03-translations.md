@@ -14,7 +14,7 @@ toc: true
 - 🇹🇷 [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
 - 🇨🇳 [Chapter I][zh-all], [Chapter II][zh-all], and [Chapter III][zh-all] is available in Chinese thanks to [@andywan][andywan]. Some additional images and figures were added.
 - 🇩🇪 [Chapter I][de-philosophy], [Chapter II][de-economics], and [Chapter III][de-technology] is available in German thanks to [@CryptoMulde][cryptomulde].
-- 🇫🇮 [Chapter I][fin-philosophy], and [Chapter II][fin-economics] are available in Finnish thanks to [Thomas Brand][thomas-brand]. ([ToC][fin-toc])
+- 🇫🇮 [Chapter I][fin-philosophy], and [Chapter II][fin-economics] are available in Finnish thanks to [Thomas Brand][thomas-brand]. The entry point of the Finnish rabbit hole is [here][fin-toc].
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
