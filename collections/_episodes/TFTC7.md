@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Matt Corallo on how everyone is ignorant when it comes to Bitcoin
+title: Matt Corallo on how Everyone is Ignorant when it comes to Bitcoin
 podcast: TFTC
 episode: 7
 hosts: Marty Bent
