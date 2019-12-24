@@ -10,11 +10,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 audio: /assets/audio/21lessons/21-lessons.m4a
 ---
 
-[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-book.png)][preface]
-
----
-
-{% include player.html file=page.audio %}
+[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-book.png)][amazon]
 
 ---
 
@@ -31,12 +27,18 @@ lessons available.
 
 ---
 
+{% include player.html file=page.audio %}
+
+---
+
 <center>
   <p>Ready to enter Wonderland?<br/>
   <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
   <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
 </center>
 
+<!-- Links -->
+[amazon]: https://www.amazon.com/dp/1697526349/
 
 <!-- Internal  -->
 [preface]: {{ 'preface' | absolute_url }}
