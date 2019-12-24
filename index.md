@@ -31,10 +31,6 @@ lessons available.
 
 ---
 
-{% include lesson-toc.html %}
-
----
-
 <center>
   <p>Ready to enter Wonderland?<br/>
   <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
