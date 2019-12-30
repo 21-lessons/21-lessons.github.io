@@ -17,6 +17,7 @@ toc: true
 - 🇩🇪 Another German translation was done by [Rene] from blocktrainer: [Vorwort], [Einleitung], [Philosophie], [1], [2], [3], [4], [5], [6], [7], [Ökonomie], [8], [9], [11], [12], [13], [14], [Technologie], [15], [16], [17], [18], [19], [20], [21], [Fazit]
 - 🇫🇮 [Chapter I][fin-philosophy], [Chapter II][fin-economics], and [Chapter III][fin-technology] are available in Finnish thanks to [Thomas Brand][thomas-brand]. The entry point of the Finnish rabbit hole is [here][fin-toc].
 - 🇧🇷 [Chapter I][pt-BR-philosophy], [Chapter II][pt-BR-economics], and [Chapter III][pt-BR-technology] are available in Brazilian Portuguese thanks to [Bit Dov][bitdov]. The entry point of the Brazilian rabbit hole is [here][pt-BR-all].
+- 🇯🇵 [Chapter I][jp-philosophy] is available in Japanese thanks to [katakoto].
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
@@ -35,6 +36,7 @@ toc: true
 [pt-BR-economics]: https://youtu.be/0B9pzGt06Z0?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe
 [pt-BR-technology]: https://youtu.be/IrEk97349dk?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe
 [pt-BR-all]: https://www.youtube.com/playlist?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe
+[jp-philosophy]: https://alischool.me/magazines/katakoto/21lessons
 
 <!-- German Translation by Rene from Blocktrainer -->
 [Vorwort]: https://www.blocktrainer.de/2019/12/1-tuerchen-21-lektionen-vorwort/
@@ -71,5 +73,7 @@ toc: true
 [deniz]: https://twitter.com/deniz_zgur
 [cryptomulde]: https://twitter.com/CryptoMulde
 [Rene]: https://www.blocktrainer.de/author/rene/
+<!-- https://twitter.com/da_renn4 -->
 [thomas-brand]: https://twitter.com/thlbr
 [bitdov]: https://twitter.com/bitdov
+[katakoto]: https://twitter.com/katakoto
