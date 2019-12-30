@@ -16,6 +16,7 @@ toc: true
 - 🇩🇪 [Chapter I][de-philosophy], [Chapter II][de-economics], and [Chapter III][de-technology] is available in German thanks to [@CryptoMulde][cryptomulde].
 - 🇩🇪 Another German translation was done by [Rene] from blocktrainer: [Vorwort], [Einleitung], [Philosophie], [1], [2], [3], [4], [5], [6], [7], [Ökonomie], [8], [9], [11], [12], [13], [14], [Technologie], [15], [16], [17], [18], [19], [20], [21], [Fazit]
 - 🇫🇮 [Chapter I][fin-philosophy], [Chapter II][fin-economics], and [Chapter III][fin-technology] are available in Finnish thanks to [Thomas Brand][thomas-brand]. The entry point of the Finnish rabbit hole is [here][fin-toc].
+- 🇧🇷 [Chapter I][pt-BR-philosophy], [Chapter II][pt-BR-economics], and [Chapter III][pt-BR-technology] are available in Brazilian Portuguese thanks to [Bit Dov][bitdov]. The entry point of the Brazilian rabbit hole is [here][pt-BR-all].
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
@@ -26,6 +27,16 @@ toc: true
 [de-philosophy]: https://medium.com/@cryptomulde/122bcc603afb
 [de-economics]: https://medium.com/@cryptomulde/78f38793e17a
 [de-technology]: https://medium.com/@cryptomulde/26b86c456dc
+[fin-philosophy]: https://medium.com/brandin-kirjasto/21-oppituntia-82db42069528
+[fin-economics]: https://medium.com/brandin-kirjasto/21-oppituntia-7e3433fecc58
+[fin-technology]: https://medium.com/brandin-kirjasto/21-oppituntia-1d9f343eafea
+[fin-toc]: https://medium.com/brandin-kirjasto/21-oppituntia-110265683fce
+[pt-BR-philosophy]: https://youtu.be/XV2bxmA1EXA?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe
+[pt-BR-economics]: https://youtu.be/0B9pzGt06Z0?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe
+[pt-BR-technology]: https://youtu.be/IrEk97349dk?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe
+[pt-BR-all]: https://www.youtube.com/playlist?list=PLgcVYwONyxmgRqmVN3dl87waF-EvyULHe
+
+<!-- German Translation by Rene from Blocktrainer -->
 [Vorwort]: https://www.blocktrainer.de/2019/12/1-tuerchen-21-lektionen-vorwort/
 [Einleitung]: https://www.blocktrainer.de/2019/12/2-tuerchen-einleitung/
 [Philosophie]: https://www.blocktrainer.de/2019/12/3-tuerchen-philosophie-lektion-1/
@@ -53,10 +64,6 @@ toc: true
 [20]: https://www.blocktrainer.de/2019/12/22-tuerchen-lektion-20/
 [21]: https://www.blocktrainer.de/2019/12/23-tuerchen-lektion-21/
 [Fazit]: https://www.blocktrainer.de/2019/12/24-tuerchen-fazit/
-[fin-philosophy]: https://medium.com/brandin-kirjasto/21-oppituntia-82db42069528
-[fin-economics]: https://medium.com/brandin-kirjasto/21-oppituntia-7e3433fecc58
-[fin-technology]: https://medium.com/brandin-kirjasto/21-oppituntia-1d9f343eafea
-[fin-toc]: https://medium.com/brandin-kirjasto/21-oppituntia-110265683fce
 
 <!-- Persons -->
 [andywan]: https://twitter.com/andywan
@@ -65,3 +72,4 @@ toc: true
 [cryptomulde]: https://twitter.com/CryptoMulde
 [Rene]: https://www.blocktrainer.de/author/rene/
 [thomas-brand]: https://twitter.com/thlbr
+[bitdov]: https://twitter.com/bitdov
