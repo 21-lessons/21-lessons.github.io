@@ -14,7 +14,7 @@ toc: true
 - 🇹🇷 [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
 - 🇨🇳 [Chapter I][zh-all], [Chapter II][zh-all], and [Chapter III][zh-all] is available in Chinese thanks to [@andywan][andywan]. Some additional images and figures were added.
 - 🇩🇪 [Chapter I][de-philosophy], [Chapter II][de-economics], and [Chapter III][de-technology] is available in German thanks to [@CryptoMulde][cryptomulde].
-- 🇩🇪 Another German translation was done by [Rene] from blocktrainer: [Vorwort], [Einleitung], [Philosophie], [1], [2], [3], [4], [5], [6], [7], [Ökonomie], [8], [9], [11], [12], [13], [14], [Technologie], [15], [16], [17], [18], [19], [20], [21], [Fazit]
+- 🇩🇪 Another German translation was done by [Rene] from blocktrainer: [Vorwort], [Einleitung], [Philosophie], [1], [2], [3], [4], [5], [6], [7], [Ökonomie], [8], [9], [10], [11], [12], [13], [14], [Technologie], [15], [16], [17], [18], [19], [20], [21], [Fazit]
 - 🇫🇮 [Chapter I][fin-philosophy], [Chapter II][fin-economics], and [Chapter III][fin-technology] are available in Finnish thanks to [Thomas Brand][thomas-brand]. The entry point of the Finnish rabbit hole is [here][fin-toc].
 - 🇧🇷 [Chapter I][pt-BR-philosophy], [Chapter II][pt-BR-economics], and [Chapter III][pt-BR-technology] are available in Brazilian Portuguese thanks to [Bit Dov][bitdov]. The entry point of the Brazilian rabbit hole is [here][pt-BR-all].
 - 🇯🇵 [Chapter I][jp-philosophy] is available in Japanese thanks to [katakoto].
