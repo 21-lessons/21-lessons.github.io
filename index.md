@@ -44,7 +44,7 @@ lessons available.
 </center>
 
 <!-- Links -->
-[amazon]: https://www.amazon.com/dp/1697526349/
+[amazon]: https://amzn.to/2VXmQgp
 
 <!-- Internal  -->
 [preface]: {{ 'preface' | absolute_url }}
