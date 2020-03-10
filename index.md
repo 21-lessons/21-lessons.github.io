@@ -12,6 +12,12 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 [![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-book.png)][amazon]
 
+<center>
+<p>
+Now <a href="https://amzn.to/38FG8JZ" title="Nun auch auf Deutsch erhältlich!">also available in German</a>! 🇩🇪
+</p>
+</center>
+
 ---
 
 > The White Rabbit put on his spectacles. 'Where shall I begin, please your
