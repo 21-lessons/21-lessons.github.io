@@ -22,7 +22,7 @@ Find all 'Down the Rabbit Hole' links for each lesson below. A curated list of B
 {% assign lessons_sorted = site.lessons | sort: 'order' %}
 {% for lesson in lessons_sorted %}
 
-#### {{ lesson.title }}: {{ lesson.subtitle }}
+#### [{{ lesson.title }}]({{ lesson.url }}): {{ lesson.subtitle }}
 
 {% include rabbit-hole.html lesson=forloop.index %}
 
