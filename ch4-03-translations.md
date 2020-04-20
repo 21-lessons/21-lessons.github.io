@@ -18,7 +18,7 @@ toc: true
 - 🇫🇮 [Chapter I][fin-philosophy], [Chapter II][fin-economics], and [Chapter III][fin-technology] are available in Finnish thanks to [Thomas Brand][thomas-brand]. The entry point of the Finnish rabbit hole is [here][fin-toc].
 - 🇧🇷 [Chapter I][pt-BR-philosophy], [Chapter II][pt-BR-economics], and [Chapter III][pt-BR-technology] are available in Brazilian Portuguese thanks to [Bit Dov][bitdov]. The entry point of the Brazilian rabbit hole is [here][pt-BR-all].
 - 🇯🇵 [Chapter I][jp-philosophy], [Chapter II][jp-economics], and [Chapter III][jp-technology] is available in Japanese thanks to [katakoto].
-- 🇬🇷 [Chapter I][gr-philosophy], [Chapter II][gr-economics] is available in Greek thanks to [nikos].
+- 🇬🇷 [Chapter I][gr-philosophy], [Chapter II][gr-economics], and [Chapter III][gr-technology] is available in Greek thanks to [nikos].
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
@@ -42,6 +42,7 @@ toc: true
 [jp-technology]: https://alis.to/katakoto/articles/365Q0JGyp9PZ
 [gr-philosophy]: https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9-%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CE%BF%CF%86%CE%AF%CE%B1-c5dba0672ea2
 [gr-economics]: https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9%CE%B9-%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AC-c9539cccd687
+[gr-technology]: https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9%CE%B9%CE%B9-%CF%84%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1-5a2cd7c87059
 
 <!-- German Translation by Rene from Blocktrainer -->
 [Vorwort]: https://www.blocktrainer.de/2019/12/1-tuerchen-21-lektionen-vorwort/
