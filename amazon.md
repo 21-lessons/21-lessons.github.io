@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Dear Amazon KDP
-permalink: /amazon
 ---
 
 
