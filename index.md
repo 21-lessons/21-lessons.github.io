@@ -14,7 +14,10 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 <center>
 <p>
-Now <a href="https://amzn.to/2VZXe2o" title="Nun auch auf Deutsch erhältlich!">also available in German</a>! 🇩🇪
+<a href="https://amzn.to/2VZXe2o" title="Nun auch auf Deutsch erhältlich!">Also available in German</a>! 🇩🇪
+</p>
+<p>
+  Now <a href="https://www.audible.com/pd/B088C1DK58/">available on Audible</a>!
 </p>
 </center>
 
