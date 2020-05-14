@@ -8,7 +8,16 @@ order: ch4-03
 toc: true
 ---
 
-### Translations
+### Print
+
+- 🇩🇪 [21 Lektionen - Meine Reise in den Bitcoin Kaninchenbau (Deutsch) Taschenbuch][de-paperback] / [Kindle][de-kindle]
+- 🇫🇮 [21 Oppituntia - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon (Finnish Edition)][fin-paperback]
+
+[de-paperback]: https://amzn.to/2AtlfWZ
+[de-kindle]: https://amzn.to/2Z2zts3
+[fin-paperback]: https://amzn.to/2WYYkKL
+
+### Online
 
 - 🇪🇸 [Chapter I][es-philosophy] is available in Spanish thanks to [@CamiloJdL][Camilo].
 - 🇹🇷 [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
