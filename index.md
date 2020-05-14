@@ -7,7 +7,6 @@ category: bitcoin
 description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
 quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
-audio: /assets/audio/21lessons/21-lessons.m4a
 ---
 
 [![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-book-ebook-audiobook.png)][amazon]
@@ -36,9 +35,6 @@ lessons available.
 
 ---
 
-{% include player.html file=page.audio %}
-
----
 
 <center>
   <p>Ready to enter Wonderland?<br/>
