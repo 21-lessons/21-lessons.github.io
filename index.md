@@ -16,6 +16,14 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
+<center>
+  <p>Ready to enter Wonderland?<br/>
+  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
+</center>
+
+---
+
 > The White Rabbit put on his spectacles. 'Where shall I begin, please your
 > Majesty?' he asked. '[Begin at the beginning][preface],' the King said
 > gravely, 'and go on till you come to the end: then stop.'
@@ -24,15 +32,6 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
 in [several languages][translations] and as an [audio version][audio].
-
----
-
-
-<center>
-  <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
-  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
-</center>
 
 <!-- Links -->
 [amazon]: https://amzn.to/2VXmQgp
