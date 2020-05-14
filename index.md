@@ -10,7 +10,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 audio: /assets/audio/21lessons/21-lessons.m4a
 ---
 
-[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-book.png)][amazon]
+[![21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole](/assets/images/21-lessons-book-ebook-audiobook.png)][amazon]
 
 <center>
 <p>
