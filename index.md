@@ -14,15 +14,6 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
   <a href="https://amzn.to/2Wa4qJo" title="Paperback" style="position: absolute; left: 6%; top: 5.33%; width: 21.11%; height: 80.33%; z-index: 2;"></a><a href="https://amzn.to/3bvM49P" title="Kindle Edition" style="position: absolute; left: 27.33%; top: 4.67%; width: 34.56%; height: 81%; z-index: 2;"></a><a href="https://amzn.to/2ZeUsYX" title="Listen on Audible" style="position: absolute; left: 69.11%; top: 5.33%; width: 23.56%; height: 76.33%; z-index: 2;"></a><a href="https://amzn.to/2Wa4qJo" title="Buy on Amazon" style="position: absolute; left: 27.33%; top: 89.17%; width: 14%; height: 9.5%; z-index: 2;"></a><a href="https://amzn.to/2ZeUsYX" title="Listen on Audible" style="position: absolute; left: 74.22%; top: 89.33%; width: 13.44%; height: 8.67%; z-index: 2;"></a>
 </div>
 
-<center>
-<p>
-<a href="https://amzn.to/2VZXe2o" title="Nun auch auf Deutsch erhältlich!">Also available in German</a>! 🇩🇪
-</p>
-<p>
-  Now <a href="https://www.audible.com/pd/B088C1DK58/">available on Audible</a>!
-</p>
-</center>
-
 ---
 
 > The White Rabbit put on his spectacles. 'Where shall I begin, please your
@@ -32,9 +23,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
-in [several languages][translations] and as an [audio version][audio]. There are
-also [audio recordings][audio] of thoughts and discussions related to these
-lessons available.
+in [several languages][translations] and as an [audio version][audio].
 
 ---
 
