@@ -11,7 +11,7 @@ toc: true
 
 After writing 21 Lessons, I wrote some articles and essays to explore a few of Bitcoin's aspects further:
 
-{% include looking-glass.html category='Through the Looking Glass' %}
+{% include looking-glass.html hide_heading=true %}
 
 ----
 
@@ -24,7 +24,7 @@ Find all 'Down the Rabbit Hole' links for each lesson below. A curated list of B
 
 #### [{{ lesson.title }}]({{ lesson.url }}): {{ lesson.subtitle }}
 
-{% include rabbit-hole.html lesson=forloop.index %}
+{% include rabbit-hole.html lesson=forloop.index hide_heading=true %}
 
 {% endfor %}
 
