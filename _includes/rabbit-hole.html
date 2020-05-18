@@ -3,7 +3,7 @@
 {% assign episodes = site.episodes | where: 'lesson', include.lesson | sort: 'date' %}
 {% assign books = site.books | where: 'lesson', include.lesson | sort: 'date' %}
 
-{% if articles.size > 0 or links.size > 0 or episodes.size > 0 or books.size > 0 %}
+{% if include.hide_heading != true and (articles.size > 0 or links.size > 0 or episodes.size > 0 or books.size > 0) %}
 <h4 id="down-the-rabbit-hole">Down the Rabbit Hole</h4>
 {% endif %}
 
