@@ -2,7 +2,10 @@
 
 {% if include.lesson %}
   {% assign sorted_articles = sorted_articles | where: 'lesson', include.lesson %}
-  <h4 id="through-the-looking-glass">Through the Looking-Glass</h4>
+{% endif %}
+
+{% if sorted_articles.size > 0 %}
+<h4 id="through-the-looking-glass">Through the Looking-Glass</h4>
 {% endif %}
 
 <ul class="articles">
