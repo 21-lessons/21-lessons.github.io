@@ -11,7 +11,7 @@ toc: true
 
 After writing 21 Lessons, I wrote some articles and essays to explore a few of Bitcoin's aspects further:
 
-{% include looking-glass.html category='Through the Looking Glass' %}
+{% include looking-glass.html %}
 
 ----
 
