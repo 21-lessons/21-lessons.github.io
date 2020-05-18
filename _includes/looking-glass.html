@@ -1,4 +1,9 @@
-{% assign sorted_articles = site.articles | where: 'category', include.category | sort: 'date' %}
+{% assign sorted_articles = site.articles | where: 'category', 'Through the Looking Glass' | sort: 'date' %}
+
+{% if include.lesson %}
+  {% assign sorted_articles = sorted_articles | where: 'lesson', include.lesson %}
+  <h4 id="through-the-looking-glass">Through the Looking-Glass</h4>
+{% endif %}
 
 <ul class="articles">
 {% for article in sorted_articles %}
