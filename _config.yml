@@ -14,6 +14,8 @@ default_img: /assets/images/avatar.jpg
 social:
   - name: twitter
     url: https://twitter.com/dergigi
+  - name: mastodon
+    url: https://bitcoinhackers.org/@dergigi
   - name: instagram
     url: https://www.instagram.com/dergigi/
   - name: github
@@ -39,7 +41,7 @@ collections:
     title: Articles
     output: true
   links:
-    title: Links 
+    title: Links
     output: true
 
 # Author settings
