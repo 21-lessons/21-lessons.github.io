@@ -22,23 +22,6 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
-> The White Rabbit put on his spectacles. 'Where shall I begin, please your
-> Majesty?' he asked. '[Begin at the beginning][preface],' the King said
-> gravely, 'and go on till you come to the end: then stop.'
-
-<center>
-  <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
-  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
-</center>
-
----
-
-Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
-in [several languages][translations] and as an [audio version][audio].
-
----
-
 <div style="position: relative;">
   <img src="/assets/images/flags.png" alt="Translations">
   <a href="https://amzn.to/2Wa4qJo" title="21 Lessons" style="position: absolute; left: 0%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
@@ -51,6 +34,22 @@ in [several languages][translations] and as an [audio version][audio].
   <a href="https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9-%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CE%BF%CF%86%CE%AF%CE%B1-c5dba0672ea2" title="21 μαθήματα" style="position: absolute; left: 78.8%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
   <a href="https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9" title="21 Lecciones" style="position: absolute; left: 90%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
 </div>
+
+
+Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
+in [several languages][translations] and as an [audio version][audio].
+
+---
+
+> The White Rabbit put on his spectacles. 'Where shall I begin, please your
+> Majesty?' he asked. '[Begin at the beginning][preface],' the King said
+> gravely, 'and go on till you come to the end: then stop.'
+
+<center>
+  <p>Ready to enter Wonderland?<br/>
+  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
+</center>
 
 
 <!-- Links -->
