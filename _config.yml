@@ -43,7 +43,7 @@ collections:
   links:
     title: Links
     output: true
-  links:
+  reviews:
     title: Reviews
     output: true
 
