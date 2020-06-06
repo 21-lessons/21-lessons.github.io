@@ -16,22 +16,9 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
-<center>
-  <p>Ready to enter Wonderland?<br/>
-  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
-  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
-</center>
-
----
-
-> The White Rabbit put on his spectacles. 'Where shall I begin, please your
-> Majesty?' he asked. '[Begin at the beginning][preface],' the King said
-> gravely, 'and go on till you come to the end: then stop.'
-
----
-
-Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
-in [several languages][translations] and as an [audio version][audio].
+>  "I highly recommend this book. If you're new to bitcoin, buy it on Amazon. If you're a
+>  Hodler, read the book online and send bitcoin directly to Gigi."
+>  <cite>[Minimal Structure][reviews]</cite>
 
 ---
 
@@ -49,6 +36,22 @@ in [several languages][translations] and as an [audio version][audio].
 </div>
 
 
+Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
+in [several languages][translations] and as an [audio version][audio].
+
+---
+
+> The White Rabbit put on his spectacles. 'Where shall I begin, please your
+> Majesty?' he asked. '[Begin at the beginning][preface],' the King said
+> gravely, 'and go on till you come to the end: then stop.'
+
+<center>
+  <p>Ready to enter Wonderland?<br/>
+  <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
+  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
+</center>
+
+
 <!-- Links -->
 [amazon]: https://amzn.to/2VXmQgp
 
@@ -56,3 +59,4 @@ in [several languages][translations] and as an [audio version][audio].
 [preface]: {{ 'preface' | absolute_url }}
 [translations]: {{ 'translations' | absolute_url }}
 [audio]: {{ 'audio' | absolute_url }}
+[reviews]: {{ 'reviews' | absolute_url }}

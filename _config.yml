@@ -43,6 +43,9 @@ collections:
   links:
     title: Links
     output: true
+  reviews:
+    title: Reviews
+    output: true
 
 # Author settings
 author:
