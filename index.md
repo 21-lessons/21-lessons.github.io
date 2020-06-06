@@ -16,10 +16,6 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 ---
 
-{% include carousel.html %}
-
----
-
 <center>
   <p>Ready to enter Wonderland?<br/>
   <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>

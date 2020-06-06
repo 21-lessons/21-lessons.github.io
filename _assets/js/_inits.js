@@ -3,7 +3,6 @@
 // ----------------------------------------------
 import $ from 'jquery';
 import AOS from 'aos';
-import './vendor/_carousel.js';
 import './vendor/_transition.js';
 import './vendor/_zoom.js';
 import InfiniteScroll from './components/_infiniteScroll.js';
