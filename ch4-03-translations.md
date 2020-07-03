@@ -10,9 +10,12 @@ toc: true
 
 ### Print
 
+- 🇺🇸 [21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole ][en-paperback] / [Kindle][en-kindle]
 - 🇩🇪 [21 Lektionen - Meine Reise in den Bitcoin Kaninchenbau (Deutsch) Taschenbuch][de-paperback] / [Kindle][de-kindle]
 - 🇫🇮 [21 Oppituntia - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon (Finnish Edition)][fin-paperback]
 
+[en-paperback]: https://amzn.to/2Wa4qJo
+[en-kindle]: https://amzn.to/3bvM49P
 [de-paperback]: https://amzn.to/2AtlfWZ
 [de-kindle]: https://amzn.to/2Z2zts3
 [fin-paperback]: https://amzn.to/2WYYkKL
