@@ -10,7 +10,7 @@ description: >
   21 Lessons Learned from Falling Down the Bitcoin Rabbit Hole.
 url: https://21lessons.com
 twitter_username: dergigi
-default_img: /assets/images/avatar.jpg
+default_img: /assets/images/avatar.webp
 social:
   - name: twitter
     url: https://twitter.com/dergigi
