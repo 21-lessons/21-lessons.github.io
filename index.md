@@ -23,7 +23,7 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 <div style="position: relative;">
-  <img src="/assets/images/flags.png" alt="Translations">
+  <img src="/assets/images/flags.webp" alt="Translations">
   <a href="https://amzn.to/2Wa4qJo" title="21 Lessons" style="position: absolute; left: 0%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
   <a href="https://amzn.to/2AtlfWZ" title="21 Lektionen" style="position: absolute; left: 11.3%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
   <a href="https://amzn.to/2WYYkKL" title="21 Oppituntia" style="position: absolute; left: 22.41%; top: 0%; width: 10%; height: 100%; z-index: 2;"></a>
