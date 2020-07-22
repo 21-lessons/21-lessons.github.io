@@ -48,7 +48,7 @@ in [several languages][translations] and as an [audio version][audio].
 <center>
   <p>Ready to enter Wonderland?<br/>
   <a href="{{ 'preface' | absolute_url }}">Follow the white rabbit →</a></p>
-  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.png"/></a></p>
+  <p><a href="{{ 'preface' | absolute_url }}"><img src="/assets/images/rabbit.webp"/></a></p>
 </center>
 
 
