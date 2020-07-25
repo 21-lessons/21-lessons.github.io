@@ -8,6 +8,13 @@ order: ch4-03
 toc: true
 ---
 
+21 Lessons is published under the [Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0) license][cc-by-sa] which means that you are free to share, adapt, and
+translate the material as you see fit. The only requirement is that you must distribute your
+contributions under the same license.
+
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+
 ### Print
 
 - 🇺🇸 [21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole ][en-paperback] / [Kindle][en-kindle]
