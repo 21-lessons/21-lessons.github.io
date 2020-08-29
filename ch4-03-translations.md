@@ -40,6 +40,7 @@ contributions under the same license.
 - 🇬🇷 [Chapter I][gr-philosophy], [Chapter II][gr-economics], and [Chapter III][gr-technology] is available in Greek thanks to [nikos].
 - 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima].
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
+- 🇮🇹 Almost [the whole site][it-site], lessons inclueded, is available in Italian thanks to [gabridome]
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
@@ -67,6 +68,7 @@ contributions under the same license.
 [fa-all]: https://arzdigital.com/bitcoin-21-lessons/
 [id-philosophy]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-pertama-filosofi-86ba0b39e0c
 [id-economics]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-kedua-ekonomi-e6ba6d9a7a70
+[it-site]: https://gabridome.github.io/21-lezioni/
 
 <!-- German Translation by Rene from Blocktrainer -->
 [Vorwort]: https://www.blocktrainer.de/2019/12/1-tuerchen-21-lektionen-vorwort/
@@ -110,3 +112,4 @@ contributions under the same license.
 [nikos]: https://twitter.com/niclick
 [Nima]: https://twitter.com/Gorfist
 [hazmi]: https://twitter.com/hazmithril
+[gabridome]: https://twitter.com/gabridome
