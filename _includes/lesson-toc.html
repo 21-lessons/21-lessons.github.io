@@ -4,7 +4,7 @@
 <ul>
 {% for lesson in pages_sorted %}
   <li>
-    <a href="{{ lesson.url }}">
+    <a href="{{ lesson.url | absolute_url }}">
       {{ lesson.title }}
       {% if lesson.title contains 'Lesson ' or lesson.title contains 'Chapter ' %} : {{ lesson.subtitle }} {% endif %}
     </a>
