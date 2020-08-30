@@ -40,7 +40,7 @@ contributions under the same license.
 - 🇬🇷 [Chapter I][gr-philosophy], [Chapter II][gr-economics], and [Chapter III][gr-technology] is available in Greek thanks to [nikos].
 - 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima].
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
-- 🇮🇹 Almost [The whole site][it-site], lessons inclueded, is available in Italian thanks to [gabridome]
+- 🇮🇹 Almost [The whole site][it-site], lessons included, is available in Italian thanks to [gabridome]
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
