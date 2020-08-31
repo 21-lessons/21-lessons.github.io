@@ -14,7 +14,7 @@
   {% if lesson.title == skipUntil %}{% assign skipUntil = false %}{% continue %}{% endif %}
   {% if skipUntil %}{% continue %}{% endif %}
   <li>
-    <a href="{{ lesson.url }}">
+    <a href="{{ lesson.url | absolute_url }}">
       {{ lesson.title }}: {{ lesson.subtitle }}
     </a>
   </li>
