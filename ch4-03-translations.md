@@ -9,11 +9,12 @@ toc: true
 ---
 
 21 Lessons is published under the [Creative Commons Attribution-ShareAlike 4.0 International
-(CC BY-SA 4.0) license][cc-by-sa] which means that you are free to share, adapt, and
+(CC BY-SA 4.0) license][cc-by-sa], as is [my other work][other-work]. That means that you are free to share, adapt, and
 translate the material as you see fit. The only requirement is that you must distribute your
 contributions under the same license.
 
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[other-work]: https://dergigi.com/translations/
 
 ### Print
 
