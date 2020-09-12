@@ -6,11 +6,12 @@ essential:
 categories: ['macro']
 authors: ['James Dale Davidson', ' William Rees-Mogg']
 authors_twitter: 
-excerpt: .
 resource_url: 
 amazon_url: https://amzn.to/2Wc0ZSr
 wikipedia_url: 
 free_url: 
 rating_order: 
 lesson: ['']
+audio_url: https://amzn.to/3dHduvC
+free_audio_url: 
 ---
