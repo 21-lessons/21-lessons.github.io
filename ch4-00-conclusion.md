@@ -67,10 +67,13 @@ strikes "blockchain" from her vocabulary and replaces it with "a chain of
 blocks" I will die a happy man.
 
 In any case, my journey continues. I plan to venture further down into the
-depths of this rabbit hole, and I invite you to [tag along][dergigi] for the ride.
+depths of this rabbit hole, and I invite you to [tag along][patreon] for the ride.
 
-<!-- Twitter -->
-[dergigi]: https://twitter.com/dergigi
+[Buy the book »][amazon]
+
+<!-- Patreon -->
+[patreon]: https://patreon.com/dergigi
+[amazon]: https://amzn.to/2Wa4qJo
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
