@@ -34,7 +34,7 @@ contributions under the same license.
 - 🇹🇷 [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
 - 🇨🇳 [Chapter I][zh-all], [Chapter II][zh-all], and [Chapter III][zh-all] is available in Chinese thanks to [@andywan][andywan]. Some additional images and figures were added.
 - 🇩🇪 [Chapter I][de-philosophy], [Chapter II][de-economics], and [Chapter III][de-technology] is available in German thanks to [@CryptoMulde][cryptomulde].
-- 🇩🇪 Another German translation was done by [Rene] from blocktrainer: [Vorwort], [Einleitung], [Philosophie], [1], [2], [3], [4], [5], [6], [7], [Ökonomie], [8], [9], [10], [11], [12], [13], [14], [Technologie], [15], [16], [17], [18], [19], [20], [21], [Fazit]
+- 🇩🇪 [Another German translation][de-blocktrainer] was done by [Rene] from blocktrainer.
 - 🇫🇮 [Chapter I][fin-philosophy], [Chapter II][fin-economics], and [Chapter III][fin-technology] are available in Finnish thanks to [Thomas Brand][thomas-brand]. The entry point of the Finnish rabbit hole is [here][fin-toc].
 - 🇧🇷 [Chapter I][pt-BR-philosophy], [Chapter II][pt-BR-economics], and [Chapter III][pt-BR-technology] are available in Brazilian Portuguese thanks to [Bit Dov][bitdov]. The entry point of the Brazilian rabbit hole is [here][pt-BR-all].
 - 🇯🇵 [Chapter I][jp-philosophy], [Chapter II][jp-economics], and [Chapter III][jp-technology] is available in Japanese thanks to [katakoto].
@@ -72,33 +72,7 @@ contributions under the same license.
 [it-site]: https://gabridome.github.io/21-lezioni/
 
 <!-- German Translation by Rene from Blocktrainer -->
-[Vorwort]: https://www.blocktrainer.de/2019/12/1-tuerchen-21-lektionen-vorwort/
-[Einleitung]: https://www.blocktrainer.de/2019/12/2-tuerchen-einleitung/
-[Philosophie]: https://www.blocktrainer.de/2019/12/3-tuerchen-philosophie-lektion-1/
-[1]: https://www.blocktrainer.de/2019/12/3-tuerchen-philosophie-lektion-1/
-[2]: https://www.blocktrainer.de/2019/12/4-tuerchen-lektion-2/
-[3]: https://www.blocktrainer.de/2019/12/5-tuerchen-lektion-3/
-[4]: https://www.blocktrainer.de/2019/12/6-tuerchen-lektion-4/
-[5]: https://www.blocktrainer.de/2019/12/7-tuerchen-lektion-5/
-[6]: https://www.blocktrainer.de/2019/12/8-tuerchen-lektion-6/
-[7]: https://www.blocktrainer.de/2019/12/9-tuerchen-lektion-7/
-[Ökonomie]: https://www.blocktrainer.de/2019/12/10-tuerchen-oekonomie-lektion-8/
-[8]: https://www.blocktrainer.de/2019/12/10-tuerchen-oekonomie-lektion-8/
-[9]: https://www.blocktrainer.de/2019/12/11-tuerchen-lektion-9/
-[10]: https://www.blocktrainer.de/2019/12/12-tuerchen-lektion-10/
-[11]: https://www.blocktrainer.de/2019/12/13-tuerchen-lektion-11/
-[12]: https://www.blocktrainer.de/2019/12/14-tuerchen-lektion-12/
-[13]: https://www.blocktrainer.de/2019/12/15-tuerchen-lektion-13/
-[14]: https://www.blocktrainer.de/2019/12/16-tuerchen-lektion-14/
-[Technologie]: https://www.blocktrainer.de/2019/12/17-tuerchen-technologie-lektion-15/
-[15]: https://www.blocktrainer.de/2019/12/17-tuerchen-technologie-lektion-15/
-[16]: https://www.blocktrainer.de/2019/12/18-tuerchen-lektion-16/
-[17]: https://www.blocktrainer.de/2019/12/19-tuerchen-lektion-17/
-[18]: https://www.blocktrainer.de/2019/12/20-tuerchen-lektion-18/
-[19]: https://www.blocktrainer.de/2019/12/21-tuerchen-lektion-19/
-[20]: https://www.blocktrainer.de/2019/12/22-tuerchen-lektion-20/
-[21]: https://www.blocktrainer.de/2019/12/23-tuerchen-lektion-21/
-[Fazit]: https://www.blocktrainer.de/2019/12/24-tuerchen-fazit/
+[de-blocktrainer]: https://www.blocktrainer.de/bitcoin-21-lektionen/
 
 <!-- Persons -->
 [andywan]: https://twitter.com/andywan
