@@ -44,7 +44,7 @@ contributions under the same license.
 - 🇮🇹 Almost [the whole site][it-site], lessons included, is available in Italian thanks to [gabridome]
 - 🇫🇷 [The title][fr-title] is available in French thanks to [Acid Lord][soulexporter]
 
-[fr-title]: https://twitter.com/soulexporter/status/1345361613252136963?s=20
+[fr-title]: https://twitter.com/soulexporter/status/1345362059819671552?s=20
 [soulexporter]: https://twitter.com/soulexporter
 
 <!-- Translations -->
