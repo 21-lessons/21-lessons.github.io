@@ -42,6 +42,10 @@ contributions under the same license.
 - 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima].
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
 - 🇮🇹 Almost [the whole site][it-site], lessons included, is available in Italian thanks to [gabridome]
+- 🇫🇷 [The title][fr-title] is available in French thanks to [Acid Lord][soulexporter]
+
+[fr-title]: https://twitter.com/soulexporter/status/1345361613252136963?s=20
+[soulexporter]: https://twitter.com/soulexporter
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
