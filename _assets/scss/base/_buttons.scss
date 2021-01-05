@@ -43,7 +43,10 @@ button {
     border-radius: 8px;
     font-weight: bolder;
     font-size: $font-large;
-    text-decoration: none;
+    text-decoration: none !important;
     transition: box-shadow 200ms ease-out;
+  }
+  a:hover {
+    background-color: $color-orange;
   }
 }
