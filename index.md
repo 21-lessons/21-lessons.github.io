@@ -9,6 +9,19 @@ quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons i
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
+<div class="action-buttons">
+  <div class="button"><a href="https://amzn.to/2Wa4qJo">Buy the book!</a></div>
+  <small>(...or <a href="{{ 'preface' | absolute_url }}">read it online</a> for free)</small>
+</div>
+
+---
+
+>  "I highly recommend this book. If you're new to bitcoin, buy it on Amazon. If you're a
+>  Hodler, read the book online and send bitcoin directly to Gigi."
+>  <cite>[Minimal Structure][reviews]</cite>
+
+---
+
 <div style="position: relative;">
   <picture>
     <source srcset="/assets/images/21-lessons-book-ebook-audiobook.webp" type="image/webp"/>
@@ -17,12 +30,6 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
   </picture>
   <a href="https://amzn.to/2Wa4qJo" title="Paperback" style="position: absolute; left: 6%; top: 5.33%; width: 21.11%; height: 80.33%; z-index: 2;"></a><a href="https://amzn.to/3bvM49P" title="Kindle Edition" style="position: absolute; left: 27.33%; top: 4.67%; width: 34.56%; height: 81%; z-index: 2;"></a><a href="https://amzn.to/2ZeUsYX" title="Listen on Audible" style="position: absolute; left: 69.11%; top: 5.33%; width: 23.56%; height: 76.33%; z-index: 2;"></a><a href="https://amzn.to/2Wa4qJo" title="Buy on Amazon" style="position: absolute; left: 27.33%; top: 89.17%; width: 14%; height: 9.5%; z-index: 2;"></a><a href="https://amzn.to/2ZeUsYX" title="Listen on Audible" style="position: absolute; left: 74.22%; top: 89.33%; width: 13.44%; height: 8.67%; z-index: 2;"></a>
 </div>
-
----
-
->  "I highly recommend this book. If you're new to bitcoin, buy it on Amazon. If you're a
->  Hodler, read the book online and send bitcoin directly to Gigi."
->  <cite>[Minimal Structure][reviews]</cite>
 
 ---
 
