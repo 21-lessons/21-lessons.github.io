@@ -9,12 +9,10 @@ quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons i
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
-<center>
-<p>
-  <button href="https://amzn.to/2Wa4qJo">Buy it!</button><br/>
-  <small>(...or <a href="{{ 'preface' | absolute_url }}">read it</a> for free)</small>
-</p>
-</center>
+<div class="action-buttons">
+  <div class="button"><a href="https://amzn.to/2Wa4qJo">Buy the book!</a></div>
+  <small>(...or <a href="{{ 'preface' | absolute_url }}">read it online</a> for free)</small>
+</div>
 
 <div style="position: relative;">
   <picture>
