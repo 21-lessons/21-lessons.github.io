@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reviews
-subtitle: ⭐⭐⭐⭐⭐
+subtitle: ⭐⭐⭐⭐⭐ <br/> (4.8 out of 5)
 ---
 
 If you enjoyed the book, please [leave a review][amazon] on Amazon. It helps to spread the
