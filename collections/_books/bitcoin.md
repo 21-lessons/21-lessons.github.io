@@ -5,7 +5,7 @@ subtitle: Sovereignty through mathematics
 essential: 
 categories: ['non-technical']
 authors: ['Knut Svanholm']
-authors_twitter: 
+authors_twitter: ['https://twitter.com/knutsvanholm/']
 resource_url: 
 amazon_url: https://amzn.to/39LUHNb
 wikipedia_url: 
