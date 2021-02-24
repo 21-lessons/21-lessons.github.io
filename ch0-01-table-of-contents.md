@@ -10,11 +10,6 @@ toc: true
 
 {% include lesson-toc.html %}
 
-[Buy the book »][amazon]
-
-<!-- Patreon -->
-[amazon]: https://amzn.to/2Wa4qJo
-
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
 [carroll]: https://en.wikipedia.org/wiki/Lewis_Carroll
