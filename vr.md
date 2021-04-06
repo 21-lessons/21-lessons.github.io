@@ -16,10 +16,9 @@ VR Chat][world]!
 
 <div class="action-buttons">
   <div class="button"><a href="https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165">Play Now!</a></div>
-  <small>(...or <a href="{{ 'preface' | absolute_url }}">read it online</a> for free)</small>
 </div>
 
-
+{% include video.html file="/assets/videos/beta.mp4" %}
 
 Thanks to [Udi][udi] and [Reckless VR][recklessvr] for organizing the launch
 party. Below are some pictures of the event.
