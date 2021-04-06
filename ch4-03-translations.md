@@ -16,6 +16,12 @@ contributions under the same license.
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [other-work]: https://dergigi.com/translations/
 
+### Remixes
+
+- 🎮 [21 Lessons VR][vr] by BITPAINT
+
+[vr]: {{ 'vr' | absolute_url }}
+
 ### Print
 
 - 🇺🇸 [21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole ][en-paperback] / [Kindle][en-kindle]
