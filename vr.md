@@ -9,8 +9,8 @@ quote: "Down, down, down. Would the fall never come to an end?"
 image: /assets/images/vr-cover.png
 ---
 
-Thanks to BITPAINT, _21 Lessons_ is now available as a VR World [in VR
-Chat][world]!
+Thanks to [BITPAINT][bitpaint], _21 Lessons_ is now available as a VR World [in
+VR Chat][world]!
 
 {% include image.html path="./assets/images/vr-cover.png" %}
 
@@ -39,6 +39,7 @@ party. Below are some pictures of the event.
 [world]: https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165
 [udi]: https://twitter.com/udiWertheimer/
 [recklessvr]: https://twitter.com/RecklessVr/
+[bitpaint]: https://bitpaint.club/
 
 <!-- Internal  -->
 [preface]: {{ 'preface' | absolute_url }}
