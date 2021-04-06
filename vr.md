@@ -9,13 +9,36 @@ quote: "Down, down, down. Would the fall never come to an end?"
 image: /assets/images/vr-cover.png
 ---
 
-Thanks to BITPAINT, _21 Lessons_ is now available as a VR World!
+Thanks to BITPAINT, _21 Lessons_ is now available as a VR World [in VR
+Chat][world]!
 
-{% include image.html path="./assets/images/vr-cover.png" caption="TODO" %}
+{% include image.html path="./assets/images/vr-cover.png" %}
 
+<div class="action-buttons">
+  <div class="button"><a href="https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165">Play Now!</a></div>
+  <small>(...or <a href="{{ 'preface' | absolute_url }}">read it online</a> for free)</small>
+</div>
+
+
+
+Thanks to [Udi][udi] and [Reckless VR][recklessvr] for organizing the launch
+party. Below are some pictures of the event.
+
+{% include image.html path="./assets/images/vr-01.png" %}
+{% include image.html path="./assets/images/vr-02.png" %}
+{% include image.html path="./assets/images/vr-03.png" %}
+{% include image.html path="./assets/images/vr-04.png" %}
+{% include image.html path="./assets/images/vr-05.png" %}
+{% include image.html path="./assets/images/vr-06.png" %}
+{% include image.html path="./assets/images/vr-07.png" %}
+{% include image.html path="./assets/images/vr-08.png" %}
+{% include image.html path="./assets/images/vr-09.png" %}
+{% include image.html path="./assets/images/vr-10.png" %}
 
 <!-- Links -->
 [world]: https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165
+[udi]: https://twitter.com/udiWertheimer/
+[recklessvr]: https://twitter.com/RecklessVr/
 
 <!-- Internal  -->
 [preface]: {{ 'preface' | absolute_url }}
