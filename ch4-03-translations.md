@@ -45,7 +45,7 @@ contributions under the same license.
 - 🇧🇷 [Chapter I][pt-BR-philosophy], [Chapter II][pt-BR-economics], and [Chapter III][pt-BR-technology] are available in Brazilian Portuguese thanks to [Bit Dov][bitdov]. The entry point of the Brazilian rabbit hole is [here][pt-BR-all].
 - 🇯🇵 [Chapter I][jp-philosophy], [Chapter II][jp-economics], and [Chapter III][jp-technology] is available in Japanese thanks to [katakoto].
 - 🇬🇷 [Chapter I][gr-philosophy], [Chapter II][gr-economics], and [Chapter III][gr-technology] is available in Greek thanks to [nikos].
-- 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima].
+- 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima]. Also available [as a PDF][fa-pdf].
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
 - 🇮🇹 Almost [the whole site][it-site], lessons included, is available in Italian thanks to [gabridome]
 - 🇫🇷 [The title][fr-title] is available in French thanks to [Acid Lord][soulexporter]
@@ -77,6 +77,7 @@ contributions under the same license.
 [gr-economics]: https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9%CE%B9-%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AC-c9539cccd687
 [gr-technology]: https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9%CE%B9%CE%B9-%CF%84%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1-5a2cd7c87059
 [fa-all]: https://arzdigital.com/bitcoin-21-lessons/
+[fa-pdf]: https://bitcoind.me/blobs/books/21Lessons_ArzDigital.pdf
 [id-philosophy]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-pertama-filosofi-86ba0b39e0c
 [id-economics]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-kedua-ekonomi-e6ba6d9a7a70
 [it-site]: https://gabridome.github.io/21-lezioni/
