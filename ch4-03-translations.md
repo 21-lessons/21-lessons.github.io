@@ -24,10 +24,10 @@ contributions under the same license.
 
 ### Print
 
-- 🇺🇸 [21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole ][en-paperback] / [Kindle][en-kindle]
-- 🇩🇪 [21 Lektionen - Meine Reise in den Bitcoin Kaninchenbau (Deutsch) Taschenbuch][de-paperback] / [Kindle][de-kindle]
-- 🇫🇮 [21 Oppituntia - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon (Finnish Edition)][fin-paperback]
-- 🇧🇷 [As 21 Lições - O que aprendi ao cair da toca do coelho do Bitcoin (Brazilian Portuguese)][pt-BR-github] ([pdf][pt-BR-pdf])
+- 🇺🇸 [English: 21 Lessons][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
+- 🇩🇪 [German: 21 Lektionen][de-paperback] - Meine Reise in den Bitcoin Kaninchenbau ([Paperback][de-paperback], [Kindle][de-kindle])
+- 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
+- 🇧🇷 [Brazilian Portuguese: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
