@@ -51,10 +51,8 @@ contributions under the same license.
 - 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima]. Also available [as a PDF][fa-pdf].
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
 - 🇮🇹 Almost [the whole site][it-site], lessons included, is available in Italian thanks to [gabridome]
+- 🇨🇿 Almost [the whole site][sk-github] is available in Slovak thanks to [LuboD]
 - 🇫🇷 [The title][fr-title] is available in French thanks to [Acid Lord][soulexporter]
-
-[fr-title]: https://twitter.com/soulexporter/status/1345362059819671552?s=20
-[soulexporter]: https://twitter.com/soulexporter
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
@@ -84,6 +82,8 @@ contributions under the same license.
 [id-philosophy]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-pertama-filosofi-86ba0b39e0c
 [id-economics]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-kedua-ekonomi-e6ba6d9a7a70
 [it-site]: https://gabridome.github.io/21-lezioni/
+[sk-github]: https://1lubo.github.io/byzantine_general/
+[fr-title]: https://twitter.com/soulexporter/status/1345362059819671552?s=20
 
 <!-- German Translation by Rene from Blocktrainer -->
 [de-blocktrainer]: https://www.blocktrainer.de/bitcoin-21-lektionen/
@@ -102,3 +102,5 @@ contributions under the same license.
 [Nima]: https://twitter.com/Gorfist
 [hazmi]: https://twitter.com/hazmithril
 [gabridome]: https://twitter.com/gabridome
+[soulexporter]: https://twitter.com/soulexporter
+[LuboD]: https://twitter.com/LuboD5
