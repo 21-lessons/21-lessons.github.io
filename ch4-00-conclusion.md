@@ -67,7 +67,7 @@ strikes "blockchain" from her vocabulary and replaces it with "a chain of
 blocks" I will die a happy man.
 
 In any case, my journey continues. I plan to venture further down into the
-depths of this rabbit hole, and I invite you to [tag along][patreon] for the ride.
+depths of this [rabbit hole], and I invite you to [tag along][patreon] for the ride.
 
 [Buy the book »][amazon]
 
@@ -82,3 +82,4 @@ depths of this rabbit hole, and I invite you to [tag along][patreon] for the rid
 <!-- Internal -->
 [sly roundabout way]: https://youtu.be/EYhEDxFwFRU?t=1124
 [Giannina Braschi]: https://en.wikipedia.org/wiki/Braschi%27s_Empire_of_Dreams
+[rabbit hole]: {{ 'rabbithole' | absolute_url }}
