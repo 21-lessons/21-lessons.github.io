@@ -1,4 +1,7 @@
 # 21 Lessons
+
+![](https://21lessons.com/assets/images/bitcoin-orange-pill.jpg)
+
 ## What I've Learned from Falling Down the Bitcoin Rabbit Hole
 
 A collection of lessons learned from falling down the Bitcoin rabbit hole. 
