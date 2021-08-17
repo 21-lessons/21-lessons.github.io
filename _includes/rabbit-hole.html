@@ -9,11 +9,12 @@
 
 <ul class="resources">
 {% for article in articles %}
-  {% if article.author == 'Gigi' %}
-    {% continue %}
-  {% endif %}
   <li>
+    {% if article.author == 'Gigi' %}
+    <a href="{{ article.link }}" target="_blank">🔍 {{ article.title }}</a>
+    {% else %}
     <a href="{{ article.link }}" target="_blank">{{ article.title }}</a> by {{ article.author }}
+    {% endif %}
   </li>
 {% endfor %}
 {% for link in links %}

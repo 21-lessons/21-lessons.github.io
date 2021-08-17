@@ -9,9 +9,10 @@ toc: true
 
 ### Through the Looking Glass
 
-After writing 21 Lessons, I wrote some articles and essays to explore a few of Bitcoin's aspects further:
+After writing 21 Lessons, I wrote some articles and essays to explore a few of
+Bitcoin's aspects further. These articles are marked by an 🔍.
 
-{% include looking-glass.html hide_heading=true %}
+I am currently working on my second book, [21 Ways](http://21waysbook.com/).
 
 ----
 
@@ -21,6 +22,8 @@ Find all 'Down the Rabbit Hole' links for each lesson below. A curated list of B
 
 {% assign lessons_sorted = site.lessons | sort: 'order' %}
 {% for lesson in lessons_sorted %}
+
+---
 
 #### [{{ lesson.title }}]({{ lesson.url }}): {{ lesson.subtitle }}
 
