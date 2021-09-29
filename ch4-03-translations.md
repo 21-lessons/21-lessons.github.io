@@ -27,6 +27,7 @@ contributions under the same license.
 - 🇺🇸 [English: 21 Lessons][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
 - 🇩🇪 [German: 21 Lektionen][de-paperback] - Meine Reise in den Bitcoin Kaninchenbau ([Paperback][de-paperback], [Kindle][de-kindle])
 - 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
+- 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
 - 🇧🇷 [Brazilian Portuguese: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
@@ -34,6 +35,7 @@ contributions under the same license.
 [de-paperback]: https://amzn.to/2AtlfWZ
 [de-kindle]: https://amzn.to/2Z2zts3
 [fin-paperback]: https://amzn.to/2WYYkKL
+[nl-paperback]: https://konsensus.network/product/21-lessen/
 [pt-BR-github]: https://github.com/KoreaComK/21lessons-book
 [pt-BR-pdf]: https://github.com/KoreaComK/21lessons-book/raw/master/pdf/As%2021%20Li%C3%A7%C3%B5es.pdf
 
