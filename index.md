@@ -17,8 +17,10 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
 >  "I highly recommend this book. If you're new to bitcoin, buy it on Amazon. If you're a
->  Hodler, read the book online and send bitcoin directly to Gigi."
+>  Hodler, read the book online and send bitcoin directly[*][donate] to Gigi."
 >  <cite>[Minimal Structure][reviews]</cite>
+
+[donate]: https://dergigi.com/support
 
 ---
 
