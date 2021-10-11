@@ -9,8 +9,9 @@ toc: true
 ---
 
 Thank you for reading 21 Lessons. If you enjoyed the book, please [buy a
-copy][amazon], [leave a review][amazon], or share it with your friends. If you
-have any suggestions for improvements, please reach out to me [here][contact].
+copy][amazon], [leave a review][amazon], or share it with your friends.
+You can also [buy a signed copy][signed]. If you have any suggestions for
+improvements, please reach out to me [here][contact].
 
 <div class="action-buttons">
   <div class="button"><a href="https://amzn.to/2Wa4qJo">Buy the book!</a></div>
@@ -35,3 +36,4 @@ Thank you. 🙏🧡
 [21ways]: http://21waysbook.com
 [support]: https://dergigi.com/support/
 [contact]: https://dergigi.com/contact/
+[signed]: https://dergigi.shop
