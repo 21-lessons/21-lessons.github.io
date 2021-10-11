@@ -55,7 +55,8 @@ image: /assets/images/21-lessons-twitter-cover-audio.jpg
 
 Thanks to the awesome members of the Bitcoin community, 21 Lessons is available
 in [several languages][translations], as an [audio version][audio], and as
-a [virtual reality world][vr].
+a [virtual reality world][vr]. It's also possible buy a [signed copy][signed],
+in case you are willing to part with your hard-earned sats.
 
 ---
 
@@ -79,3 +80,4 @@ a [virtual reality world][vr].
 [audio]: {{ 'audio' | absolute_url }}
 [vr]: {{ 'vr' | absolute_url }}
 [reviews]: {{ 'reviews' | absolute_url }}
+[signed]: https://dergigi.shop
