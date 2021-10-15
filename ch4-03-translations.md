@@ -54,6 +54,7 @@ contributions under the same license.
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
 - 🇮🇹 Almost [the whole site][it-site], lessons included, is available in Italian thanks to [gabridome]
 - 🇨🇿 Almost [the whole site][sk-github] is available in Slovak thanks to [LuboD]
+- 🇮🇳 [Lesson 1][01-hindi] is available in Hindi thanks to [Badger]
 - 🇫🇷 [The title][fr-title] is available in French thanks to [Acid Lord][soulexporter]
 
 <!-- Translations -->
@@ -85,6 +86,7 @@ contributions under the same license.
 [id-economics]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-kedua-ekonomi-e6ba6d9a7a70
 [it-site]: https://gabridome.github.io/21-lezioni/
 [sk-github]: https://1lubo.github.io/byzantine_general/
+[01-hindi]: https://memebadger.com/lesson-1-immutability-and-change/
 [fr-title]: https://twitter.com/soulexporter/status/1345362059819671552?s=20
 
 <!-- German Translation by Rene from Blocktrainer -->
@@ -106,3 +108,4 @@ contributions under the same license.
 [gabridome]: https://twitter.com/gabridome
 [soulexporter]: https://twitter.com/soulexporter
 [LuboD]: https://twitter.com/LuboD5
+[Badger]: https://memebadger.com/
