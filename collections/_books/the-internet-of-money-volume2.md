@@ -13,6 +13,9 @@ free_url:
 permalink: books/the-internet-of-money-volume-2
 rating_order: 7
 lesson: ['']
+quote: ""
 audio_url: https://amzn.to/2UveIm4
 free_audio_url: 
+goodreads_url: 
+description: ""
 ---

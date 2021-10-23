@@ -13,6 +13,9 @@ free_url:
 permalink: books/gödel-escher-bach
 rating_order: 10
 lesson: ['']
+quote: ""
 audio_url: 
 free_audio_url: 
+goodreads_url: 
+description: ""
 ---
