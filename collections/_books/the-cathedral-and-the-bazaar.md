@@ -12,6 +12,9 @@ wikipedia_url:
 free_url: http://www.catb.org/~esr/writings/cathedral-bazaar
 rating_order: 8
 lesson: ['']
+quote: ""
 audio_url: 
 free_audio_url: 
+goodreads_url: 
+description: ""
 ---
