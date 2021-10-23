@@ -29,6 +29,7 @@ contributions under the same license.
 - 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
 - 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
 - 🇧🇷 [Brazilian Portuguese: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
+- 🇭🇺 [Hungarian: 21 Lecke][hu-ebooks] - Amit megtanultam a Bitcoin nyúllyuk leeséséből ([PDF][hu-pdf], [epub & mobi][hu-epubmobi])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -38,6 +39,9 @@ contributions under the same license.
 [nl-paperback]: https://konsensus.network/product/21-lessen/
 [pt-BR-github]: https://github.com/KoreaComK/21lessons-book
 [pt-BR-pdf]: https://github.com/KoreaComK/21lessons-book/raw/master/pdf/As%2021%20Li%C3%A7%C3%B5es.pdf
+[hu-ebooks]: https://coincrumb.com/2021/10/15/21-lecke/
+[hu-pdf]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-PDF-Gigi.zip
+[hu-epubmobi]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-EPUBMOBI-Gigi.zip
 
 ### Online
 
