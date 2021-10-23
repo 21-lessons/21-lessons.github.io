@@ -9,6 +9,9 @@
 
 <ul class="resources">
 {% for article in articles %}
+  {% if article.author == 'Gigi' and include.hide_self == true %}
+    {% continue %}
+  {% endif %}
   <li>
     {% if article.author == 'Gigi' %}
     <a href="{{ article.link }}" target="_blank">🔍 {{ article.title }}</a>
