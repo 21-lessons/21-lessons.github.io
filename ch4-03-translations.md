@@ -29,7 +29,6 @@ contributions under the same license.
 - 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
 - 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
 - 🇧🇷 [Brazilian Portuguese: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
-- 🇭🇺 [Hungarian: 21 Lecke][hu-ebooks] - Amit megtanultam a Bitcoin nyúllyuk leeséséből ([PDF][hu-pdf], [epub & mobi][hu-epubmobi])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -39,9 +38,6 @@ contributions under the same license.
 [nl-paperback]: https://konsensus.network/product/21-lessen/
 [pt-BR-github]: https://github.com/KoreaComK/21lessons-book
 [pt-BR-pdf]: https://github.com/KoreaComK/21lessons-book/raw/master/pdf/As%2021%20Li%C3%A7%C3%B5es.pdf
-[hu-ebooks]: https://coincrumb.com/2021/10/15/21-lecke/
-[hu-pdf]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-PDF-Gigi.zip
-[hu-epubmobi]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-EPUBMOBI-Gigi.zip
 
 ### Online
 
@@ -58,6 +54,7 @@ contributions under the same license.
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
 - 🇮🇹 Almost [the whole site][it-site], lessons included, is available in Italian thanks to [gabridome]
 - 🇨🇿 Almost [the whole site][sk-github] is available in Slovak thanks to [LuboD]
+- 🇭🇺 [Chapter I, Chapter II, and Chapter III][hu-ebooks] is available in Hungarian thanks to [CoinCrumb]. It's also available as a [PDF][hu-pdf] and as an [epub & mobi][hu-epubmobi]).
 - 🇮🇳 [Lesson 1][01-hindi] is available in Hindi thanks to [Badger]
 - 🇫🇷 [The title][fr-title] is available in French thanks to [Acid Lord][soulexporter]
 
@@ -90,6 +87,9 @@ contributions under the same license.
 [id-economics]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-kedua-ekonomi-e6ba6d9a7a70
 [it-site]: https://gabridome.github.io/21-lezioni/
 [sk-github]: https://1lubo.github.io/byzantine_general/
+[hu-ebooks]: https://coincrumb.com/2021/10/15/21-lecke/
+[hu-pdf]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-PDF-Gigi.zip
+[hu-epubmobi]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-EPUBMOBI-Gigi.zip
 [01-hindi]: https://memebadger.com/lesson-1-immutability-and-change/
 [fr-title]: https://twitter.com/soulexporter/status/1345362059819671552?s=20
 
@@ -113,3 +113,4 @@ contributions under the same license.
 [soulexporter]: https://twitter.com/soulexporter
 [LuboD]: https://twitter.com/LuboD5
 [Badger]: https://memebadger.com/
+[CoinCrumb]: https://twitter.com/CoinCrumb
