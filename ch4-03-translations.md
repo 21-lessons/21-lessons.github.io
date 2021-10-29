@@ -57,6 +57,7 @@ contributions under the same license.
 - 🇭🇺 [Chapter I, Chapter II, and Chapter III][hu-ebooks] is available in Hungarian thanks to [CoinCrumb]. It's also available as a [PDF][hu-pdf] and as an [epub & mobi][hu-epubmobi].
 - 🇮🇳 [Lesson 1][01-hindi] is available in Hindi thanks to [Badger]
 - 🇫🇷 [The title][fr-title] is available in French thanks to [Acid Lord][soulexporter]
+- 🇸🇦 [Chapter I, Chapter II, and Chapter III][ar-all] is available in Arabic thanks to [BTCTranslator].
 
 <!-- Translations -->
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
@@ -92,6 +93,7 @@ contributions under the same license.
 [hu-epubmobi]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-EPUBMOBI-Gigi.zip
 [01-hindi]: https://memebadger.com/lesson-1-immutability-and-change/
 [fr-title]: https://twitter.com/soulexporter/status/1345362059819671552?s=20
+[ar-all]: https://bitcoinarabic.org/21-lessons-dergigi/
 
 <!-- German Translation by Rene from Blocktrainer -->
 [de-blocktrainer]: https://www.blocktrainer.de/bitcoin-21-lektionen/
@@ -114,3 +116,4 @@ contributions under the same license.
 [LuboD]: https://twitter.com/LuboD5
 [Badger]: https://memebadger.com/
 [CoinCrumb]: https://twitter.com/CoinCrumb
+[BTCTranslator]: https://twitter.com/BTCTranslator
