@@ -28,8 +28,6 @@ contributions under the same license.
 - 🇩🇪 [German: 21 Lektionen][de-paperback] - Meine Reise in den Bitcoin Kaninchenbau ([Paperback][de-paperback], [Kindle][de-kindle])
 - 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
 - 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
-- 🇧🇷 [Brazilian Portuguese: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
-- 🇫🇷 [French: 21 Leçons][fr-github] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([LaTeX][fr-github], [PDF][fr-pdf])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -37,12 +35,23 @@ contributions under the same license.
 [de-kindle]: https://amzn.to/2Z2zts3
 [fin-paperback]: https://amzn.to/2WYYkKL
 [nl-paperback]: https://konsensus.network/product/21-lessen/
+
+### PDF
+
+- 🇧🇷 [Brazilian Portuguese: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
+- 🇫🇷 [French: 21 Leçons][fr-github] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([LaTeX][fr-github], [PDF][fr-pdf])
+
 [pt-BR-github]: https://github.com/KoreaComK/21lessons-book
 [pt-BR-pdf]: https://github.com/KoreaComK/21lessons-book/raw/master/pdf/As%2021%20Li%C3%A7%C3%B5es.pdf
 [fr-github]: https://github.com/prplsknk/21lessons-book
 [fr-pdf]: https://github.com/prplsknk/21lessons-book/raw/master/21%20Le%C3%A7ons.pdf
 
-### Online
+### Online versions
+
+- 🇮🇹 The [Italian version][it-site] of the website is available thanks to [gabridome]
+- 🇨🇿 The [Slovak version][sk-github] of the website is available thanks to [LuboD]
+
+### Chapter translations
 
 - 🇪🇸 [Chapter I][es-philosophy], [Chapter II][es-economics], and [Chapter III][es-technology] is available in Spanish thanks to [@CamiloJdL][Camilo] and [Ξntropy].
 - 🇹🇷 [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
@@ -55,8 +64,6 @@ contributions under the same license.
 - 🇬🇷 [Chapter I][gr-philosophy], [Chapter II][gr-economics], and [Chapter III][gr-technology] is available in Greek thanks to [nikos].
 - 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima]. Also available [as a PDF][fa-pdf].
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
-- 🇮🇹 Almost [the whole site][it-site], lessons included, is available in Italian thanks to [gabridome]
-- 🇨🇿 Almost [the whole site][sk-github] is available in Slovak thanks to [LuboD]
 - 🇭🇺 [Chapter I, Chapter II, and Chapter III][hu-ebooks] is available in Hungarian thanks to [CoinCrumb]. It's also available as a [PDF][hu-pdf] and as an [epub & mobi][hu-epubmobi].
 - 🇮🇳 [Lesson 1][01-hindi] is available in Hindi thanks to [Badger]
 - 🇸🇦 [Chapter I, Chapter II, and Chapter III][ar-all] is available in Arabic thanks to [BTCTranslator].
