@@ -59,7 +59,6 @@ contributions under the same license.
 - 🇨🇿 Almost [the whole site][sk-github] is available in Slovak thanks to [LuboD]
 - 🇭🇺 [Chapter I, Chapter II, and Chapter III][hu-ebooks] is available in Hungarian thanks to [CoinCrumb]. It's also available as a [PDF][hu-pdf] and as an [epub & mobi][hu-epubmobi].
 - 🇮🇳 [Lesson 1][01-hindi] is available in Hindi thanks to [Badger]
-- 🇫🇷 [The title][fr-title] is available in French thanks to [Acid Lord][soulexporter]
 - 🇸🇦 [Chapter I, Chapter II, and Chapter III][ar-all] is available in Arabic thanks to [BTCTranslator].
 
 <!-- Translations -->
