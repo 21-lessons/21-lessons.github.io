@@ -102,10 +102,13 @@ contributions under the same license.
 - 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima]. Also available [as a PDF][fa-pdf].
 - 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
 - 🇭🇺 [Chapter I, Chapter II, and Chapter III][hu-ebooks] is available in Hungarian thanks to [CoinCrumb]. It's also available as a [PDF][hu-pdf] and as an [epub & mobi][hu-epubmobi].
-- 🇮🇳 [Lesson 1][01-hindi] is available in Hindi thanks to [Badger]
 - 🇸🇦 [Chapter I, Chapter II, and Chapter III][ar-all] is available in Arabic thanks to [BTCTranslator].
+- 🇮🇳 [Lesson 1][01-hindi], [Lesson 2][02-hindi], and [Lesson 3][03-hindi] is available in Hindi thanks to [Badger]
 
 <!-- Translations -->
+[01-hindi]: https://memebadger.com/lesson-1-immutability-and-change/
+[02-hindi]: https://memebadger.com/lesson-2-the-scarcity-of-scarcity/
+[03-hindi]: https://memebadger.com/lesson-3-replication-and-locality/
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
 [es-economics]: https://telegra.ph/Cap%C3%ADtulo-II--Econom%C3%ADa-11-01
 [es-technology]: https://telegra.ph/Cap%C3%ADtulo-III--Tecnolog%C3%ADa-11-01
