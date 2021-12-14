@@ -16,6 +16,19 @@ contributions under the same license.
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [other-work]: https://dergigi.com/translations/
 
+<div style="position: relative;">
+  <picture>
+    <source srcset="/assets/images/translations.webp" type="image/webp"/>
+    <source srcset="/assets/images/translations.png" type="image/png"/>
+    <img src="/assets/images/translations.webp" alt="21 Lessons - What I've Learned from Falling Down the Bitcoin Rabbit Hole">
+  </picture>
+  <a href="https://amzn.to/3DUxs1O" title="French" style="position: absolute; left: 5%; top: 0%; width: 21%; height: 100%; z-index: 2;"></a>
+  <a href="https://amzn.to/2AtlfWZ" title="German" style="position: absolute; left: 21%; top: 0%; width: 14%; height: 100%; z-index: 2;"></a>
+  <a href="https://amzn.to/2Wa4qJo" title="English" style="position: absolute; left: 35%; top: 0%; width: 30%; height: 100%; z-index: 2;"></a>
+  <a href="https://konsensus.network/product/21-lessen/" title="Dutch" style="position: absolute; left: 65%; top: 0%; width: 14%; height: 100%; z-index: 2;"></a>
+  <a href="https://amzn.to/2WYYkKL" title="Finnish" style="position: absolute; left: 79%; top: 0%; width: 21%; height: 100%; z-index: 2;"></a>
+</div>
+
 ### Remixes
 
 - 🎮 [21 Lessons VR][vr] by BITPAINT
