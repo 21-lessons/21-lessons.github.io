@@ -115,7 +115,7 @@ contributions under the same license.
 [tr-philosophy]: https://medium.com/@denizozzgur/bitcoinin-felsefi-%C3%B6%C4%9Fretileri-e7df2338a2fc
 [tr-economics]: https://medium.com/@denizozzgur/bitcoinin-ekonomi-%C3%B6%C4%9Fretileri-a3e87dcff525
 [tr-technology]: https://medium.com/@denizozzgur/blockchainin-teknolojik-%C3%B6%C4%9Fretileri-34ae5a6949a7
-[zh-all]: https://www.weibo.com/ttarticle/p/show?id=2309404363977307068572
+[zh-all]: https://mirror.xyz/andywan.eth/xdQ6YAzyfg44Lnlrv1l29jF218Ds4S44plR2WN0mvzA
 [de-philosophy]: https://medium.com/@cryptomulde/122bcc603afb
 [de-economics]: https://medium.com/@cryptomulde/78f38793e17a
 [de-technology]: https://medium.com/@cryptomulde/26b86c456dc
