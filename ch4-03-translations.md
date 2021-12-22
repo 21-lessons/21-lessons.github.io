@@ -56,6 +56,12 @@ contributions under the same license.
 
 [vr]: {{ 'vr' | absolute_url }}
 
+### Reviews
+
+- [🇹🇷 Turkish video review][tr-review] by Stackmore
+
+[tr-review]: https://youtu.be/Dfa89zx6D3o
+
 ### Print
 
 - 🇺🇸 [English: 21 Lessons][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
