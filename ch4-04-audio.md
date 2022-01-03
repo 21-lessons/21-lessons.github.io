@@ -24,7 +24,7 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 ### Commentary
 
 Below are recordings of thoughts, discussions, and commentary on 21 Lessons,
-thanks to the fine folks who were kind enough to [interview me][interviews]:
+thanks to the fine folks who were kind enough to interview me:
 
 **English**
 
@@ -36,7 +36,9 @@ thanks to the fine folks who were kind enough to [interview me][interviews]:
 - [21 Lessons, Chapter 2][turm9] on Bitcoin im Turm
 - [21 Lessons, Chapter 3][turm10] on Bitcoin im Turm
 
-[interviews]: https://dergigi.com/bitcoin/interviews/
+You can find more podcast interviews and discussions at my [media archive].
+
+[media]: https://dergigi.com/media/
 
 [ch1-audio]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_256---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-1-e47u83
 [ch2-audio]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_257---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-2-e489f9
