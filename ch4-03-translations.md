@@ -50,18 +50,6 @@ contributions under the same license.
 
 ---
 
-### Remixes
-
-- 🎮 [21 Lessons VR][vr] by BITPAINT
-
-[vr]: {{ 'vr' | absolute_url }}
-
-### Reviews
-
-- [🇹🇷 Turkish video review][tr-review] by Stackmore
-
-[tr-review]: https://youtu.be/Dfa89zx6D3o
-
 ### Print
 
 - 🇺🇸 [English: 21 Lessons][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
@@ -110,6 +98,18 @@ contributions under the same license.
 - 🇭🇺 [Chapter I, Chapter II, and Chapter III][hu-ebooks] is available in Hungarian thanks to [CoinCrumb]. It's also available as a [PDF][hu-pdf] and as an [epub & mobi][hu-epubmobi].
 - 🇸🇦 [Chapter I, Chapter II, and Chapter III][ar-all] is available in Arabic thanks to [BTCTranslator].
 - 🇮🇳 [Lesson 1][01-hindi], [Lesson 2][02-hindi], and [Lesson 3][03-hindi] is available in Hindi thanks to [Badger]
+
+### Remixes
+
+- 🎮 [21 Lessons VR][vr] by BITPAINT
+
+[vr]: {{ 'vr' | absolute_url }}
+
+### Reviews
+
+- [🇹🇷 Turkish video review][tr-review] by Stackmore
+
+[tr-review]: https://youtu.be/Dfa89zx6D3o
 
 <!-- Translations -->
 [01-hindi]: https://memebadger.com/lesson-1-immutability-and-change/
