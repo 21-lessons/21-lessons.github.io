@@ -10,8 +10,14 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 ### Audiobook
 
-* [English](https://amzn.to/2ZeUsYX)
-* [German](https://amzn.to/3khg7Z3)
+- 🇺🇸 The English audiobook is available on [Audible][en-audible] and [Bitcoin Audible][en-guy]
+- 🇩🇪 The German audiobook is available on [Aprycot][de-aprycot], [Audible][de-audible], and [YouTube][de-youtube]
+
+[de-aprycot]: https://aprycot.media/blog/gigis-21-lektionen-hoerbuch/
+[de-audible]: https://amzn.to/3khg7Z3
+[de-youtube]: https://youtu.be/36zfTwKDcLM
+[en-audible]: https://amzn.to/2ZeUsYX
+[en-guy]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_256---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-1-e47u83
 
 ### Reading
 
