@@ -79,16 +79,7 @@ contributions under the same license.
 
 ### Audio versions
 
-- 🇩🇪 The German audiobook is available on [Aprycot][de-aprycot], [Audible][de-audible], and [YouTube][de-youtube]
-- 🇺🇸 The English audiobook is available on [Audible][en-audible] and [Bitcoin Audible][en-guy]
-
-See [/audio] for commentary and podcast episodes.
-
-[de-aprycot]: https://aprycot.media/blog/gigis-21-lektionen-hoerbuch/
-[de-audible]: https://amzn.to/3khg7Z3
-[de-youtube]: https://youtu.be/36zfTwKDcLM
-[en-audible]: https://amzn.to/2ZeUsYX
-[en-guy]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_256---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-1-e47u83
+See [/audio][audio] for audiobooks, audio versions, commentary, and podcast episodes.
 
 [audio]: {{ 'audio' | absolute_url }}
 
