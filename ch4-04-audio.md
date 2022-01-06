@@ -10,8 +10,8 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 ### Audiobook
 
-- 🇺🇸 The English audiobook is available on [Audible][en-audible] and [Bitcoin Audible][en-guy]
-- 🇩🇪 The German audiobook is available on [Aprycot][de-aprycot], [Audible][de-audible], and [YouTube][de-youtube]
+- 🇺🇸 The [English audiobook][en-audible] is available on [Audible][en-audible] and [Bitcoin Audible][en-guy]
+- 🇩🇪 The [German audiobook][de-audible] is available on [Aprycot][de-aprycot], [Audible][de-audible], and [YouTube][de-youtube]
 
 [de-aprycot]: https://aprycot.media/blog/gigis-21-lektionen-hoerbuch/
 [de-audible]: https://amzn.to/3khg7Z3
