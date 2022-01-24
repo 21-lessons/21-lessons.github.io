@@ -104,6 +104,7 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 - 🇭🇺 [Chapter I, Chapter II, and Chapter III][hu-ebooks] is available in Hungarian thanks to [CoinCrumb]. It's also available as a [PDF][hu-pdf] and as an [epub & mobi][hu-epubmobi].
 - 🇸🇦 [Chapter I, Chapter II, and Chapter III][ar-all] is available in Arabic thanks to [BTCTranslator].
 - 🇮🇳 [Lesson 1][01-hindi], [Lesson 2][02-hindi], and [Lesson 3][03-hindi] is available in Hindi thanks to [Badger]
+- 🇵🇱 [Chapter I][pl-philosophy] is available in Polish thanks to [MF]
 
 ### Remixes
 
@@ -118,6 +119,7 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 [tr-review]: https://youtu.be/Dfa89zx6D3o
 
 <!-- Translations -->
+[pl-philosophy]: https://telegra.ph/21-LEKCJI-01-23
 [01-hindi]: https://memebadger.com/lesson-1-immutability-and-change/
 [02-hindi]: https://memebadger.com/lesson-2-the-scarcity-of-scarcity/
 [03-hindi]: https://memebadger.com/lesson-3-replication-and-locality/
@@ -181,3 +183,4 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 [Badger]: https://memebadger.com/
 [CoinCrumb]: https://twitter.com/CoinCrumb
 [BTCTranslator]: https://twitter.com/BTCTranslator
+[MF]: https://twitter.com/fkenfkg2fjsks
