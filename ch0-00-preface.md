@@ -1,36 +1,35 @@
 ---
 layout: lesson
-title: Preface
-quote: "Little Alice fell <br/> d <br/> o <br/> w <br/> n <br/> the hOle, <br/> bumped her head <br/> and bruised her soul."
+title: Předmluva
+quote: "Alenka spadla <br/> d <br/> o <br/> l <br/> ů <br/> do nOry, <br/> narazila si hlavu <br/> a poranila si duši."
 audio: /assets/audio/21lessons/0-00.m4a
 permalink: preface
 order: ch0-00
 toc: true
 ---
 
-Falling down the Bitcoin rabbit hole is a strange experience. Like many others,
-I feel like I have learned more in the last couple of years studying Bitcoin
-than I have during two decades of formal education.
+Pád do Bitcoinové králičí nory je zvláštní zážitek. Stejně jako mnozí jiní, 
+mám i já pocit, že jsem se během posledních pár let studia Bitcoinu naučil víc, 
+než za dvě desetiletí formálního vzdělávání.
 
-The following lessons are a distillation of what I’ve learned. First published
-as an article series titled [“What I’ve Learned From Bitcoin,”][I] what follows
-can be seen as a second edition of the original series.
+Následující lekce jsou destilátem toho, co jsem se dozvěděl. Poprvé jsem je 
+publikoval jako sérii článků s názvem ["Co jsem se naučil z Bitcoinu"][I], a to, 
+co následuje, lze považovat za druhé vydání původní série.
 
-Like Bitcoin, these lessons aren't a static thing. I plan to work on them
-periodically, releasing updated versions and additional material in the future.
+Stejně jako Bitcoin, ani tyto lekce nejsou statickou záležitostí. Plánuji na nich 
+pravidelně pracovat a v budoucnu vydávat aktualizované verze a další materiály.
 
-Unlike Bitcoin, future versions of this project do not have to be backward
-compatible. Some lessons might be extended, others might be reworked or
-replaced. I hope that a future version will be something you can hold in your
-hands, but I don’t want to promise anything just yet.
+Na rozdíl od Bitcoinu nemusí být budoucí verze tohoto projektu zpětně kompatibilní. 
+Některé lekce mohou být rozšířeny, jiné přepracovány nebo nahrazeny. Doufám, 
+že budoucí verze bude něco, co budete moci držet v rukou, ale zatím nechci nic slibovat.
 
-Bitcoin is an inexhaustible teacher, which is why I do not claim that these
-lessons are all-encompassing or complete. They are a reflection of my personal
-journey down the rabbit hole. There are many more lessons to be learned, and
-every person will learn something different from entering the world of Bitcoin.
+Bitcoin je nevyčerpatelný učitel, a proto netvrdím, že jsou tyto lekce všeobjímající
+nebo úplné. Jsou odrazem mé osobní cesty králičí norou. Lekcí existuje mnohem více
+a každý člověk se po vstupu do světa Bitcoinu naučí něco jiného.
 
-I hope that you will find these lessons useful and that the process of learning
-them by reading won’t be as arduous and painful as learning them firsthand.
+Doufám, že pro vás budou tyto lekce užitečné a že proces jejich poznávání 
+prostřednictvím čtení nebude tak namáhavý a bolestivý, 
+jako jejich učení se z první ruky.
 
 [Gigi][dergigi]
 
