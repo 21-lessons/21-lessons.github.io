@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: Table of Contents
-quote: "\"Would you tell me, please, which way I ought to go from here?\"<br/> \"That depends a good deal on where you want to get to.\"<br/> \"I don't much care where –\"<br/> \"Then it doesn't matter which way you go.\""
+title: Obsah
+quote: "\"Mohl bys mi, prosím, říct, kudy mám jít dál?\"<br/> \"To hodně záleží na tom, kam se chceš dostat.\"<br/> \"Mně je celkem jedno, kam –\"<br/> \"Pak je tedy jedno, kudy půjdeš.\""
 audio: /assets/audio/21lessons/0-01.m4a
 permalink: toc
 order: ch0-01
