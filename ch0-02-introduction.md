@@ -1,28 +1,28 @@
 ---
 layout: lesson
-title: Introduction
-quote: "\"But I don’t want to go among mad people,\" Alice remarked.</br> \"Oh, you can’t help that,\" said the Cat: \"we’re all mad here. I’m mad. You’re mad.\"</br> \"How do you know I’m mad?\" said Alice.</br> \"You must be,\" said the Cat, \"or you wouldn’t have come here.\"</br>"
+title: Úvod
+quote: "\"Ale já nechci jít mezi šílené lidi,\" poznamenala Alenka.</br> \"No, s tím nic nenaděláš,\" řekl Kocour: \"Všichni jsme tu blázni. Já jsem šílený. Ty jsi šílená.\"</br> \"Jak víš, že jsem blázen?\" zeptala se Alenka.</br> \"Musíš být,\" said the Cat, \"jinak bys sem nechodila.\"</br>"
 audio: /assets/audio/21lessons/0-02.m4a
 permalink: intro
 order: ch0-02
 toc: true
 ---
 
-In October 2018, Arjun Balaji asked the innocuous question, [*What have you
-learned from Bitcoin?*][this question] After trying to answer this question in a
-short tweet, and failing miserably, I realized that the things I've learned are
-far too numerous to answer quickly, if at all.
+V říjnu 2018 položil Arjun Balaji nevinnou otázku: [*Co jste se naučili od 
+Bitcoinu?*][this question] Poté, co jsem se pokusil na tuto otázku odpovědět 
+v krátkém tweetu, a žalostně neúspěšně, jsem si uvědomil, že věcí, které 
+jsem se naučil, je příliš mnoho na to, abych na ně mohl odpovědět rychle. 
+Pokud vůbec.
 
-The things I've learned are, obviously, about Bitcoin - or at least related to
-it. However, while some of the inner workings of Bitcoin are explained, the
-following lessons are not an explanation of how Bitcoin works or what it is,
-they might, however, help to explore some of the things Bitcoin touches:
-philosophical questions, economic realities, and technological innovations.
+Věci, které jsem se naučil, se samozřejmě týkají Bitcoinu - nebo s ním alespoň 
+souvisejí. Nicméně, i když jsou zde některé z vnitřních mechanismů Bitcoinu 
+objasněny, následující lekce nejsou vysvětlením toho, jak Bitcoin funguje nebo 
+co to je. Mohly by však pomoci prozkoumat některé ze záležitostí, jichž se 
+Bitcoin dotýká: filosofické otázky, ekonomické skutečnosti a technologické inovace.
 
-The 21 lessons are structured in bundles of seven, resulting in three chapters.
-Each chapter looks at Bitcoin through a different lens, extracting what
-lessons can be learned by inspecting this strange network from a different
-angle.
+Jednadvacet lekcí je strukturováno do svazků po sedmi, což vyúsťuje ve tři 
+kapitoly. Každá kapitola se na Bitcoin dívá jinou optikou a extrahuje z něj 
+poučení, která lze získat při zkoumání této podivné sítě z různých úhlů pohledu.
 
 [Chapter 1][chapter1] explores the philosophical teachings of Bitcoin. The
 interplay of immutability and change, the concept of true scarcity, Bitcoin's
