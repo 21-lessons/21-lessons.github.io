@@ -18,34 +18,34 @@ Věci, které jsem se naučil, se samozřejmě týkají Bitcoinu - nebo s ním a
 souvisejí. Nicméně, i když jsou zde některé z vnitřních mechanismů Bitcoinu 
 objasněny, následující lekce nejsou vysvětlením toho, jak Bitcoin funguje nebo 
 co to je. Mohly by však pomoci prozkoumat některé ze záležitostí, jichž se 
-Bitcoin dotýká: filosofické otázky, ekonomické skutečnosti a technologické inovace.
+Bitcoin dotýká: filosofické otázky, ekonomické skutečnosti a technologické 
+inovace.
 
 Jednadvacet lekcí je strukturováno do svazků po sedmi, což vyúsťuje ve tři 
 kapitoly. Každá kapitola se na Bitcoin dívá jinou optikou a extrahuje z něj 
-poučení, která lze získat při zkoumání této podivné sítě z různých úhlů pohledu.
+poučení, která lze získat při zkoumání této podivné sítě z různých úhlů 
+pohledu.
 
-[Chapter 1][chapter1] explores the philosophical teachings of Bitcoin. The
-interplay of immutability and change, the concept of true scarcity, Bitcoin's
-immaculate conception, the problem of identity, the contradiction of replication
-and locality, the power of free speech, and the limits of knowledge.
+[Kapitola 1][chapter1] zkoumá filosofické učení Bitcoinu. Souhru neměnnosti 
+a změny, koncept skutečné vzácnosti, neposkvrněné početí Bitcoinu, problém 
+identity, rozpor replikace a polohy, sílu svobody slova a hranice poznání.
 
-[Chapter 2][chapter2] explores the economic teachings of Bitcoin. Lessons about
-financial ignorance, inflation, value, money and the history of money,
-fractional reserve banking, and how Bitcoin is re-introducing sound money in a
-sly, roundabout way.
+[Kapitola 2][chapter2] se zabývá ekonomickým poznáním Bitcoinu. Lekce 
+o finanční nevědomosti, inflaci, hodnotě, penězích a jejich historii, 
+bankovnictví frakčních rezerv a o tom, jak Bitcoin mazaně a oklikou znovu 
+zavádí zdravé peníze.
 
-[Chapter 3][chapter3] explores some of the lessons learned by examining the
-technology of Bitcoin.  Why there is strength in numbers, reflections on trust,
-why telling time takes work, how moving slowly and not breaking things is a
-feature and not a bug, what Bitcoin's creation can tell us about privacy, why
-cypherpunks write code (and not laws), and what metaphors might be useful to
-explore Bitcoin's future.
+[Kapitola 3][chapter3] se věnuje některým poznatkům získaným při zkoumání 
+technologie Bitcoinu. Proč je v číslech síla, úvahy o důvěře, proč určování 
+času vyžaduje práci, jak je pomalý vývoj a nenarušování systému předností, 
+a nikoli chybou, co nám může vznik Bitcoinu říci o soukromí, proč cypherpunkeři 
+píší kód (a ne zákony) a jaké metafory by mohly být užitečné pro zkoumání 
+budoucnosti Bitcoinu.
 
-Each lesson contains several quotes and links throughout the text. If I have
-explored an idea in more detail, you can find links to my related works in the
-"Through the Looking-Glass" section. If you like to go deeper, links to the most
-relevant material are listed in the "Down the Rabbit Hole" section. Both can be
-found at the end of each lesson.
+Každá lekce obsahuje v textu několik citátů a odkazů. Pokud jsem nějakou 
+myšlenku prozkoumal podrobněji, najdete odkazy na mé související práce v části 
+"Za zrcadlem". Pokud byste rádi šli hlouběji, odkazy na nejdůležitější materiály 
+jsou uvedeny v části "Dolů králičí norou". Obojí najdete na konci každé lekce.
 
 Even though some prior knowledge about Bitcoin is beneficial, I hope that these
 lessons can be digested by any curious reader. While some relate to each other,
