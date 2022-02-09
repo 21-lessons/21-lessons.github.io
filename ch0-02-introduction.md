@@ -47,26 +47,25 @@ myšlenku prozkoumal podrobněji, najdete odkazy na mé související práce v �
 "Za zrcadlem". Pokud byste rádi šli hlouběji, odkazy na nejdůležitější materiály 
 jsou uvedeny v části "Dolů králičí norou". Obojí najdete na konci každé lekce.
 
-Even though some prior knowledge about Bitcoin is beneficial, I hope that these
-lessons can be digested by any curious reader. While some relate to each other,
-each lesson should be able to stand on its own and can be read independently. I
-did my best to shy away from technical jargon, even though some domain-specific
-vocabulary is unavoidable.
+Přestože jsou určité předchozí znalosti o Bitcoinu přínosné, doufám, že tyto 
+lekce zvládne strávit každý zvídavý čtenář. I když některé z lekcí spolu 
+souvisejí, každá by měla být schopna obstát sama o sobě a lze je číst samostatně. 
+Technickému žargonu jsem se snažil maximálně vyhýbat, avšak některým slovíčkům, 
+specifickým pro danou oblast, se nelze zcela vyvarovat.
 
-I hope that my writing serves as inspiration for others to dig beneath the
-surface and examine some of the deeper questions Bitcoin raises. My own
-inspiration came from a multitude of authors and content creators to all of whom
-I am eternally grateful.
+Doufám, že můj text poslouží ostatním jako inspirace, aby se ponořili pod povrch 
+a prozkoumali některé z hlubších otázek, které Bitcoin vyvolává. Moji vlastní 
+inspiraci mi poskytlo množství jiných autorů a jim všem jsem neskonale vděčný.
 
-Last but not least: my goal in writing this is not to convince you of anything.
-My goal is to make you think, and show you that there is way more to Bitcoin
-than meets the eye. I can’t even tell you what Bitcoin is or what Bitcoin will
-teach you. You will have to find that out for yourself.
+V neposlední řadě: cílem mého psaní není vás o čemkoli přesvědčovat. Mým cílem 
+je přimět vás k zamyšlení a ukázat vám, že Bitcoin je mnohem víc, než se na první 
+pohled zdá. Nemohu vám ani říct, co Bitcoin je, nebo co vás naučí. To si budete 
+muset zjistit sami pro sebe.
 
-> "After this, there is no turning back. You take the blue pill --- the
-> story ends, you wake up in your bed and believe whatever you want to
-> believe. You take the red pill --- you stay in Wonderland, and I show
-> you how deep the rabbit hole goes."
+> "Po tomhle už není cesty zpět. Vezmeš si modrou pilulku - příběh skončí, 
+> probudíš se ve své posteli a budeš věřit tomu, čemu chceš věřit. Vezmeš 
+> si červenou pilulku - zůstaneš v Říši divů a já ti ukážu, jak hluboko 
+> králičí nora vede."
 > <cite>[Morpheus][Morpheus]</cite>
 
 {% include image.html path="./assets/images/bitcoin-orange-pill.jpg" %}
