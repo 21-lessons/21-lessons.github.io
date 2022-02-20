@@ -1,8 +1,8 @@
 ---
 layout: lesson
-title: Chapter I
-subtitle: Philosophy
-quote: "The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing."
+title: Kapitola I
+subtitle: Filosofie
+quote: "Myš se na ni podívala poněkud zkoumavě a zdálo se jí, že mrká jedním ze svých oček, ale nic neřekla."
 audio: /assets/audio/21lessons/1-00.m4a
 permalink: philosophy
 order: ch1-00
