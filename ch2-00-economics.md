@@ -1,8 +1,8 @@
 ---
 layout: lesson
-title: Chapter II
-subtitle: Economics
-quote: "A large rose tree stood near the entrance of the garden: the roses on it were white, but there were three gardeners at it, busily painting them red. This Alice thought a very curious thing..."
+title: Kapitola II
+subtitle: Ekonomika
+quote: "U vchodu do zahrady stál velký růžový strom: růže na něm byly bílé, ale byli u něj tři zahradníci a pilně je natírali na červeno. Alence to připadalo velmi zvláštní..."
 audio: /assets/audio/21lessons/2-00.m4a
 permalink: economics
 order: ch2-00
