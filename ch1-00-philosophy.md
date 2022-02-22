@@ -9,36 +9,35 @@ order: ch1-00
 toc: true
 ---
 
-Looking at Bitcoin superficially, one might conclude that it is slow, wasteful,
-unnecessarily redundant, and overly paranoid. Looking at Bitcoin inquisitively,
-one might find out that things are not as they seem at first glance.
+Podíváme-li se na Bitcoin povrchně, můžeme dojít k závěru, že je pomalý, 
+nehospodárný, nepotřebný a příliš paranoidní. Při zvídavém pohledu by však 
+mohl člověk zjistit, že Bitcoin není takový, jakým se na první pohled zdá.
 
-Bitcoin has a way of taking your assumptions and turning them on their heads.
-After a while, just when you were about to get comfortable again, Bitcoin will
-smash through the wall like a bull in a china shop and shatter your assumptions
-once more.
+Bitcoin umí vzít vaše předpoklady a postavit je na hlavu. Po nějaké době, 
+zrovna když už jste si zase připadali silní v kramflecích, Bitcoin znovu 
+přiletí jako neřízená střela a vaše předpoklady opět rozbije.
 
-{% include image.html path="./assets/images/blind-monks.jpg" caption="Blind monks examining the Bitcoin bull" %}
+{% include image.html path="./assets/images/blind-monks.jpg" caption="Slepí mniši zkoumající Bitcoinového býka" %}
 
-Bitcoin is a child of many disciplines. Like blind monks examining an elephant,
-everyone who approaches this novel technology does so from a different angle.
-And everyone will come to different conclusions about the nature of the beast.
+Bitcoin je plodem mnoha oborů. Stejně tak jako slepí mniši zkoumají slona, 
+každý, kdo přistupuje k této nové technologii, tak činí z jiného úhlu. 
+A každý dojde k odlišným závěrům o povaze tohoto zvířete.
 
-The following lessons are about some of my assumptions which Bitcoin shattered,
-and the conclusions I arrived at. Philosophical questions of immutability,
-scarcity, locality, and identity are explored in the first four lessons.
+Následující lekce se týkají některých mých předpokladů, které Bitcoin 
+zbořil, a závěrů, k nimž jsem dospěl. V prvních čtyřech lekcích se věnuji 
+filozofickým otázkám neměnnosti, vzácnosti, lokality a identity.
 
 {% include lesson-list.html chapter="1"%}
 
-Lesson 5 explores how Bitcoin's origin story is not only fascinating but
-absolutely essential for a leaderless system. The last two lessons of this
-chapter explore the power of free speech and the limits of our individual
-knowledge, reflected by the surprising depth of the Bitcoin rabbit hole.
+Pátá lekce zkoumá, jak je příběh vzniku bitcoinu nejen fascinující, ale 
+pro tento systém bez vůdce naprosto zásadní. Poslední dvě lekce této 
+kapitoly zkoumají sílu svobody slova a hranice našeho individuálních 
+poznání, odrážející se v překvapivé hloubce Bitcoinové králičí nory.
 
-I hope that you will find the world of Bitcoin as educational, fascinating and
-entertaining as I did and still do. I invite you to follow the white rabbit and
-explore the depths of this rabbit hole. Now hold on to your pocket watch, pop
-down, and enjoy the fall.
+Doufám, že svět Bitcoinu pro vás bude stejně poučný, fascinující a zábavný, 
+tak jako pro mě byl a stále je. Zvu vás, abyste následovali bílého králíka 
+a prozkoumali hlubiny této králičí nory. A teď si podržte své kapesní 
+hodinky, skočte dolů a užijte si pád.
 
 <!-- Wikipedia -->
 [alice]: https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland
