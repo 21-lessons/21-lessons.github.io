@@ -1,8 +1,8 @@
 ---
 layout: lesson
-title: Chapter III
-subtitle: Technology
-quote: "\"Now, I'll manage better this time\" she said to herself, and began by taking the little golden key, and unlocking the door that led into the garden"
+title: Kapitola III
+subtitle: Technologie
+quote: "\"Tentokrát to zvládnu lépe,\" řekla si a začala tím, že vzala malý zlatý klíč a odemkla dveře vedoucí do zahrady."
 audio: /assets/audio/21lessons/3-00.m4a
 permalink: technology
 order: ch3-00
