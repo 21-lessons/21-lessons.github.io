@@ -1,8 +1,8 @@
 ---
 layout: lesson
-title: Conclusion
-subtitle: Lessons Learned
-quote: "\"Begin at the beginning,\" the King said, very gravely, \"and go on till you come to the end: then stop.\""
+title: Závěr
+subtitle: Získané poznatky
+quote: "\"Začni od začátku,\" řekl Král velmi vážně, \"a pokračuj, dokud nedojdeš na konec. Pak se zastav.\""
 audio: /assets/audio/21lessons/4-00.m4a
 permalink: conclusion
 order: ch4-00
