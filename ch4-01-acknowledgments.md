@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: Acknowledgments
-quote: "\"Thank you,\" said Alice"
+title: Poděkování
+quote: "\"Děkuji,\" řekla Alenka"
 permalink: acknowledgments
 order: ch4-01
 toc: true
