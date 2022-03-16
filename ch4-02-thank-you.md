@@ -1,8 +1,8 @@
 ---
 layout: lesson
-title: Thank You
-subtitle: ...for reading, for being here, for trying to understand.
-quote: "\"It seems very pretty,\" she said when she had finished it, \"but it’s rather hard to understand!\""
+title: Díky Vám
+subtitle: ...za přečtení, za setrvání, za snahu porozumět.
+quote: "\"Vypadá to moc hezky,\" řekla, když to dočetla, \"ale je to dost těžké na pochopení!\""
 permalink: thank-you
 order: ch4-02
 toc: true
