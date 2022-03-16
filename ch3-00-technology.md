@@ -9,41 +9,39 @@ order: ch3-00
 toc: true
 ---
 
-Golden keys, clocks which only work by chance, races to solve strange riddles,
-and builders that don't have faces or names. What sounds like fairy tales from
-Wonderland is daily business in the world of Bitcoin.
+Zlaté klíče, hodiny, které fungují jen náhodou, závody v řešení podivných hádanek 
+a stavitelé, kteří nemají tváře ani jména. To, co zní jako pohádky z Říše divů, 
+je ve světě Bitcoinu na denním pořádku.
 
-As we explored in [Chapter 2][chapter2], large parts of the current financial
-system are systematically broken. Like Alice, we can only hope to manage better
-this time. But, thanks to a pseudonymous inventor, we have incredibly
-sophisticated technology to support us this time around: Bitcoin.
+Jak jsme již zjistili v [Kapitole 2][chapter2], mnohé aspekty současného 
+finančního systému jsou systémově vadné. Stejně jako Alenka můžeme jen doufat, 
+že si tentokrát poradíme lépe. Díky pseudonymnímu vynálezci však nyní máme 
+k dispozici neuvěřitelně sofistikovanou technologii: Bitcoin.
 
-Solving problems in a radically decentralized and adversarial environment
-requires unique solutions. What would otherwise be trivial problems to solve
-are everything but in this strange world of nodes. Bitcoin relies on strong
-cryptography for most solutions, at least if looked at through the lens of
-technology. Just how strong this cryptography is will be explored in one of the
-following lessons.
+Řešení problémů v radikálně decentralizovaném a nepřátelském prostředí vyžaduje 
+jedinečná řešení. To, co by jinak bylo triviální, je v tomto podivném světě uzlů 
+přesným opakem. Bitcoin při většině řešení spoléhá na silnou kryptografii, 
+alespoň pokud se díváme optikou technologie. Jak silná tato kryptografie je, 
+prozkoumáme v jedné z následujících lekcí.
 
-Cryptography is what Bitcoin uses to remove trust in authorities. Instead of
-relying on centralized institutions, the system relies on the final authority of
-our universe: physics. Some grains of trust still remain, however. We will
-examine these grains in the second lesson of this chapter.
+Kryptografie je tím, co Bitcoin využívá k odstranění důvěry v autoritu. Místo 
+na centralizované instituce se systém spoléhá na konečnou autoritu našeho 
+vesmíru: fyziku. Některá zrnka důvěry však stále přetrvávají. Ta prozkoumáme 
+ve druhé lekci této kapitoly.
 
 {% include lesson-list.html chapter="3"%}
 
-The last couple of lessons explore the ethos of technological development in
-Bitcoin, which is arguably as important as the technology itself. Bitcoin is not
-the next shiny app on your phone. It is the foundation of a new economic
-reality, which is why Bitcoin should be treated as nuclear-grade financial
-software.
+Posledních pár lekcí se zabývá étosem technologického vývoje Bitcoinu, který je 
+pravděpodobně stejně důležitý jako samotná technologie. Bitcoin není další 
+nablýskaná aplikace ve vašem telefonu. Je to základ nové ekonomické reality, 
+a proto by se k Bitcoinu mělo přistupovat jako k jaderné zbrani finančního softwaru.
 
-Where are we in this financial, societal, and technological revolution? Networks
-and technologies of the past may serve as metaphors for Bitcoins future, which
-are explored in the last lesson of this chapter.
+Kde se v této finanční, společenské a technologické revoluci nacházíme? Sítě 
+a technologie minulosti nám mohou posloužit jako metafory pro budoucnost Bitcoinu, 
+kterou se zabýváme v poslední lekci této kapitoly.
 
-Once more, strap in and enjoy the ride. Like all exponential technologies, we
-are about to go parabolic.
+Ještě jednou - připoutejte se a užijte si cestu. Čeká nás, stejně jako u všech 
+exponenciálních technologií, parabolická jízda.
 
 <!-- Internal -->
 [chapter2]: {{ 'economics' | absolute_url }}
