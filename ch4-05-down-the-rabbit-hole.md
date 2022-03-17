@@ -1,7 +1,7 @@
 ---
 layout: lesson
-title: Down the Rabbit Hole
-quote: "I almost wish I hadn't gone down that rabbit-hole, and yet, and yet - it's rather curious, you know, this sort of life."
+title: Hlouběji králičí norou
+quote: "Skoro bych si přála, abych do té králičí nory nespadla, a přece, a přece - je to docela zvláštní, víte, tenhle život."
 permalink: rabbithole
 order: ch4-05
 toc: true
