@@ -1,8 +1,8 @@
 ---
 layout: lesson
-title: Translations
+title: Překlady
 subtitle: بيتكوين
-quote: "These words were followed by a very long silence, broken only by an occasional exclamation of \"hjckrrh!\""
+quote: "Po těchto slovech následovalo velmi dlouhé ticho, přerušované jen občasným zvoláním \"hjckrrh!\""
 permalink: translations
 order: ch4-03
 toc: true
