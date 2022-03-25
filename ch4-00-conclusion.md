@@ -9,65 +9,61 @@ order: ch4-00
 toc: true
 ---
 
-As mentioned in the beginning, I think that any answer to the question *“What
-have you learned from Bitcoin?”* will always be incomplete. The symbiosis of
-what can be seen as multiple living systems — Bitcoin, the technosphere, and
-economics — is too intertwined, the topics too numerous, and things are moving
-too fast to ever be fully understood by a single person.
+Jak už jsem zmínil na začátku, myslím, že odpověď na otázku *“Co jste se naučili 
+od Bitcoinu?”* bude vždy neúplná. Symbióza toho, co lze považovat za několik 
+živých systémů - Bitcoinu, technosféry a ekonomiky - je příliš provázaná. Témat 
+je velmi mnoho a věci se vyvíjejí příliš rychle na to, aby je jediný člověk 
+dokázal plně pochopit.
 
-Even without understanding it fully, and even with all its quirks and seeming
-shortcomings, Bitcoin undoubtedly works. It keeps producing blocks roughly every
-ten minutes and does so beautifully. The longer Bitcoin continues to work, the
-more people will opt-in to use it.
+I když mu plně nerozumíme a i přes všechny jeho zvláštnosti a zdánlivé nedostatky 
+Bitcoin nepochybně funguje. Bloky produkuje zhruba každých deset minut a činí tak 
+báječně. Čím déle bude Bitcoin fungovat, tím více lidí se rozhodne jej používat.
 
-> "It's true that things are beautiful when they work. Art is function."
+> "Je pravda, že věci jsou krásné, když fungují. Funkčnost je uměním."
 > <cite>[Giannina Braschi]</cite>
 
-Bitcoin is a child of the internet. It is growing exponentially, blurring the
-lines between disciplines. It isn’t clear, for example, where the realm of pure
-technology ends and where another realm begins. Even though Bitcoin requires
-computers to function efficiently, computer science is not sufficient to
-understand it. Bitcoin is not only borderless in regards to its inner workings
-but also boundaryless in respect to academic disciplines.
+Bitcoin je dítětem internetu. Exponenciálně roste a stírá hranice mezi obory. 
+Není například jasné, kde končí sféra čistě technologická a kde začíná jiná. 
+Přestože Bitcoin ke svému efektivnímu fungování vyžaduje počítače, k jeho 
+pochopení informatika nestačí. Bitcoin je nejen neohraničený, co se týče jeho 
+vnitřního fungování, ale také bez hranic, pokud jde o akademické disciplíny.
 
-Economics, politics, game theory, monetary history, network theory, finance,
-cryptography, information theory, censorship, law and regulation, human
-organization, psychology — all these and more are areas of expertise which might
-help in the quest of understanding how Bitcoin works and what Bitcoin is.
+Ekonomie, politika, teorie her, peněžní historie, teorie sítí, finance, 
+kryptografie, teorie informací, cenzura, právo a regulace, společenské 
+uspořádání, psychologie - to a mnohé další jsou obory, které by mohly pomoci 
+při snaze o porozumění tomu, jak Bitcoin funguje a co to je.
 
-No single invention is responsible for its success. It is the combination of
-multiple, previously unrelated pieces, glued together by game theoretical
-incentives, which make up the revolution that is Bitcoin. The beautiful blend of
-many disciplines is what makes Satoshi a genius.
+Za jeho úspěch není zodpovědný žádný konkrétní vynález. Je to kombinace více 
+dříve nesouvisejících dílků pospojovaných herně-teoretickými pobídkami, které 
+tvoří revoluci, jíž je Bitcoin. Právě tato krásná směs mnoha oborů dělá 
+ze Satoshiho génia.
 
-Like every complex system, Bitcoin has to make tradeoffs in terms of efficiency,
-cost, security, and many other properties. Just like there is no perfect
-solution to deriving a square from a circle, any solution to the problems which
-Bitcoin tries to solve will always be imperfect as well.
+Stejně jako každý složitý systém musí i Bitcoin hledat kompromisy v oblasti 
+efektivity, nákladů, bezpečnosti a mnoha dalších vlastností. Stejně jako 
+neexistuje dokonalé řešení, jak z kruhu získat čtverec, bude i řešení problémů, 
+které se Bitcoin snaží přinést, vždy nedokonalé.
 
-> “I don’t believe we shall ever have a good money again before we take the
-> thing out of the hands of government, that is, we can’t take it violently
-> out of the hands of government, all we can do is by some sly roundabout way
-> introduce something that they can’t stop.”
+> “Nevěřím, že ještě někdy budeme mít dobré peníze, dokud je nevytrhneme z rukou 
+> vlády, tedy nemůžeme je vytrhnout z rukou vlády násilím, jediné, co můžeme udělat, 
+> je nějakou mazanou oklikou zavést něco, co oni nemohou zastavit.”
 > <cite>[Friedrich Hayek][sly roundabout way]</cite>
 
-Bitcoin is the sly, roundabout way to re-introduce good money to the world. It
-does so by placing a sovereign individual behind each node, just like Da Vinci
-tried to solve the intractable problem of squaring a circle by placing the
-Vitruvian Man in its center. Nodes effectively remove any concept of a center,
-creating a system which is astonishingly antifragile and extremely hard to shut
-down. Bitcoin lives, and its heartbeat will probably outlast all of ours.
+Bitcoin je tou mazanou oklikou, jak znovu zavést dobré peníze do světa. Činí tak 
+umístěním suverénního jedince za každý jeden uzel, podobně jako se Da Vinci snažil 
+vyřešit neřešitelný problém kvadratury kruhu umístěním Vitruviánského muže do jeho 
+středu. Uzly účinně odstraňují jakýkoli koncept středu, čímž vytvářejí systém, 
+který je překvapivě antifragilní a velmi obtížně vypnutelný. Bitcoin žije a tlukot 
+jeho srdce pravděpodobně přežije všechny naše.
 
-I hope you have enjoyed these twenty-one lessons. Maybe the most important
-lesson is that Bitcoin should be examined holistically, from multiple angles, if
-one would like to have something approximating a complete picture. Just like
-removing one part from a complex system destroys the whole, examining parts of
-Bitcoin in isolation seems to taint the understanding of it. If only one person
-strikes "blockchain" from her vocabulary and replaces it with "a chain of
-blocks" I will die a happy man.
+Doufám, že se vám těchto jednadvacet lekcí líbilo. Možná nejzásadnějším poznatkem 
+je, že pokud chceme mít o Bitcoinu alespoň přibližný ucelený obraz, měli bychom jej 
+zkoumat komplexně, z více úhlů pohledu. Stejně jako odstranění jedné části ze složitého 
+systému zničí celek, zkoumání jednotlivých částí Bitcoinu izolovaně zřejmě poznamená 
+jeho pochopení. Pokud jen jedna osoba vyškrtne ze svého slovníku slovo "blockchain" 
+a nahradí ho výrazem "řetězec bloků", zemřu jako šťastný člověk.
 
-In any case, my journey continues. I plan to venture further down into the
-depths of this [rabbit hole], and I invite you to [tag along][patreon] for the ride.
+V každém případě moje cesta pokračuje. Plánuji vydat se dál do hlubin této [králičí nory] 
+a zvu vás, abyste se [přidali][patreon] k té jízdě.
 
 [Buy the book »][amazon]
 
