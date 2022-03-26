@@ -8,27 +8,26 @@ order: ch4-02
 toc: true
 ---
 
-Thank you for reading 21 Lessons. If you enjoyed the book, please [buy a
-copy][amazon], [leave a review][amazon], or share it with your friends.
-You can also [buy a signed copy][signed]. If you have any suggestions for
-improvements, please reach out to me [here][contact].
+Děkuji vám za přečtení 21 lekcí. Pokud se vám kniha líbila, [kupte si ji][amazon], 
+[zanechte recenzi][amazon] nebo se o ni podělte se svými přáteli. Můžete si také 
+[zakoupit podepsaný výtisk][signed]. Pokud máte nějaké návrhy na vylepšení, 
+napište mi prosím [sem][contact].
 
 <div class="action-buttons">
-  <div class="button"><a href="https://amzn.to/2Wa4qJo">Buy the book!</a></div>
-  <small>(...or <a href="https://dergigi.com/support/">support me</a> directly)</small>
+  <div class="button"><a href="https://amzn.to/2Wa4qJo">Kupte si knihu!</a></div>
+  <small>(...nebo mě <a href="https://dergigi.com/support/">podpořte přímo</a>)</small>
 </div>
 
-I am currently working on a second, more ambitious project: [21 Ways][21ways].
-You can [support me on Patreon][patreon] to get an exclusive glimpse and early
-access to current drafts, artwork, and other things. You can also [support me
-directly][support] via bitcoin.
+V současné době pracuji na druhém, ambicióznějším projektu: [21 Ways][21ways] 
+("21 možností"). Můžete mě [podpořit na Patreonu][patreon] a získat exkluzivní 
+náhled a předčasný přístup k aktuálním návrhům, kresbám a dalším materiálům. 
+Můžete mě také [podpořit přímo][support] bitcoinem.
 
-Your support allows me to allocate more time to
-writing and creating free, open-source education. It's what I love to do. I hope
-that I will be able to dedicate all my time to it one day. To all of you who
-support me already: thank you. From the bottom of my heart.
+Díky vaší podpoře mohu věnovat více času psaní a vytváření svobodného open-source 
+vzdělávání. To miluji a dělám to rád. Doufám, že se tomu jednou budu moci věnovat 
+naplno. Všem, kteří mě již podporují: děkuji. Z celého srdce.
 
-Thank you. 🙏🧡
+Děkuji. 🙏🧡
 
 [amazon]: https://amzn.to/2VXmQgp
 [goodreads]: https://www.goodreads.com/book/show/50376693-21-lessons
