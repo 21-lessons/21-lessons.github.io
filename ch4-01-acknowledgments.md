@@ -7,44 +7,43 @@ order: ch4-01
 toc: true
 ---
 
-Thanks to the countless authors and content producers who
-influenced my thinking on Bitcoin and the topics it touches. There
-are too many to list them all, but I'll do my best to name a few.
+Děkuji nespočtu autorů a tvůrců obsahu, kteří ovlivnili mé myšlení o Bitcoinu 
+a tématech, kterých se dotýká. Je jich příliš mnoho na to, abych je uvedl 
+všechny, ale pokusím se jmenovat alespoň některé.
 
 <!-- Part I -->
--   Thanks to [Arjun Balaji] for [the tweet] which motivated me to
-    write this.
--   Thanks to [Marty Bent] for providing endless food for thought
-    and entertainment. If you are not subscribed to [Marty's Ƀent] and
-    [Tales From The Crypt], you are missing out. Cheers [Matt] and Marty
-    for guiding us through the rabbit hole.
--   Thanks to [Michael Goldstein] and [Pierre Rochard] for curating and
-    providing the greatest Bitcoin literature via the [Nakamoto
-    Institute]. And thank you for creating the [Noded Podcast]
-    which influenced my philosophical views on Bitcoin substantially.
--   Thanks to [Peter McCormack] for his [honest tweets] and the [What
-    Bitcoin Did] podcast, which keeps providing great insights from many
-    areas of the space.
+-   Děkuji [Arjunovi Balajimu] za [tweet], který mě motivoval k sepsání 
+    tohoto textu.
+-   Díky [Martymu Bentovi] za nekonečné množství podnětů k přemýšlení 
+    a zábavu. Pokud nejste přihlášeni k odběru [Marty's Ƀent] a [Tales 
+    From The Crypt], přicházíte o hodně. Díky [Mattovi] a Martymu 
+    za průvodcovství králičí norou.
+-   Děkuji [Michaelu Goldsteinovi] and [Pierru Rochardovi] za kurátorství 
+    a poskytování nejlepší literatury o Bitcoinu prostřednictvím [Nakamoto
+    Institute]. A děkuji vám za vytvoření [Noded Podcastu], který podstatně 
+    ovlivnil mé filozofické názory na Bitcoin.
+-   Díky [Peteru McCormackovi] za jeho [upřímné tweety] a podcast [What
+    Bitcoin Did], který stále poskytuje skvělé postřehy z mnoha oblastí 
+    tohoto prostoru.
 <!-- Part II -->
--   Thanks to [Andreas M. Antonopoulos] for all the [educational
-    material] he has put out over the years.
--   Thanks to [Saifedean Ammous] for his convictions, savage tweets, and
-    writing The Bitcoin Standard
--   Thanks to [Francis Pouliot] for sharing his excitement about
-    finding out about the [timechain].
--   Thanks to [Jannik], [Brandon], [Matt], [Camilo], [Daniel], [Michael], and
-    [Raphael] for providing feedback to early drafts of some lessons.
-    Special thanks to [Jannik] who proofread multiple drafts multiple times.
+-   Děkuji [Andreasi M. Antonopoulosovi] za všechny [vzdělávací materiály], 
+    které v průběhu let vydal.
+-   Díky [Saifedeanu Ammousovi] za jeho přesvědčení, drsné tweety a napsání 
+    The Bitcoin Standard
+-   Děkuji [Francisi Pouliotovi] za sdílení jeho nadšení z objevu [timechainu].
+-   Díky [Jannikovi], [Brandonovi], [Mattovi], [Camilovi], [Danielovi], 
+    [Michaelovi] a [Raphaelovi] za poskytnutí zpětné vazby k prvním návrhům 
+    některých lekcí. Zvláštní poděkování patří [Jannikovi], který několikrát 
+    provedl korekturu několika návrhů.
 <!-- Part III -->
--   Thanks to [Dhruv Bansal] and [Matt Odell] for taking the time to
-    discuss some of these ideas with me.
--   Thanks to [Guy Swann] for producing an audio version
-    of 21lessons.com.
--   Last but not least, thanks to all the bitcoin maximalists, shitcoin
-    minimalists, shills, bots, and shitposters which reside in the
-    beautiful garden that is Bitcoin twitter. And finally, thank *you* for
-    reading this. I hope you enjoyed it as much as I did enjoy writing it.
-    Feel free to [reach out to me] on twitter. My DMs are open.
+-   Děkuji [Dhruvu Bansalovi] and [Mattu Odellovi] za to, že si udělali čas 
+-   a diskutovali se mnou o některých nápadech.
+-   Díky [Guyi Swannovi] za vytvoření audio verze 21lessons.com.
+-   V neposlední řadě děkuji všem bitcoinovým maximalistům, shitcoinovým 
+    minimalistům, shillům, botům a shitposterům, kteří žijí v krásné zahradě, 
+    kterou je Bitcoin Twitter. A nakonec díky *vám*, že jste si to přečetli. 
+    Doufám, že se vám to líbilo stejně jako mně se líbilo to psát. Neváhejte 
+    mě [kontaktovat] na twitteru. Moje DMs jsou otevřené.
 
 <!-- Twitter -->
 [Guy Swann]: https://twitter.com/TheCryptoconomy
