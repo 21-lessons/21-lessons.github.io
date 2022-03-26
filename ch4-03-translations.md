@@ -21,10 +21,10 @@ toc: true
   <a href="https://amzn.to/2WYYkKL" title="Finnish" style="position: absolute; left: 79%; top: 0%; width: 21%; height: 100%; z-index: 2;"></a>
 </div>
 
-21 Lessons is published under the [Creative Commons Attribution-ShareAlike 4.0 International
-(CC BY-SA 4.0) license][cc-by-sa], as is [my other work][other-work]. That means that you are free to share, adapt, and
-translate the material as you see fit. The only requirement is that you must distribute your
-contributions under the same license.
+21 lekcí je publikováno pod licencí [Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0)][cc-by-sa], stejně jako [moje ostatní díla][other-work]. To znamená, 
+že tento materiál můžete libovolně sdílet, upravovat a překládat, jak uznáte za vhodné. 
+Jediným požadavkem je, abyste své příspěvky šířili pod stejnou licencí.
 
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [other-work]: https://dergigi.com/translations/
