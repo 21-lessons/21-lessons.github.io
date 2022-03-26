@@ -7,18 +7,19 @@ order: ch4-05
 toc: true
 ---
 
-### Through the Looking Glass
+### Za zrcadlem
 
-After writing 21 Lessons, I wrote some articles and essays to explore a few of
-Bitcoin's aspects further. These articles are marked by an 🔍.
+Po napsání 21 lekcí jsem napsal další články a eseje, ve kterých jsem se 
+věnoval některým aspektům bitcoinu podrobněji. Tyto články jsou označeny 🔍.
 
-I am currently working on my second book, [21 Ways](http://21waysbook.com/).
+V současné době pracuji na své druhé knize [21 Ways](http://21waysbook.com/) ("21 možností").
 
 ----
 
-### Down the Rabbit Hole
+### Hlouběji králičí norou
 
-Find all 'Down the Rabbit Hole' links for each lesson below. A curated list of Bitcoin resources is available at [bitcoin-resources.com][resources].
+Níže naleznete všechny odkazy "Hlouběji králičí norou" z jednotlivých lekcí. Kurátorovaný 
+seznam zdrojů o Bitcoinu je k dispozici na adrese [bitcoin-resources.com][resources].
 
 {% assign lessons_sorted = site.lessons | sort: 'order' %}
 {% for lesson in lessons_sorted %}
