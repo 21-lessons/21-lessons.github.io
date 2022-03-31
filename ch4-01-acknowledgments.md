@@ -12,38 +12,38 @@ a tématech, kterých se dotýká. Je jich příliš mnoho na to, abych je uvedl
 všechny, ale pokusím se jmenovat alespoň některé.
 
 <!-- Part I -->
--   Děkuji [Arjunovi Balajimu] za [tweet], který mě motivoval k sepsání 
+-   Děkuji [Arjunovi Balajimu][Arjun Balaji] za [tweet][the tweet], který mě motivoval k sepsání 
     tohoto textu.
--   Díky [Martymu Bentovi] za nekonečné množství podnětů k přemýšlení 
+-   Díky [Martymu Bentovi][Marty Bent] za nekonečné množství podnětů k přemýšlení 
     a zábavu. Pokud nejste přihlášeni k odběru [Marty's Ƀent] a [Tales 
-    From The Crypt], přicházíte o hodně. Díky [Mattovi] a Martymu 
+    From The Crypt], přicházíte o hodně. Díky [Mattovi][Matt] a Martymu 
     za průvodcovství králičí norou.
--   Děkuji [Michaelu Goldsteinovi] and [Pierru Rochardovi] za kurátorství 
+-   Děkuji [Michaelu Goldsteinovi][Michael Goldstein] and [Pierru Rochardovi][Pierre Rochard] za kurátorství 
     a poskytování nejlepší literatury o Bitcoinu prostřednictvím [Nakamoto
-    Institute]. A děkuji vám za vytvoření [Noded Podcastu], který podstatně 
+    Institute]. A děkuji vám za vytvoření [Noded Podcastu][Noded Podcast], který podstatně 
     ovlivnil mé filozofické názory na Bitcoin.
--   Díky [Peteru McCormackovi] za jeho [upřímné tweety] a podcast [What
+-   Díky [Peteru McCormackovi][Peter McCormack] za jeho [upřímné tweety][honest tweets] a podcast [What
     Bitcoin Did], který stále poskytuje skvělé postřehy z mnoha oblastí 
     tohoto prostoru.
 <!-- Part II -->
--   Děkuji [Andreasi M. Antonopoulosovi] za všechny [vzdělávací materiály], 
+-   Děkuji [Andreasi M. Antonopoulosovi][Andreas M. Antonopoulos] za všechny [vzdělávací materiály][educational material], 
     které v průběhu let vydal.
--   Díky [Saifedeanu Ammousovi] za jeho přesvědčení, drsné tweety a napsání 
+-   Díky [Saifedeanu Ammousovi][Saifedean Ammous] za jeho přesvědčení, drsné tweety a napsání 
     The Bitcoin Standard
--   Děkuji [Francisi Pouliotovi] za sdílení jeho nadšení z objevu [timechainu].
--   Díky [Jannikovi], [Brandonovi], [Mattovi], [Camilovi], [Danielovi], 
-    [Michaelovi] a [Raphaelovi] za poskytnutí zpětné vazby k prvním návrhům 
-    některých lekcí. Zvláštní poděkování patří [Jannikovi], který několikrát 
+-   Děkuji [Francisi Pouliotovi][Francis Pouliot] za sdílení jeho nadšení z objevu [timechainu][timechain].
+-   Díky [Jannikovi][Jannik], [Brandonovi][Brandon], [Mattovi][Matt], [Camilovi][Camilo], [Danielovi][Daniel], 
+    [Michaelovi][Michael] a [Raphaelovi][Raphael] za poskytnutí zpětné vazby k prvním návrhům 
+    některých lekcí. Zvláštní poděkování patří [Jannikovi][Jannik], který několikrát 
     provedl korekturu několika návrhů.
 <!-- Part III -->
--   Děkuji [Dhruvu Bansalovi] and [Mattu Odellovi] za to, že si udělali čas 
+-   Děkuji [Dhruvu Bansalovi][Dhruv Bansal] and [Mattu Odellovi][Matt] za to, že si udělali čas 
 -   a diskutovali se mnou o některých nápadech.
--   Díky [Guyi Swannovi] za vytvoření audio verze 21lessons.com.
+-   Díky [Guyi Swannovi][Guy Swann] za vytvoření audio verze 21lessons.com.
 -   V neposlední řadě děkuji všem bitcoinovým maximalistům, shitcoinovým 
     minimalistům, shillům, botům a shitposterům, kteří žijí v krásné zahradě, 
     kterou je Bitcoin Twitter. A nakonec díky *vám*, že jste si to přečetli. 
     Doufám, že se vám to líbilo stejně jako mně se líbilo to psát. Neváhejte 
-    mě [kontaktovat] na twitteru. Moje DMs jsou otevřené.
+    mě [kontaktovat][reach out to me] na twitteru. Moje DMs jsou otevřené.
 
 <!-- Twitter -->
 [Guy Swann]: https://twitter.com/TheCryptoconomy
