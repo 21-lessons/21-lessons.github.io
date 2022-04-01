@@ -44,7 +44,7 @@ thanks to the fine folks who were kind enough to interview me:
 - [21 Lessons, Chapter 2][turm9] on Bitcoin im Turm
 - [21 Lessons, Chapter 3][turm10] on Bitcoin im Turm
 
-You can find more podcast interviews and discussions at my [media archive].
+You can find more podcast interviews and discussions at my [media archive][media].
 
 [media]: https://dergigi.com/media/
 
