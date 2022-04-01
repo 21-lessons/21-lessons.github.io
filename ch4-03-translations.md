@@ -50,13 +50,13 @@ Jediným požadavkem je, abyste své příspěvky šířili pod stejnou licencí
 
 ---
 
-### Print
+### Knihy
 
-- 🇺🇸 [English: 21 Lessons][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
-- 🇩🇪 [German: 21 Lektionen][de-paperback] - Meine Reise in den Bitcoin Kaninchenbau ([Paperback][de-paperback], [Kindle][de-kindle])
-- 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
-- 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
-- 🇫🇷 [French: 21 Leçons][fr-paperback] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([Paperback][fr-paperback], [Kindle][fr-kindle])
+- 🇺🇸 [Anglicky: 21 Lessons][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
+- 🇩🇪 [Německy: 21 Lektionen][de-paperback] - Meine Reise in den Bitcoin Kaninchenbau ([Paperback][de-paperback], [Kindle][de-kindle])
+- 🇫🇮 [Finsky: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
+- 🇳🇱 [Holandsky: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
+- 🇫🇷 [Francouzsky: 21 Leçons][fr-paperback] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([Paperback][fr-paperback], [Kindle][fr-kindle])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -69,24 +69,24 @@ Jediným požadavkem je, abyste své příspěvky šířili pod stejnou licencí
 
 ### PDF
 
-- 🇧🇷 [Brazilian Portuguese: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
-- 🇫🇷 [French: 21 Leçons][fr-github] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([LaTeX][fr-github], [PDF][fr-pdf])
+- 🇧🇷 [Brazilská portugalština: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
+- 🇫🇷 [Francouzsky: 21 Leçons][fr-github] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([LaTeX][fr-github], [PDF][fr-pdf])
 
 [pt-BR-github]: https://github.com/KoreaComK/21lessons-book
 [pt-BR-pdf]: https://github.com/KoreaComK/21lessons-book/raw/master/pdf/As%2021%20Li%C3%A7%C3%B5es.pdf
 [fr-github]: https://github.com/prplsknk/21lessons-book
 [fr-pdf]: https://github.com/prplsknk/21lessons-book/raw/master/21%20Le%C3%A7ons.pdf
 
-### Audio versions
+### Audio verze
 
-See [/audio][audio] for audiobooks, audio versions, commentary, and podcast episodes.
+Viz [/audio][audio] pro audioknihy, zvukové verze, komentáře a epizody podcastů.
 
 [audio]: {{ 'audio' | absolute_url }}
 
-### Online versions
+### Online verze
 
-- 🇮🇹 The [Italian version][it-site] of the website is available thanks to [gabridome]
-- 🇨🇿 The [Slovak version][sk-github] of the website is available thanks to [LuboD]
+- 🇮🇹 [Italská verze][it-site] webu je k dispozici díky [gabridome]
+- 🇨🇿 [Slovenská verze][sk-github] webu je dostupná díky [LuboD]
 
 ### Chapter translations
 
