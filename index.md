@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 21 Lessons
-subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
+title: 21 lekcí
+subtitle: Co jsem se naučil během pádu do Bitcoinové králičí nory
 subtitle_link: http://21lessons.com
 category: bitcoin
-description: An exploration of questions and lessons learned from falling down the Bitcoin rabbit hole.
-quote: "\"Oh, you foolish Alice!\" she said again, \"how can you learn lessons in here? Why, there's hardly room for you, and no room at all for any lesson-books!\""
+description: Zkoumání otázek a zkušeností nasbíraných během pádu do Bitcoinové králičí nory.
+quote: "\"Ach, ty hloupá Alenko!\" řekla znovu, \"jak se tady můžeš něčemu naučit? Vždyť je tu sotva místo pro tebe a už vůbec ne pro nějaké učebnice!\""
 image: /assets/images/21-lessons-twitter-cover-audio.jpg
 ---
 
