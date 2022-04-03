@@ -88,33 +88,33 @@ Viz [/audio][audio] pro audioknihy, zvukové verze, komentáře a epizody podcas
 - 🇮🇹 [Italská verze][it-site] webu je k dispozici díky [gabridome]
 - 🇨🇿 [Slovenská verze][sk-github] webu je dostupná díky [LuboD]
 
-### Chapter translations
+### Překlady kapitol
 
-- 🇪🇸 [Chapter I][es-philosophy], [Chapter II][es-economics], and [Chapter III][es-technology] is available in Spanish thanks to [@CamiloJdL][Camilo] and [Ξntropy].
-- 🇹🇷 [Chapter I][tr-philosophy], [Chapter II][tr-economics], and [Chapter III][tr-technology] is available in Turkish thanks to [@deniz_zgur][deniz]. Note that the order of the chapters is different in the Turkish translation.
-- 🇨🇳 [Chapter I][zh-all], [Chapter II][zh-all], and [Chapter III][zh-all] is available in Chinese thanks to [@andywan][andywan]. Some additional images and figures were added.
-- 🇩🇪 [Chapter I][de-philosophy], [Chapter II][de-economics], and [Chapter III][de-technology] is available in German thanks to [@CryptoMulde][cryptomulde].
-- 🇩🇪 [Another German translation][de-blocktrainer] was done by [Rene] from blocktrainer.
-- 🇫🇮 [Chapter I][fin-philosophy], [Chapter II][fin-economics], and [Chapter III][fin-technology] are available in Finnish thanks to [Thomas Brand][thomas-brand]. The entry point of the Finnish rabbit hole is [here][fin-toc].
-- 🇧🇷 [Chapter I][pt-BR-philosophy], [Chapter II][pt-BR-economics], and [Chapter III][pt-BR-technology] are available in Brazilian Portuguese thanks to [Bit Dov][bitdov]. The entry point of the Brazilian rabbit hole is [here][pt-BR-all].
-- 🇯🇵 [Chapter I][jp-philosophy], [Chapter II][jp-economics], and [Chapter III][jp-technology] is available in Japanese thanks to [katakoto].
-- 🇬🇷 [Chapter I][gr-philosophy], [Chapter II][gr-economics], and [Chapter III][gr-technology] is available in Greek thanks to [nikos].
-- 🇮🇷 [Chapter I, Chapter II, and Chapter III][fa-all] is available in Persian thanks to [Nima]. Also available [as a PDF][fa-pdf].
-- 🇮🇩 [Chapter I][id-philosophy] and [Chapter II][id-economics] is available in Indonesian thanks to [Hazmi Tri Laksono][hazmi]
-- 🇭🇺 [Chapter I, Chapter II, and Chapter III][hu-ebooks] is available in Hungarian thanks to [CoinCrumb]. It's also available as a [PDF][hu-pdf] and as an [epub & mobi][hu-epubmobi].
-- 🇸🇦 [Chapter I, Chapter II, and Chapter III][ar-all] is available in Arabic thanks to [BTCTranslator].
-- 🇮🇳 [Lesson 1][01-hindi], [Lesson 2][02-hindi], and [Lesson 3][03-hindi] is available in Hindi thanks to [Badger]
-- 🇵🇱 [Chapter I][pl-philosophy] is available in Polish thanks to [MF]
+- 🇪🇸 [Kapitola I][es-philosophy], [Kapitola II][es-economics] a [Kapitola III][es-technology] jsou k dispozici ve španělštině díky [@CamiloJdL][Camilo] a [Ξntropy].
+- 🇹🇷 [Kapitola I][tr-philosophy], [Kapitola II][tr-economics] a [Kapitola III][tr-technology] jsou dostupné v turečtině díky [@deniz_zgur][deniz]. Vezměte na vědomí, že pořadí kapitol je v tureckém překladu odlišné.
+- 🇨🇳 [Kapitola I][zh-all], [Kapitola II][zh-all] a [Kapitola III][zh-all] jsou k dispozici v čínštině díky [@andywan][andywan]. Byly přidány dalších obrázky a údaje.
+- 🇩🇪 [Kapitola I][de-philosophy], [Kapitola II][de-economics] a [Kapitola III][de-technology] jsou dostupné v němčině díky [@CryptoMulde][cryptomulde].
+- 🇩🇪 [Další německý překlad][de-blocktrainer] pořídil [Rene] z blocktrainer.
+- 🇫🇮 [Kapitola I][fin-philosophy], [Kapitola II][fin-economics] a [Kapitola III][fin-technology] jsou k dispozici ve finštině díky [Thomas Brand][thomas-brand]. Vstup do finské králičí nory je [tady][fin-toc].
+- 🇧🇷 [Kapitola I][pt-BR-philosophy], [Kapitola II][pt-BR-economics] a [Kapitola III][pt-BR-technology] jsou dostupné v brazilské portugalštině díky [Bit Dov][bitdov]. Vchod do brazilské králičí nory najdete [zde][pt-BR-all].
+- 🇯🇵 [Kapitola I][jp-philosophy], [Kapitola II][jp-economics] a [Kapitola III][jp-technology] jsou k dispozici v japonštině díky [katakoto].
+- 🇬🇷 [Kapitola I][gr-philosophy], [Kapitola II][gr-economics] a [Kapitola III][gr-technology] jsou dostupné v řečtině díky [nikos].
+- 🇮🇷 [Kapitola I, Kapitola II a Kapitola III][fa-all] jsou k dispozici v perštině díky [Nima]. Rovněž ve formátu [PDF][fa-pdf].
+- 🇮🇩 [Kapitola I][id-philosophy] a [Kapitola II][id-economics] jsou dostupné v indonéštině díky [Hazmi Tri Laksono][hazmi]
+- 🇭🇺 [Kapitola I, Kapitola II a Kapitola III][hu-ebooks] jsou k dispozici v maďarštině díky [CoinCrumb]. Dostupné také ve formátech [PDF][hu-pdf], [epub & mobi][hu-epubmobi].
+- 🇸🇦 [Kapitola I, Kapitola II a Kapitola III][ar-all] jsou dostupné v arabštině díky [BTCTranslator].
+- 🇮🇳 [Lekce 1][01-hindi], [Lekce 2][02-hindi], and [Lekce 3][03-hindi] jsou k dispozici v hindštině díky [Badger]
+- 🇵🇱 [Kapitola I][pl-philosophy] je dostupná v polštině díky [MF]
 
-### Remixes
+### Remixy
 
-- 🎮 [21 Lessons VR][vr] by BITPAINT
+- 🎮 [21 Lessons VR][vr] od BITPAINT
 
 [vr]: {{ 'vr' | absolute_url }}
 
-### Reviews
+### Recenze
 
-- [🇹🇷 Turkish video review][tr-review] by Stackmore
+- [🇹🇷 Turecká videorecenze][tr-review] od Stackmore
 
 [tr-review]: https://youtu.be/Dfa89zx6D3o
 
