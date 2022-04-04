@@ -1,4 +1,4 @@
-{% assign tableOfContents = "Table of Contents" %}
+{% assign tableOfContents = "Obsah" %}
 {% assign notFound = "Page Not Found" %}
 
 {% assign toc_pages = site.pages | where: "toc", true %}
@@ -24,17 +24,17 @@
   {% if idxp < 0 %}
   <li></li>
   {% else %}
-  <li><a href="{{ previousLesson.url | absolute_url }}" title="Previous"></a></li>
+  <li><a href="{{ previousLesson.url | absolute_url }}" title="Předchozí"></a></li>
   {% endif %}
 
   {% unless previousLesson.title == notFound or page.title == tableOfContents %}
-  <li><a href="{{ toc.url | absolute_url }}" title="{{ toc.title }}">ToC</a></li>
+  <li><a href="{{ toc.url | absolute_url }}" title="{{ toc.title }}">Obsah</a></li>
   {% endunless %}
 
   {% if idxn >= lessons_count %}
   <li></li>
   {% else %}
-  <li><a href="{{ nextLesson.url | absolute_url }}" title="Next"></a></li>
+  <li><a href="{{ nextLesson.url | absolute_url }}" title="Další"></a></li>
   {% endif %}
 </ul>
 {% else %}
@@ -58,7 +58,7 @@
     <a href="{{ nextLesson.url | absolute_url }}" title="{{ nextLesson.subtitle }}">
     {{ nextLesson.title }}
     </a>
-    <img src="{{ 'assets/images/rabbit.png' | absolute_url }}" title="Follow the white rabbit..."/>
+    <img src="{{ 'assets/images/rabbit.png' | absolute_url }}" title="Následuj bílého králíka..."/>
   </li>
   {% endif %}
 </ul>
