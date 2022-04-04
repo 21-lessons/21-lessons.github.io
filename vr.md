@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 21 Lessons in VR
-subtitle: The Virtual Rabbit Hole
+title: 21 lekcí ve VR
+subtitle: Virtuální králičí nora
 subtitle_link: https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165
 category: bitcoin
-description: 21 Lessons is available as a virtual world! Walk along the rabbit hole while listening to chapters.
-quote: "Down, down, down. Would the fall never come to an end?"
+description: 21 lekcí je dostupných jako virtuální svět! Projděte se králičí norou za poslechu jednotlivých kapitol.
+quote: "Dolů, dolů, dolů. Že by ten pád nikdy neskončil?"
 image: /assets/images/vr-cover.png
 ---
 
-Thanks to [BITPAINT][bitpaint], _21 Lessons_ is now available as a VR World [in
-VR Chat][world]!
+Díky [BITPAINT][bitpaint] je nyní _21 lekcí_ dostupných jako svět virtuální reality na [VR Chat][world]!
 
 {% include image.html path="./assets/images/vr-cover.png" %}
 
 <div class="action-buttons">
-  <div class="button"><a href="https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165">Play Now!</a></div>
+  <div class="button"><a href="https://vrchat.com/home/world/wrld_87cb52a8-eea8-4730-8c90-77c973f68165">Vstoupit do nory!</a></div>
 </div>
 
 ---
@@ -24,8 +23,8 @@ VR Chat][world]!
 
 ---
 
-Thanks to [Udi][udi] and [Reckless VR][recklessvr] for organizing the launch
-party. Below are some pictures of the event.
+[Udi][udi] a [Reckless VR][recklessvr] zorganizovali party ke spuštění virtuální 
+králičí nory. Díky jim za to. Níže můžete shlédnout pár fotek z této události.
 
 {% include image.html path="./assets/images/vr-01.png" %}
 {% include image.html path="./assets/images/vr-02.png" %}
