@@ -1,14 +1,14 @@
 # Site/SEO settings
 email: dergigi@pm.me
-baseurl: ""
+baseurl: "/21lekci"
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: Gigi
-title: 21Lessons.com
+title: 21 lekcí
 description: >
-  21 Lessons Learned from Falling Down the Bitcoin Rabbit Hole.
-url: https://21lessons.com
+  21 lekcí získaných při pádu do Bitcoinové králičí nory.
+url: https://sifrant.github.io
 twitter_username: dergigi
 default_img: /assets/images/avatar.jpg
 social:
