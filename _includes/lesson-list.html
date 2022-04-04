@@ -1,12 +1,12 @@
 {% case include.chapter %}
 {% when '1' %}
-  {% assign breakAfter = "Lesson 7" %}
+  {% assign breakAfter = "Lekce 7" %}
 {% when '2' %}
-  {% assign breakAfter = "Lesson 14" %}
-  {% assign skipUntil = "Lesson 7" %}
+  {% assign breakAfter = "Lekce 14" %}
+  {% assign skipUntil = "Lekce 7" %}
 {% when '3' %}
-  {% assign breakAfter = "Lesson 21" %}
-  {% assign skipUntil = "Lesson 14" %}
+  {% assign breakAfter = "Lekce 21" %}
+  {% assign skipUntil = "Lekce 14" %}
 {% endcase %}
 <ul>
 {% assign lessons_sorted = site.lessons | sort: 'order' %}
