@@ -86,7 +86,7 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 ### Online versions
 
 - 🇮🇹 The [Italian version][it-site] of the website is available thanks to [gabridome]
-- 🇨🇿 The [Slovak version][sk-github] of the website is available thanks to [LuboD]
+- 🇸🇰 The [Slovak version][sk-github] of the website is available thanks to [LuboD]
 
 ### Chapter translations
 
