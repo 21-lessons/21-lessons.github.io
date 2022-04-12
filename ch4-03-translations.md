@@ -86,7 +86,8 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 ### Online versions
 
 - 🇮🇹 The [Italian version][it-site] of the website is available thanks to [gabridome]
-- 🇨🇿 The [Slovak version][sk-github] of the website is available thanks to [LuboD]
+- 🇸🇰 The [Slovak version][sk-github] of the website is available thanks to [LuboD]
+- 🇨🇿 The [Czech version][cz-github] of the website is available thanks to [sifrant]
 
 ### Chapter translations
 
@@ -154,6 +155,7 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 [id-economics]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-kedua-ekonomi-e6ba6d9a7a70
 [it-site]: https://gabridome.github.io/21-lezioni/
 [sk-github]: https://1lubo.github.io/byzantine_general/
+[cz-github]: https://sifrant.github.io/21lekci/
 [hu-ebooks]: https://coincrumb.com/2021/10/15/21-lecke/
 [hu-pdf]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-PDF-Gigi.zip
 [hu-epubmobi]: https://coincrumb.com/wp-content/uploads/2021/10/21-Lecke-EPUBMOBI-Gigi.zip
@@ -185,3 +187,4 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 [CoinCrumb]: https://twitter.com/CoinCrumb
 [BTCTranslator]: https://twitter.com/BTCTranslator
 [MF]: https://twitter.com/fkenfkg2fjsks
+[sifrant]: https://twitter.com/nekonecnik
