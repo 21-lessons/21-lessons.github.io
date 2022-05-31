@@ -146,9 +146,9 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 [jp-philosophy]: https://alischool.me/magazines/katakoto/21lessons
 [jp-economics]: https://alis.to/katakoto/articles/aZqz5LorA0Z9
 [jp-technology]: https://alis.to/katakoto/articles/365Q0JGyp9PZ
-[gr-philosophy]: https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9-%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CE%BF%CF%86%CE%AF%CE%B1-c5dba0672ea2
-[gr-economics]: https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9%CE%B9-%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AC-c9539cccd687
-[gr-technology]: https://medium.com/@nikosokin/21-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B5%CF%86%CE%AC%CE%BB%CE%B1%CE%B9%CE%BF-%CE%B9%CE%B9%CE%B9-%CF%84%CE%B5%CF%87%CE%BD%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1-5a2cd7c87059
+[gr-philosophy]: https://niclick.org/philosophy
+[gr-economics]: https://niclick.org/economics
+[gr-technology]: https://niclick.org/technology
 [fa-all]: https://arzdigital.com/bitcoin-21-lessons/
 [fa-pdf]: https://bitcoind.me/blobs/books/21Lessons_ArzDigital.pdf
 [id-philosophy]: https://medium.com/@hazmitri/21-pelajaran-dari-bitcoin-bagian-pertama-filosofi-86ba0b39e0c
