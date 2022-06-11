@@ -57,6 +57,7 @@ contributions under the same license.
 - 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
 - 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
 - 🇫🇷 [French: 21 Leçons][fr-paperback] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([Paperback][fr-paperback], [Kindle][fr-kindle])
+- 🇮🇹 [Italian: 21 Lezioni][it-paperback] - Cosa ho imparato nel cadere dentro la tana del Bianconiglio ([Paperback][it-paperback], [Kindle][it-kindle])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -66,6 +67,8 @@ contributions under the same license.
 [nl-paperback]: https://konsensus.network/product/21-lessen/
 [fr-paperback]: https://amzn.to/3DUxs1O
 [fr-kindle]: https://amzn.to/3DZ9ouK
+[it-paperback]: https://amzn.to/3mBu6KW
+[it-kindle]: https://amzn.to/3NPMgEY
 
 ### PDF
 
