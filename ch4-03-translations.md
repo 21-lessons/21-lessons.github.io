@@ -58,6 +58,7 @@ contributions under the same license.
 - 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
 - 🇫🇷 [French: 21 Leçons][fr-paperback] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([Paperback][fr-paperback], [Kindle][fr-kindle])
 - 🇮🇹 [Italian: 21 Lezioni][it-paperback] - Cosa ho imparato nel cadere dentro la tana del Bianconiglio ([Paperback][it-paperback], [Kindle][it-kindle])
+- 🇧🇷 [Brazilian Portuguese: 21 Lições][pt-BR-paperback] - O que aprendi ao cair da toca do coelho do Bitcoin ([Paperback][pt-BR-paperback])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -69,6 +70,7 @@ contributions under the same license.
 [fr-kindle]: https://amzn.to/3DZ9ouK
 [it-paperback]: https://amzn.to/3mBu6KW
 [it-kindle]: https://amzn.to/3NPMgEY
+[pt-BR-paperback]: https://monsterabooks.com/products/21-licoes
 
 ### PDF
 
