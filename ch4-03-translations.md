@@ -72,7 +72,7 @@ contributions under the same license.
 
 ### PDF
 
-- 🇧🇷 [Brazilian Portuguese: As 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
+- 🇧🇷 [Brazilian Portuguese: 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
 - 🇫🇷 [French: 21 Leçons][fr-github] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([LaTeX][fr-github], [PDF][fr-pdf])
 
 [pt-BR-github]: https://github.com/KoreaComK/21lessons-book
