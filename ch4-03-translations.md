@@ -59,6 +59,7 @@ contributions under the same license.
 - 🇫🇷 [French: 21 Leçons][fr-paperback] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([Paperback][fr-paperback], [Kindle][fr-kindle])
 - 🇮🇹 [Italian: 21 Lezioni][it-paperback] - Cosa ho imparato nel cadere dentro la tana del Bianconiglio ([Paperback][it-paperback], [Kindle][it-kindle])
 - 🇧🇷 [Brazilian Portuguese: 21 Lições][pt-BR-paperback] - O que aprendi ao cair da toca do coelho do Bitcoin ([Paperback][pt-BR-paperback])
+- 🇪🇪 [Estonian: 21 õppetundi][et-paperback] - Mida ma õppisin Bitcoini jäneseurgu kukkumisest ([Paperback][et-paperback])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -71,6 +72,7 @@ contributions under the same license.
 [it-paperback]: https://amzn.to/3mBu6KW
 [it-kindle]: https://amzn.to/3NPMgEY
 [pt-BR-paperback]: https://monsterabooks.com/products/21-licoes
+[et-paperback]: https://liigalihtne.ee/pood/index.php/toode/21oppetundi/
 
 ### PDF
 
