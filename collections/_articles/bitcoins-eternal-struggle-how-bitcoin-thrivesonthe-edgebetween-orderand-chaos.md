@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin's Eternal Struggle - How Bitcoin Thrives on the Edge between Order and Chaos
 link: https://dergigi.com/2019/12/22/bitcoin-s-eternal-struggle/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_336---Bitcoins-
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/nJOZU
 series: 
 seriesnr: 
 ---

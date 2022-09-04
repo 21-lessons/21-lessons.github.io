@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why We Need Bitcoin
 link: https://tomerstrolight.medium.com/why-we-need-bitcoin-95ebf121e1e3
@@ -10,7 +10,7 @@ audio: https://bitcoinaudible.com/audiobooks-%F0%9F%86%95/
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/wx6Sf
 series: Why Bitcoin
 seriesnr: 23
 ---

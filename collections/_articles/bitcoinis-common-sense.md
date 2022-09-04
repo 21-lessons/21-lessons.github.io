@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin is Common Sense
 link: https://unchained-capital.com/blog/bitcoin-is-common-sense/
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/KQZvs
 series: Gradually, Then Suddenly
 seriesnr: 14
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Dear Family, Dear Friends
 link: https://dergigi.com/2020/04/27/dear-family-dear-friends/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_389---Dear-Family--Dear-F
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.md/GIxG5
 series: 
 seriesnr: 
 ---

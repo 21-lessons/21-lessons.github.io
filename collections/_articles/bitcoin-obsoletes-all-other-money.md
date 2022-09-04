@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Obsoletes All Other Money
 link: https://unchained-capital.com/blog/bitcoin-obsoletes-all-other-money/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_345---Bitcoin-O
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.md/8oZTq
 series: Gradually, Then Suddenly
 seriesnr: 12
 ---

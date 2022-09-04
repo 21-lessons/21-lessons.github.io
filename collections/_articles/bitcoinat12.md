@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nic Carter
 title: Bitcoin at 12
 link: https://medium.com/@nic__carter/bitcoin-at-12-f6fce39cb9bb
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_456---Bitcoin-at-12-Nic-C
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/MmCRe
 series: 
 seriesnr: 
 ---

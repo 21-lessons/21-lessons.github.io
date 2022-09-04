@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why It Takes Both Time and Energy to Make Bitcoins
 link: https://tomerstrolight.medium.com/why-it-takes-both-time-and-energy-to-make-bitcoins-5fe947027ee5
@@ -10,7 +10,7 @@ audio: https://bitcoinaudible.com/audiobooks-%F0%9F%86%95/
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/dYdpA
 series: Why Bitcoin
 seriesnr: 6
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Robert Breedlove
 title: Our Most Brilliant Idea
 link: https://breedlove22.medium.com/our-most-brilliant-idea-aced329f8941
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_457---Our-Most-Brilliant-
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/8Eb1A
 series: 
 seriesnr: 
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gregory Trubetskoy
 title: Blockchain Proof-of-Work Is a Decentralized Clock
 link: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_438---Blockchain-Proof-of
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/m5ysq
 series: 
 seriesnr: 
 ---

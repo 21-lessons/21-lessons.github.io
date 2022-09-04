@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Aleksandar Svetski
 title: Why Bitcoin Matters
 link: https://hackernoon.com/why-bitcoin-matters-c8bf733b9fad
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/FcO7R
 series: 
 seriesnr: 
 ---

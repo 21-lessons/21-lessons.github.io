@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nic Carter
 title: It’s the settlement assurances, stupid
 link: https://medium.com/@nic__carter/its-the-settlement-assurances-stupid-5dcd1c3f4e41
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/u4Axq
 series: 
 seriesnr: 
 ---

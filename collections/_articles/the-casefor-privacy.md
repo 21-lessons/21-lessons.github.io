@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: David D. Friedman
 title: The Case for Privacy
 link: https://nakamotoinstitute.org/the-case-for-privacy/
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/iOb47
 series: 
 seriesnr: 
 ---

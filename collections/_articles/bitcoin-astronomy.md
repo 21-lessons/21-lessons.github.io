@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Dhruv Bansal
 title: Bitcoin Astronomy
 link: https://unchained-capital.com/blog/law-of-hash-horizons/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_303---Bitcoin-A
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/sDl3l
 series: Bitcoin Astronomy
 seriesnr: 1
 ---

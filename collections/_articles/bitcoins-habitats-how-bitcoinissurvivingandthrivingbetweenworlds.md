@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin's Habitats - How Bitcoin is surviving and thriving between worlds
 link: https://dergigi.com/2020/03/01/bitcoin-s-habitats/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_361---Bitcoins-
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/c0tOC
 series: 
 seriesnr: 
 ---

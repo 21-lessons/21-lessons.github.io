@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Erik Cason
 title: Cryptosovereignty
 link: https://cryptosovereignty.org/cryptosovereignty/
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/6zdx3
 series: 
 seriesnr: 
 ---

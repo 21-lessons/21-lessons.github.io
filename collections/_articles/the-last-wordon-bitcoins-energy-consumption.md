@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nic Carter
 title: The Last Word on Bitcoin’s Energy Consumption
 link: https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_454---The-Last-Word-on-Bi
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.ph/fibzo
 series: 
 seriesnr: 
 ---

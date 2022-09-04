@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin Is Time
 link: https://dergigi.com/2021/01/14/bitcoin-is-time/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_503---Bitcoin-is-Time-Der
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.ph/M7YOx
 series: 
 seriesnr: 
 ---

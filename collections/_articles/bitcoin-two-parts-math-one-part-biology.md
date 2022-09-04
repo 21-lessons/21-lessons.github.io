@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Hugo Nguyen
 title: Bitcoin - Two Parts Math, One Part Biology
 link: https://hugonguyen.medium.com/bitcoin-two-parts-math-one-part-biology-b45ef48a0422
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/ZF1R5
 series: 
 seriesnr: 
 ---

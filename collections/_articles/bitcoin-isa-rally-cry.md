@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Is a Rally Cry
 link: https://unchained-capital.com/blog/bitcoin-is-a-rally-cry/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_371---Bitcoin-is-a-Rally-
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/JD5d2
 series: Gradually, Then Suddenly
 seriesnr: 13
 ---

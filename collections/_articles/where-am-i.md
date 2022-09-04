@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Daniel Dennett
 title: Where Am I?
 link: https://www.lehigh.edu/~mhb0/Dennett-WhereAmI.pdf
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/j9Aaa
 series: 
 seriesnr: 
 ---

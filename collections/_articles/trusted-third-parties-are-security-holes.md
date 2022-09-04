@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nick Szabo
 title: Trusted Third Parties Are Security Holes
 link: https://nakamotoinstitute.org/trusted-third-parties/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_083---Trusted-T
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/WVILN
 series: 
 seriesnr: 
 ---

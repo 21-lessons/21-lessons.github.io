@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Hugo Nguyen
 title: The Anatomy of Proof-of-Work
 link: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_158---Anatomy-o
 audio2: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_159---Bitcoin--Chance--and-Randomness-Part-2---Hugo-Nguyen-e2ndpi/a-a7d5vf
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/UsIOC
 series: 
 seriesnr: 
 ---

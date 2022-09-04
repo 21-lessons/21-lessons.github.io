@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Bitcoin.org
 title: Protect Your Privacy
 link: https://bitcoin.org/en/protect-your-privacy
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/k3Lne
 series: 
 seriesnr: 
 ---
