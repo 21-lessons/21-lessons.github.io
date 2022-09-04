@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: How to Kill Bitcoin
 link: https://dergigi.com/2019/10/03/how-to-kill-bitcoin/
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/ytabc
 series: 
 seriesnr: 
 ---

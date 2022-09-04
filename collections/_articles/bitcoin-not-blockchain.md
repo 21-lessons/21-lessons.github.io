@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin, Not Blockchain
 link: https://unchained-capital.com/blog/bitcoin-not-blockchain/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_329---Bitcoin--
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.md/B4uxV
 series: Gradually, Then Suddenly
 seriesnr: 7
 ---

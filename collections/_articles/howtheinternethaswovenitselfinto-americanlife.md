@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Susannah Fox and Lee Rainie
 title: How the internet has woven itself into American life
 link: https://www.pewinternet.org/2014/02/27/part-1-how-the-internet-has-woven-itself-into-american-life/
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/7zLxN
 series: 
 seriesnr: 
 ---

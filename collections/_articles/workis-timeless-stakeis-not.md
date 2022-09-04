@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Hugo Nguyen
 title: Work is Timeless, Stake is Not
 link: https://medium.com/@hugonguyen/work-is-timeless-stake-is-not-554c4450ce18
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/7hn1i
 series: 
 seriesnr: 
 ---

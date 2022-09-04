@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Fixes This
 link: https://unchained-capital.com/blog/bitcoin-fixes-this/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_324---Bitcoin-F
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/CME1a
 series: Gradually, Then Suddenly
 seriesnr: 6
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Ross L. Stevens
 title: Stone Ridge 2020 Shareholder Letter
 link: https://www.microstrategy.com/en/bitcoin/documents/stone-ridge-2020-shareholder-letter
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_482---The-Stone-Ridge-Let
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.md/Fhqrr
 series: 
 seriesnr: 
 ---

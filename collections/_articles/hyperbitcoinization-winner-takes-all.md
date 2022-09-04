@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: ObiWan Kenobit
 title: Hyperbitcoinization - Winner Takes All
 link: https://medium.com/coinmonks/hyperbitcoinization-winner-takes-all-69ab59f9695f
@@ -10,7 +10,7 @@ audio: https://citizenbitcoin.world/episodes/a-reading-hyperbitcoinization-winne
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/06mOz
 series: 
 seriesnr: 
 ---

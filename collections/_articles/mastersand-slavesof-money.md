@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Robert Breedlove
 title: Masters and Slaves of Money
 link: https://medium.com/@breedlove22/masters-and-slaves-of-money-255ecc93404f
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_414---Masters--Slaves-of-
 audio2: https://anchor.fm/thecryptoconomy/episodes/Read_415---Masters--Slaves-of-Money---Part-2-Robert-Breedlove-egelgs/a-a2l7sb3
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.md/0BC0o
 series: 
 seriesnr: 
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Timothy C. May
 title: The Crypto Anarchist Manifesto
 link: http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_300-----The-Cry
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/ZYpoA
 series: 
 seriesnr: 
 ---

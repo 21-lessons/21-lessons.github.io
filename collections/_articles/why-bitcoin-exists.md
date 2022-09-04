@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin Exists
 link: https://tomerstrolight.medium.com/why-bitcoin-exists-1d050c79927a
@@ -10,7 +10,7 @@ audio: https://bitcoinaudible.com/audiobooks-%F0%9F%86%95/
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/mIWT1
 series: Why Bitcoin
 seriesnr: 25
 ---

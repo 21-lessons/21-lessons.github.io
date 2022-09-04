@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Erik Cason
 title: The Political Theology of Bitcoin
 link: https://cryptosovereignty.org/the-political-theology-of-bitcoin/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_398---The-Political-Theol
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/7UBC6
 series: 
 seriesnr: 
 ---

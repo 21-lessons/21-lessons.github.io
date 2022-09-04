@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Dhruv Bansal
 title: Bitcoin Astronomy, Part 2
 link: https://unchained.com/blog/bitcoin-astronomy-part-ii/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_304---Bitcoin-A
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/GuGgI
 series: Bitcoin Astronomy
 seriesnr: 2
 ---

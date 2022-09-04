@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Timothy C. May
 title: The Cyphernomicon
 link: https://ia600208.us.archive.org/10/items/cyphernomicon/cyphernomicon.txt
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/WUblN
 series: 
 seriesnr: 
 ---

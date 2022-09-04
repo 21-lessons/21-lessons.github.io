@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: StopAndDecrypt
 title: Bitcoin Miners Beware - Invalid Blocks Need Not Apply
 link: https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_283---Invalid-B
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/cbCsy
 series: 
 seriesnr: 
 ---

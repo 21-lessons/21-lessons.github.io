@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin Boots on the Ground - Venezuela
 link: https://dergigi.com/2019/11/21/bitcoin-boots-on-the-ground-venezuela/
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/X6uAy
 series: 
 seriesnr: 
 ---

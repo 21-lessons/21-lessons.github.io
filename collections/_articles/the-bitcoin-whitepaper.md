@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Satoshi Nakamoto
 title: The Bitcoin Whitepaper
 link: https://bitcoin.org/bitcoin.pdf
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_000---The-Bitcoin-Whitepa
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/b7ICx
 series: 
 seriesnr: 
 ---

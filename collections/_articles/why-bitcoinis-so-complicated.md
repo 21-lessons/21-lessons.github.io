@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin is So Complicated
 link: https://tomerstrolight.medium.com/why-bitcoin-is-so-complicated-35d279e497dd
@@ -10,7 +10,7 @@ audio: https://bitcoinaudible.com/audiobooks-%F0%9F%86%95/
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/S3sfw
 series: Why Bitcoin
 seriesnr: 20
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Allen Farrington
 title: Wittgenstein’s Money
 link: https://allenfarrington.medium.com/wittgensteins-money-7cac8d0635cf
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_488---Wittgensteins-Money
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/NnRWG
 series: Bitcoin is Venice
 seriesnr: 1
 ---

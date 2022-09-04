@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Enders Game
 link: https://unchained-capital.com/blog/enders-game/
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/2pZqw
 series: Gradually, Then Suddenly
 seriesnr: 0
 ---

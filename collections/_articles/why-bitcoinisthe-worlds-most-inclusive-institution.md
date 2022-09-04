@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin is the World’s Most Inclusive Institution
 link: https://tomerstrolight.medium.com/why-bitcoin-is-the-worlds-most-inclusive-institution-a5d4a6ea6625
@@ -10,7 +10,7 @@ audio: https://bitcoinaudible.com/audiobooks-%F0%9F%86%95/
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/dWrWu
 series: Why Bitcoin
 seriesnr: 14
 ---

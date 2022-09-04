@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Hasu
 title: Unpacking Bitcoin’s Social Contract
 link: https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_198---Unpacking
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/OcKKs
 series: 
 seriesnr: 
 ---

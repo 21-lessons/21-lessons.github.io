@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Is Not a Pyramid Scheme
 link: https://unchained-capital.com/blog/bitcoin-is-not-a-pyramid-scheme/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_351---Bitcoin-i
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/sELYA
 series: Gradually, Then Suddenly
 seriesnr: 9
 ---

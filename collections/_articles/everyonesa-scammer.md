@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Michael Goldstein
 title: Everyone’s a Scammer
 link: https://nakamotoinstitute.org/mempool/everyones-a-scammer/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_267---Everyones
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/sIiUM
 series: 
 seriesnr: 
 ---

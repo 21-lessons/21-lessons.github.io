@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Alex Gladstein
 title: Uncovering The Hidden Costs Of The Petrodollar
 link: https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_522---The-Hidden-Costs-of
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/OAMd6
 series: 
 seriesnr: 
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin Is an Idea
 link: https://dergigi.com/2021/06/13/bitcoin-is-an-idea/
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/fHmYS
 series: 
 seriesnr: 
 ---

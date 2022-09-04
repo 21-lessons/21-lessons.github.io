@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nic Carter
 title: A most peaceful revolution
 link: https://medium.com/@nic__carter/a-most-peaceful-revolution-8b63b64c203e
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_293---A-Most-Pe
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.ph/sZgv2
 series: 
 seriesnr: 
 ---

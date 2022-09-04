@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Ken Thompson
 title: Reflections on Trusting Trust
 link: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/lIoUh
 series: 
 seriesnr: 
 ---

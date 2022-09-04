@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Can’t Be Copied
 link: https://www.unchained-capital.com/blog/bitcoin-cant-be-copied/
@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_291---Bitcoin-C
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/fP6LU
 series: Gradually, Then Suddenly
 seriesnr: 2
 ---
