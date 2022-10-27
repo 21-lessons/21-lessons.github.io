@@ -78,11 +78,14 @@ contributions under the same license.
 
 - 🇧🇷 [Brazilian Portuguese: 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
 - 🇫🇷 [French: 21 Leçons][fr-github] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([LaTeX][fr-github], [PDF][fr-pdf])
+- 🇷🇸 [Serbian: 21 Lekcija][sr-latin] - Šta sam naučio padajući u zečju rupu - ([Latin PDF][sr-latin], [Cyrillic PDF][sr-cyrillic])
 
 [pt-BR-github]: https://github.com/KoreaComK/21lessons-book
 [pt-BR-pdf]: https://github.com/KoreaComK/21lessons-book/raw/master/pdf/As%2021%20Li%C3%A7%C3%B5es.pdf
 [fr-github]: https://github.com/prplsknk/21lessons-book
 [fr-pdf]: https://github.com/prplsknk/21lessons-book/raw/master/21%20Le%C3%A7ons.pdf
+[sr-latin]: http://files.suritranslations.com/Serbian/21LekcijaLatinica.pdf
+[sr-cyrillic]: http://files.suritranslations.com/Serbian/21LekcijaCyrillica.pdf
 
 ### Audio versions
 
