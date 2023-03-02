@@ -61,6 +61,7 @@ contributions under the same license.
 - 🇧🇷 [Brazilian Portuguese: 21 Lições][pt-BR-paperback] - O que aprendi ao cair da toca do coelho do Bitcoin ([Paperback][pt-BR-paperback])
 - 🇪🇪 [Estonian: 21 õppetundi][et-paperback] - Mida ma õppisin Bitcoini jäneseurgu kukkumisest ([Paperback][et-paperback])
 - 📗 [Esperanto: 21 lecionoj][eo-paperback] - Kion mi lernis falante la Bitmono-kuniklotruon ([Paperback][eo-paperback])
+- 🇷🇴 [Romanian: 21 de lecții][ro-paperback] - Ce am invățat despre bani, libertate si prosperitate din căzătura în vizuina iepurașului ([Paperback][ro-paperback])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -75,6 +76,7 @@ contributions under the same license.
 [pt-BR-paperback]: https://monsterabooks.com/products/21-licoes
 [et-paperback]: https://liigalihtne.ee/pood/index.php/toode/21oppetundi/
 [eo-paperback]: https://www.lulu.com/shop/gigi-and-daniel-araque-acosta/21-lecionoj-kion-mi-lernis-falante-la-bitmono-kuniklotruon/paperback/product-d5v5d9.html?page=1&pageSize=4
+[ro-paperback]: https://iblock.ro/sp/bitcoin-21-lectii/
 
 ### PDF
 
