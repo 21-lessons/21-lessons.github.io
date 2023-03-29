@@ -55,6 +55,7 @@ contributions under the same license.
 - 🇺🇸 [English: 21 Lessons][en-paperback] - What I've Learned from Falling Down the Bitcoin Rabbit Hole ([Paperback][en-paperback], [Kindle][en-kindle])
 - 🇩🇪 [German: 21 Lektionen][de-paperback] - Meine Reise in den Bitcoin Kaninchenbau ([Paperback][de-paperback], [Kindle][de-kindle])
 - 🇪🇸 [Spanish: 21 Lecciones][es-paperback] - Lo Que He Aprendido Al Caer En La Madriguera De Bitcoin ([Paperback][es-paperback], [Kindle][es-kindle])
+- 🇪🇸 [Spanish: 21 Lecciones (by Prometea)][es-prometea] - Lo Que He Aprendido Al Caer En La Madriguera De Bitcoin ([ebook][es-prometea])
 - 🇫🇮 [Finnish: 21 Oppituntia][fin-paperback] - Mitä olen oppinut pudottuani Bitcoinin kaninkoloon ([Paperback][fin-paperback])
 - 🇳🇱 [Dutch: 21 Lessen][nl-paperback] - Wat Ik Heb Geleerd Door Mijn Val In Het Bitcoinkonijnenhol ([Paperback][nl-paperback])
 - 🇫🇷 [French: 21 Leçons][fr-paperback] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([Paperback][fr-paperback], [Kindle][fr-kindle])
@@ -70,6 +71,7 @@ contributions under the same license.
 [de-kindle]: https://amzn.to/2Z2zts3
 [es-paperback]: https://amzn.to/41G4AHG
 [es-kindle]: https://amzn.to/3Zvh6Ic
+[es-prometea]: https://prometeabtc.com/libros/
 [fin-paperback]: https://amzn.to/2WYYkKL
 [nl-paperback]: https://konsensus.network/product/21-lessen/
 [fr-paperback]: https://amzn.to/3DUxs1O
