@@ -23,9 +23,10 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 ### Reading
 
-- 🎧 [Chapter I][ch1-audio], [Chapter II][ch2-audio], and [Chapter
+- 🇺🇸 🎧 [Chapter I][ch1-audio], [Chapter II][ch2-audio], and [Chapter
   III][ch3-audio] are available as an audio version thanks to [Guy Swann] from
   [The Cryptoconomy][cryptoconomy] podcast.
+- 🇩🇪 🎧 The [German book][de-bibliothek] was read on the [Bitcoin Bibliothek][bibliothek-pod] podcast and is available on all podcasting platforms.
 
 ---
 
@@ -57,3 +58,5 @@ You can find more podcast interviews and discussions at my [media archive][media
 [turm8]: https://media.zencast.fm/bitcoin-im-turm/episodes/8
 [turm9]: https://media.zencast.fm/bitcoin-im-turm/episodes/9
 [turm10]: https://media.zencast.fm/bitcoin-im-turm/episodes/10
+[de-bibliothek]: https://pod.link/1611020042/episode/959dbb77d4d2d032b29e9e814aac94f6
+[bibliothek-pod]: https://pod.link/1611020042/
