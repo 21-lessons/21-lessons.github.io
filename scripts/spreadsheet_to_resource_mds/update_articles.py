@@ -34,6 +34,7 @@ for row in articles.get_all_values():
     article_archive = row[10].lstrip().rstrip()
     article_series = row[11].lstrip().rstrip()
     article_seriesnr = row[12].lstrip().rstrip()
+    article_quote = row[13].lstrip().rstrip()
 
     md_file_path = title_to_file_path(article_title, 'articles')
     if md_file_path == "":
@@ -43,7 +44,7 @@ for row in articles.get_all_values():
                 f"---\n"
                 f"layout: page-article\n"
                 f"author: {article_author}\n"
-                f"title: {article_title}\n"
+                f"title: \"{article_title}\"\n"
                 f"link: {article_link}\n"
                 f"category: {article_category}\n"
                 f"date: {article_date}\n"
@@ -55,6 +56,7 @@ for row in articles.get_all_values():
                 f"archive: {article_archive}\n"
                 f"series: {article_series}\n"
                 f"seriesnr: {article_seriesnr}\n"
+                f"quote: \"{article_quote}\"\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:
