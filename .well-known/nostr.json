@@ -1,0 +1,19 @@
+{
+  "names": {
+    "_": "c54f9c60294ca0806a86f4b541098f3fbdfa93e3ffa5ea57a80655437c34249a"
+  },
+  "relays": {
+    "c54f9c60294ca0806a86f4b541098f3fbdfa93e3ffa5ea57a80655437c34249a": [
+      "wss://nostr.mutinywallet.com",
+      "wss://nostr.einundzwanzig.space",
+      "wss://relay.damus.io",
+      "wss://relay.nostr.bg",
+      "wss://nos.lol",
+      "wss://relay.blackbyte.nl",
+      "wss://140.f7z.io",
+      "wss://bitcoinmaximalists.online",
+      "wss://lunchbox.sandwich.farm",
+      "wss://relay.stoner.com"
+    ]
+  }
+}
