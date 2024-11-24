@@ -150,10 +150,10 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 
 <!-- Translations -->
 [pl-philosophy]: https://telegra.ph/21-LEKCJI-01-23
-[01-hindi]: https://memebadger.com/lesson-1-immutability-and-change/
-[02-hindi]: https://memebadger.com/lesson-2-the-scarcity-of-scarcity/
-[03-hindi]: https://memebadger.com/lesson-3-replication-and-locality/
-[04-hindi]: https://memebadger.com/lesson-4-the-problem-of-identity/
+[01-hindi]: https://gandhifamily.in/lesson-1-immutability-and-change/
+[02-hindi]: https://gandhifamily.in/lesson-2-the-scarcity-of-scarcity/
+[03-hindi]: https://gandhifamily.in/lesson-3-replication-and-locality/
+[04-hindi]: https://gandhifamily.in/lesson-4-the-problem-of-identity/
 [es-philosophy]: https://medium.com/@dergigi/ense%C3%B1anzas-filos%C3%B3ficas-de-bitcoin-8ae1357357f9
 [es-economics]: https://telegra.ph/Cap%C3%ADtulo-II--Econom%C3%ADa-11-01
 [es-technology]: https://telegra.ph/Cap%C3%ADtulo-III--Tecnolog%C3%ADa-11-01
