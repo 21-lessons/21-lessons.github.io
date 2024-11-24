@@ -64,6 +64,7 @@ contributions under the same license.
 - 🇪🇪 [Estonian: 21 õppetundi][et-paperback] - Mida ma õppisin Bitcoini jäneseurgu kukkumisest ([Paperback][et-paperback])
 - 📗 [Esperanto: 21 lecionoj][eo-paperback] - Kion mi lernis falante la Bitmono-kuniklotruon ([Paperback][eo-paperback])
 - 🇷🇴 [Romanian: 21 de lecții][ro-paperback] - Ce am invățat despre bani, libertate si prosperitate din căzătura în vizuina iepurașului ([Paperback][ro-paperback])
+- 🇩🇰 [Danish: 21 Lektioner][dk-paperback] - Hvad jeg lærte af at falde ned i Bitcoin-kaninhullet  ([Paperback][dk-paperback])
 
 [en-paperback]: https://amzn.to/2Wa4qJo
 [en-kindle]: https://amzn.to/3bvM49P
@@ -82,12 +83,14 @@ contributions under the same license.
 [et-paperback]: https://liigalihtne.ee/pood/index.php/toode/21oppetundi/
 [eo-paperback]: https://www.lulu.com/shop/gigi-and-daniel-araque-acosta/21-lecionoj-kion-mi-lernis-falante-la-bitmono-kuniklotruon/paperback/product-d5v5d9.html?page=1&pageSize=4
 [ro-paperback]: https://iblock.ro/sp/bitcoin-21-lectii/
+[dk-paperback]: https://shop21.dk/?product=21-lektioner
 
 ### PDF
 
 - 🇧🇷 [Brazilian Portuguese: 21 Lições][pt-BR-github] - O que aprendi ao cair da toca do coelho do Bitcoin ([LaTeX][pt-BR-github], [PDF][pt-BR-pdf])
 - 🇫🇷 [French: 21 Leçons][fr-github] - Enseignements tirés de ma chute dans le terrier du lapin Bitcoin ([LaTeX][fr-github], [PDF][fr-pdf])
 - 🇷🇸 [Serbian: 21 Lekcija][sr-latin] - Šta sam naučio padajući u zečju rupu - ([Latin PDF][sr-latin], [Cyrillic PDF][sr-cyrillic])
+- 🇩🇰 [Danish: 21 Lektioner][Shop21DK-github] - Hvad jeg lærte af at falde ned i Bitcoin-kaninhullet, ([PDF][DK-pdf]). 
 
 [pt-BR-github]: https://github.com/KoreaComK/21lessons-book
 [pt-BR-pdf]: https://github.com/KoreaComK/21lessons-book/raw/master/pdf/As%2021%20Li%C3%A7%C3%B5es.pdf
@@ -95,6 +98,8 @@ contributions under the same license.
 [fr-pdf]: https://github.com/prplsknk/21lessons-book/raw/master/21%20Le%C3%A7ons.pdf
 [sr-latin]: http://files.suritranslations.com/Serbian/21LekcijaLatinica.pdf
 [sr-cyrillic]: http://files.suritranslations.com/Serbian/21LekcijaCyrillica.pdf
+[DK-pdf]: https://github.com/Shop21DK/21-Lektioner/blob/master/21%20Lektioner%20-%20latest%20version.pdf
+[Shop21DK-github]: https://github.com/Shop21DK/21-Lektioner
 
 ### Audio versions
 
