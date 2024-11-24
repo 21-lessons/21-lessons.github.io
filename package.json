@@ -28,16 +28,16 @@
     "jekyll-infinite-scroll": "^1.0.5",
     "jquery": "^3.7.1",
     "salvattore": "^1.0.9",
-    "sass": "^1.77.2"
+    "sass": "^1.81.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.24.5",
-    "@babel/core": "^7.24.5",
-    "@babel/preset-env": "^7.24.5",
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
     "babelify": "^10.0.0",
-    "browserify": "^17.0.0",
-    "eslint": "^9.3.0",
-    "eslint-config-eslint": "^10.0.0",
+    "browserify": "^17.0.1",
+    "eslint": "^9.15.0",
+    "eslint-config-eslint": "^11.0.0",
     "gulp-autoprefixer": "^9.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-eslint": "^6.0.0",
@@ -48,7 +48,7 @@
     "gulp-zip": "^6.0.0",
     "node-sass": "^9.0.0",
     "s3-website": "^3.3.1",
-    "stylelint": "^16.5.0",
+    "stylelint": "^16.10.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   }
