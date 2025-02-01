@@ -1,0 +1,44 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
+  <channel>
+    <title>21 Lessons</title>
+    <description>A fun little book about lessons learned from falling down the Bitcoin rabbit hole, written by a bitcoiner. Available for free online at https://21lessons.com/</description>
+    <language>en</language>
+    <itunes:image href=""/>
+    <link>https://21lessons.com/</link>
+    <generator>Sovereign Feeds</generator>
+    <itunes:category text="Books"/>
+    <itunes:category text=""/>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:complete>no</podcast:complete>
+    <podcast:block>no</podcast:block>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name/>
+    </itunes:owner>
+    <pubDate>Sat, 01 Feb 2025 00:49:48 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Feb 2025 00:49:48 +0000</lastBuildDate>
+    <category>Books</category>
+    <category/>
+    <podcast:guid>49239a1d-c4dc-59a3-89cf-964f3387daf9</podcast:guid>
+    <item>
+      <title>Preface</title>
+      <description><![CDATA[<p>Little Alice fell<br />d<br />o<br />w<br />n<br />the hOle,<br />bumped her head<br />and bruised her soul.</p>
+<p>https://21lessons.com/preface</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/0-00.m4a" length="1472113" type="audio/mpeg"/>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">bb3699d0-18b3-456c-afce-803a8d4c0174</guid>
+      <itunes:subtitle>Preface</itunes:subtitle>
+      <itunes:duration>91</itunes:duration>
+      <link>https://21lessons.com/preface</link>
+      <pubDate>Tue, 23 Jul 2019 00:41:36 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole</itunes:keywords>
+      <itunes:summary><![CDATA[<p>Little Alice fell<br />d<br />o<br />w<br />n<br />the hOle,<br />bumped her head<br />and bruised her soul.</p>
+<p>https://21lessons.com/preface</p>]]></itunes:summary>
+    </item>
+  </channel>
+</rss>
