@@ -3,33 +3,286 @@
     <title>21 Lessons</title>
     <description>A fun little book about lessons learned from falling down the Bitcoin rabbit hole, written by a bitcoiner. Available for free online at https://21lessons.com/</description>
     <language>en</language>
-    <itunes:image href=""/>
+    <itunes:image href="https://21lessons.com/assets/images/avatar.jpg"/>
     <link>https://21lessons.com/</link>
     <generator>Sovereign Feeds</generator>
+    <image>
+      <url>https://21lessons.com/assets/images/avatar.jpg</url>
+      <link>https://21lessons.com/</link>
+      <title>21 Lessons</title>
+      <description>A fun little book about lessons learned from falling down the Bitcoin rabbit hole, written by a bitcoiner. Available for free online at https://21lessons.com/</description>
+      <width>144</width>
+      <height>144</height>
+    </image>
     <itunes:category text="Books"/>
     <itunes:category text=""/>
-    <podcast:medium>podcast</podcast:medium>
+    <podcast:medium>audiobook</podcast:medium>
+    <podcast:aspectImages aspect-ratio="1/1" src="https://21lessons.com/assets/images/avatar.jpg"/>
+    <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+    <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
     <podcast:complete>no</podcast:complete>
     <podcast:block>no</podcast:block>
+    <podcast:license url="">cc-by-sa-4.0</podcast:license>
     <itunes:owner>
-      <itunes:email/>
-      <itunes:name/>
+      <itunes:email>21lessons@dergigi.com</itunes:email>
+      <itunes:name>Gigi</itunes:name>
     </itunes:owner>
-    <pubDate>Sat, 01 Feb 2025 00:49:48 +0000</pubDate>
-    <lastBuildDate>Sat, 01 Feb 2025 00:49:48 +0000</lastBuildDate>
+    <podcast:funding url="https://dergigi.com/support/">All my work is released for free under an open and permissive license and provided on a value for value basis.</podcast:funding>
+    <itunes:author>Gigi</itunes:author>
+    <managingEditor>Gigi</managingEditor>
+    <itunes:keywords>21 Lessons, audiobook, bitcoin, rabbit hole, orange pill, philosophy, technology, economics</itunes:keywords>
+    <pubDate>Sun, 02 Feb 2025 00:25:22 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Feb 2025 00:25:22 +0000</lastBuildDate>
     <category>Books</category>
     <category/>
-    <podcast:guid>49239a1d-c4dc-59a3-89cf-964f3387daf9</podcast:guid>
+    <podcast:guid>46984c84-4458-5141-a692-368dd0cf48ef</podcast:guid>
     <item>
-      <title>Preface</title>
+      <title>#11 — Chapter 2: Economics</title>
+      <description><![CDATA[<p>A large rose tree stood near the entrance of the garden: the roses on it were white, but there were three gardeners at it, busily painting them red. This Alice thought a very curious thing...</p>
+<p>https://21lessons.com/economics</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/2-00.m4a" length="2766160" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+        <podcast:valueRecipient name="Guy Swann" type="lnaddress" address="guyswann@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="steven@curiohoster.com" type="lnaddress" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">bd4c50d7-a6bb-4528-9eab-43e2ca39017f</guid>
+      <itunes:subtitle>#11 — Chapter 2: Economics</itunes:subtitle>
+      <itunes:duration>171</itunes:duration>
+      <link>https://21lessons.com/economics</link>
+      <pubDate>Fri, 02 Aug 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole, philosophy</itunes:keywords>
+      <itunes:summary><![CDATA[<p>A large rose tree stood near the entrance of the garden: the roses on it were white, but there were three gardeners at it, busily painting them red. This Alice thought a very curious thing...</p>
+<p>https://21lessons.com/economics</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#10 — Lesson 7:  The Limits of Knowledge</title>
+      <description><![CDATA[<p>Down, down, down. Would the fall never come to an end?</p>
+<p>https://21lessons.com/7/</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/1-07.m4a" length="1423553" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+        <podcast:valueRecipient name="Guy Swann" type="lnaddress" address="guyswann@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="steven@curiohoster.com" type="lnaddress" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">a0bcc46e-bb89-4d69-b41f-1613594a609b</guid>
+      <itunes:subtitle>#10 — Lesson 7:  The Limits of Knowledge</itunes:subtitle>
+      <itunes:duration>88</itunes:duration>
+      <link>https://21lessons.com/7/</link>
+      <pubDate>Fri, 02 Aug 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole, philosophy</itunes:keywords>
+      <itunes:summary><![CDATA[<p>Down, down, down. Would the fall never come to an end?</p>
+<p>https://21lessons.com/7/</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#09 — Lesson 6: The Power of Free Speech</title>
+      <description><![CDATA[<p>"I beg your pardon?" said the mouse, frowning, but very politely, "did you speak?"</p>
+<p>https://21lessons.com/6/</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/1-06.m4a" length="2119985" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+        <podcast:valueRecipient name="Guy Swann" type="lnaddress" address="guyswann@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="steven@curiohoster.com" type="lnaddress" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">718fa006-e68c-4542-9685-18321fcac7e0</guid>
+      <itunes:subtitle>#09 — Lesson 6: The Power of Free Speech</itunes:subtitle>
+      <itunes:duration>131</itunes:duration>
+      <link>https://21lessons.com/6/</link>
+      <pubDate>Thu, 01 Aug 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole, philosophy</itunes:keywords>
+      <itunes:summary><![CDATA[<p>"I beg your pardon?" said the mouse, frowning, but very politely, "did you speak?"</p>
+<p>https://21lessons.com/6/</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#08 — Lesson 5:  An Immaculate Conception</title>
+      <description><![CDATA[<p>"Their heads are gone," the soldiers shouted in reply...</p>
+<p>https://21lessons.com/5/</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/1-05.m4a" length="2184105" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+        <podcast:valueRecipient name="Guy Swann" type="lnaddress" address="guyswann@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="steven@curiohoster.com" type="lnaddress" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">9d9967ae-198b-40aa-90f0-020648934546</guid>
+      <itunes:subtitle>#08 — Lesson 5:  An Immaculate Conception</itunes:subtitle>
+      <itunes:duration>135</itunes:duration>
+      <link>https://21lessons.com/5/</link>
+      <pubDate>Tue, 30 Jul 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole, philosophy</itunes:keywords>
+      <itunes:summary><![CDATA[<p>"Their heads are gone," the soldiers shouted in reply...</p>
+<p>https://21lessons.com/5/</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#07 — Lesson 4: The Problem of Identity</title>
+      <description><![CDATA[<p>"Who are you?" said the caterpillar.</p>
+<p>https://21lessons.com/4/</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/1-04.m4a" length="2264533" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">4197fdc0-246b-4992-8e48-a876d5552585</guid>
+      <itunes:subtitle>#07 — Lesson 4: The Problem of Identity</itunes:subtitle>
+      <itunes:duration>140</itunes:duration>
+      <link>https://21lessons.com/4/</link>
+      <pubDate>Mon, 29 Jul 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole</itunes:keywords>
+      <itunes:summary><![CDATA[<p>"Who are you?" said the caterpillar.</p>
+<p>https://21lessons.com/4/</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#06 — Lesson 3: Replication and Locality</title>
+      <description><![CDATA[<p>Next came an angry voice&mdash;the rabbit's&mdash;"Pat, Pat! where are you?"</p>
+<p>https://21lessons.com/3/</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/1-03.m4a" length="2701868" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+        <podcast:valueRecipient name="Guy Swann" type="lnaddress" address="guyswann@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="steven@curiohoster.com" type="lnaddress" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">465489bb-1099-478f-a65a-25ad60b30e60</guid>
+      <itunes:subtitle>#06 — Lesson 3: Replication and Locality</itunes:subtitle>
+      <itunes:duration>167</itunes:duration>
+      <link>https://21lessons.com/3/</link>
+      <pubDate>Sun, 28 Jul 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole, philosophy</itunes:keywords>
+      <itunes:summary><![CDATA[<p>Next came an angry voice&mdash;the rabbit's&mdash;"Pat, Pat! where are you?"</p>
+<p>https://21lessons.com/3/</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#05 — Lesson 2: The Scarcity of Scarcity</title>
+      <description><![CDATA[<p>That's quite enough &mdash; I hope I sha'n't grow any more...</p>
+<p>https://21lessons.com/2/</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/1-02.m4a" length="1731605" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+        <podcast:valueRecipient name="Guy Swann" type="lnaddress" address="guyswann@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="steven@curiohoster.com" type="lnaddress" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">f8827047-3e95-4fbd-a1c7-74c24d271768</guid>
+      <itunes:subtitle>#05 — Lesson 2: The Scarcity of Scarcity</itunes:subtitle>
+      <itunes:duration>107</itunes:duration>
+      <link>https://21lessons.com/2/</link>
+      <pubDate>Sat, 27 Jul 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole, philosophy, scarcity</itunes:keywords>
+      <itunes:summary><![CDATA[<p>That's quite enough &mdash; I hope I sha'n't grow any more...</p>
+<p>https://21lessons.com/2/</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#04 — Lesson 1: Immutability and Change</title>
+      <description><![CDATA[<p>I wonder if I've been changed in the night. Let me think. Was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I'm not the same, the next question is 'Who in the world am I?' Ah, that's the great puzzle!</p>
+<p>https://21lessons.com/1/</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/1-01.m4a" length="3720358" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+        <podcast:valueRecipient name="Guy Swann" type="lnaddress" address="guyswann@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="steven@curiohoster.com" type="lnaddress" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">17c1a3ec-0142-4291-ac19-2bb3e5003d59</guid>
+      <itunes:subtitle>#04 — Lesson 1: Immutability and Change</itunes:subtitle>
+      <itunes:duration>230</itunes:duration>
+      <link>https://21lessons.com/1/</link>
+      <pubDate>Fri, 26 Jul 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole, philosophy</itunes:keywords>
+      <itunes:summary><![CDATA[<p>I wonder if I've been changed in the night. Let me think. Was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I'm not the same, the next question is 'Who in the world am I?' Ah, that's the great puzzle!</p>
+<p>https://21lessons.com/1/</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#03 — Chapter 1: Philosophy</title>
+      <description><![CDATA[<p>The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing.</p>
+<p>https://21lessons.com/philosophy</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/1-00.m4a" length="1828473" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+        <podcast:valueRecipient name="Guy Swann" type="lnaddress" address="guyswann@primal.net" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">6048f224-15eb-4077-9287-0e587ee0d588</guid>
+      <itunes:subtitle>#03 — Chapter 1: Philosophy</itunes:subtitle>
+      <itunes:duration>113</itunes:duration>
+      <link>https://21lessons.com/philosophy</link>
+      <pubDate>Thu, 25 Jul 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole</itunes:keywords>
+      <itunes:summary><![CDATA[<p>The mouse looked at her rather inquisitively, and seemed to her to wink with one of its little eyes, but it said nothing.</p>
+<p>https://21lessons.com/philosophy</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#02 — Introduction</title>
+      <description><![CDATA[<p>"But I don&rsquo;t want to go among mad people," Alice remarked.<br />"Oh, you can&rsquo;t help that," said the Cat: "we&rsquo;re all mad here. I&rsquo;m mad. You&rsquo;re mad."<br />"How do you know I&rsquo;m mad?" said Alice.<br />"You must be," said the Cat, "or you wouldn&rsquo;t have come here."</p>
+<p>https://21lessons.com/intro</p>]]></description>
+      <enclosure url="https://21lessons.com/assets/audio/21lessons/0-02.m4a" length="4108645" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">e4a5f535-f05a-4af9-9ee2-eade0dbe8958</guid>
+      <itunes:subtitle>#02 — Introduction</itunes:subtitle>
+      <itunes:duration>254</itunes:duration>
+      <link>https://21lessons.com/intro</link>
+      <pubDate>Wed, 24 Jul 2019 13:37:00 +0000</pubDate>
+      <itunes:explicit>No</itunes:explicit>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:keywords>bitcoin, book, audiobook, 21 lessons, orange pill, rabbit hole</itunes:keywords>
+      <itunes:summary><![CDATA[<p>"But I don&rsquo;t want to go among mad people," Alice remarked.<br />"Oh, you can&rsquo;t help that," said the Cat: "we&rsquo;re all mad here. I&rsquo;m mad. You&rsquo;re mad."<br />"How do you know I&rsquo;m mad?" said Alice.<br />"You must be," said the Cat, "or you wouldn&rsquo;t have come here."</p>
+<p>https://21lessons.com/intro</p>]]></itunes:summary>
+    </item>
+    <item>
+      <title>#01 — Preface</title>
       <description><![CDATA[<p>Little Alice fell<br />d<br />o<br />w<br />n<br />the hOle,<br />bumped her head<br />and bruised her soul.</p>
 <p>https://21lessons.com/preface</p>]]></description>
       <enclosure url="https://21lessons.com/assets/audio/21lessons/0-00.m4a" length="1472113" type="audio/mpeg"/>
+      <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="writing" role="author">Gigi</podcast:person>
+      <podcast:person href="https://bitcoinaudible.com/" img="https://i.nostr.build/GZd3CdZZ7kR1SNS1.png" group="audio production" role="audio engineer">Guy Swann</podcast:person>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="Gigi" type="lnaddress" address="s@ts.dergigi.com" split="100"/>
       </podcast:value>
       <guid isPermaLink="false">bb3699d0-18b3-456c-afce-803a8d4c0174</guid>
-      <itunes:subtitle>Preface</itunes:subtitle>
+      <itunes:subtitle>#01 — Preface</itunes:subtitle>
       <itunes:duration>91</itunes:duration>
       <link>https://21lessons.com/preface</link>
       <pubDate>Tue, 23 Jul 2019 00:41:36 +0000</pubDate>
