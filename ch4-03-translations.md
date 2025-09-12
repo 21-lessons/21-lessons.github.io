@@ -193,7 +193,7 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 [ar-all]: https://bitcoinarabic.org/21-lessons-dergigi/
 
 <!-- German Translation by Rene from Blocktrainer -->
-[de-blocktrainer]: https://www.blocktrainer.de/bitcoin-21-lektionen/
+[de-blocktrainer]: https://www.blocktrainer.de/wissen/uebersetzungen/der-gigi-21-lektionen
 
 <!-- Persons -->
 [andywan]: https://twitter.com/andywan
@@ -201,7 +201,7 @@ See [/audio][audio] for audiobooks, audio versions, commentary, and podcast epis
 [Ξntropy]: https://t.me/ur_Entropy
 [deniz]: https://twitter.com/deniz_zgur
 [cryptomulde]: https://twitter.com/CryptoMulde
-[Rene]: https://www.blocktrainer.de/author/rene/
+[Rene]: https://www.blocktrainer.de/autoren/rene
 <!-- https://twitter.com/da_renn4 -->
 [thomas-brand]: https://twitter.com/thlbr
 [bitdov]: https://twitter.com/bitdov
