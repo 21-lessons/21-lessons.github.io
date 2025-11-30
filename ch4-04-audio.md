@@ -19,6 +19,7 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 [![21 Lessons music album cover][music-cover]][music-wavlake]
 
 - The album **21 Lessons** by EasyWiz is available on [Wavlake][music-wavlake], inspired by this book.
+- You can also check out the [Nostr note that introduced the album][music-nostr].
 
 [de-aprycot]: https://aprycot.media/blog/gigis-21-lektionen-hoerbuch/
 [de-audible]: https://amzn.to/3khg7Z3
@@ -29,6 +30,7 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 [music-wavlake]: https://wavlake.com/album/2836cca3-7c80-4c50-97eb-8ba5c1dde534
 [music-cover]: /assets/images/21-lessons-wavlake-album.jpg
+[music-nostr]: https://nostr.to/nevent1qqs8yj74rvl262tqyrvdyjzpta3ctp0jy7sjvtmshyg8gujxk095z6qpz4mhxue69uhkg6t5w3hjuur4vghhyetvv9usygxnxzwqr9m3aem96em83yc3nw707xlf2mwa8v0l39eqt5t7c5xq9vpsgqqqqqqsanjgkm
 
 ### Reading
 
