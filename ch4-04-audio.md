@@ -22,8 +22,16 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 [en-guy]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_256---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-1-e47u83
 
 [music-wavlake]: https://wavlake.com/album/2836cca3-7c80-4c50-97eb-8ba5c1dde534
-[music-cover]: /assets/images/21-lessons-wavlake-album.jpg
 [music-nostr]: https://nostr.to/nevent1qqs8yj74rvl262tqyrvdyjzpta3ctp0jy7sjvtmshyg8gujxk095z6qpz4mhxue69uhkg6t5w3hjuur4vghhyetvv9usygxnxzwqr9m3aem96em83yc3nw707xlf2mwa8v0l39eqt5t7c5xq9vpsgqqqqqqsanjgkm
+
+### Music
+
+- The album **21 Lessons** by EasyWiz is available on [Wavlake][music-wavlake]
+- Make sure to follow [EasyWiz on nostr][music-nostr]
+
+{% include image.html path="./assets/images/21-lessons-wavlake-album.jpg" alt="21 Lessons music album cover" %}
+
+---
 
 ### Reading
 
@@ -31,16 +39,6 @@ audio: /assets/audio/21lessons/21-lessons.m4a
   III][ch3-audio] are available as an audio version thanks to [Guy Swann] from
   [The Cryptoconomy][cryptoconomy] podcast.
 - 🇩🇪 🎧 The [German book][de-bibliothek] was read on the [Bitcoin Bibliothek][bibliothek-pod] podcast and is available on all podcasting platforms.
-
-### Music
-
-- The album **21 Lessons** by EasyWiz is available on [Wavlake][music-wavlake]
-- Make sure to follow [EasyWiz on nostr][music-nostr]
-
-[![21 Lessons music album cover][music-cover]][music-wavlake]
-
----
-
 ### Commentary
 
 Below are recordings of thoughts, discussions, and commentary on 21 Lessons,
