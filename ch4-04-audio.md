@@ -26,7 +26,7 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 
 ### Music
 
-- The album **21 Lessons** by EasyWiz is available on [Wavlake][music-wavlake]
+- The [**21 Lessons** music album][music-wavlake] by EasyWiz is available on [Wavlake][music-wavlake]
 - Make sure to follow [EasyWiz on nostr][music-nostr]
 
 {% include image.html path="./assets/images/21-lessons-wavlake-album.jpg" alt="21 Lessons music album cover" %}
