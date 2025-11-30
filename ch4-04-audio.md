@@ -14,13 +14,6 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 - 🇩🇪 The [German audiobook][de-audible] is available on [Aprycot][de-aprycot], [Audible][de-audible], and [YouTube][de-youtube]
 - 🇧🇷 The [Brazilian Portuguese audiobook][br-yt] is available on [YouTube][br-yt]
 
-### Music
-
-[![21 Lessons music album cover][music-cover]][music-wavlake]
-
-- The album **21 Lessons** by EasyWiz is available on [Wavlake][music-wavlake], inspired by this book.
-- You can also check out the [Nostr note that introduced the album][music-nostr].
-
 [de-aprycot]: https://aprycot.media/blog/gigis-21-lektionen-hoerbuch/
 [de-audible]: https://amzn.to/3khg7Z3
 [de-youtube]: https://youtu.be/36zfTwKDcLM
@@ -38,6 +31,13 @@ audio: /assets/audio/21lessons/21-lessons.m4a
   III][ch3-audio] are available as an audio version thanks to [Guy Swann] from
   [The Cryptoconomy][cryptoconomy] podcast.
 - 🇩🇪 🎧 The [German book][de-bibliothek] was read on the [Bitcoin Bibliothek][bibliothek-pod] podcast and is available on all podcasting platforms.
+
+### Music
+
+[![21 Lessons music album cover][music-cover]][music-wavlake]
+
+- The album **21 Lessons** by EasyWiz is available on [Wavlake][music-wavlake], inspired by this book.
+- You can also check out the [Nostr note that introduced the album][music-nostr].
 
 ---
 
