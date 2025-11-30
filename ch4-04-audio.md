@@ -14,12 +14,21 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 - 🇩🇪 The [German audiobook][de-audible] is available on [Aprycot][de-aprycot], [Audible][de-audible], and [YouTube][de-youtube]
 - 🇧🇷 The [Brazilian Portuguese audiobook][br-yt] is available on [YouTube][br-yt]
 
+### Music
+
+[![21 Lessons music album cover][music-cover]][music-wavlake]
+
+- The album **21 Lessons** by EasyWiz is available on [Wavlake][music-wavlake], inspired by this book.
+
 [de-aprycot]: https://aprycot.media/blog/gigis-21-lektionen-hoerbuch/
 [de-audible]: https://amzn.to/3khg7Z3
 [de-youtube]: https://youtu.be/36zfTwKDcLM
 [br-yt]: https://youtu.be/B2-yU3IfAi8
 [en-audible]: https://amzn.to/2ZeUsYX
 [en-guy]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_256---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-1-e47u83
+
+[music-wavlake]: https://wavlake.com/album/2836cca3-7c80-4c50-97eb-8ba5c1dde534
+[music-cover]: /assets/images/21-lessons-wavlake-album.jpg
 
 ### Reading
 
