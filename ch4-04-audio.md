@@ -21,14 +21,24 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 [en-audible]: https://amzn.to/2ZeUsYX
 [en-guy]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_256---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-1-e47u83
 
+[music-wavlake]: https://wavlake.com/album/2836cca3-7c80-4c50-97eb-8ba5c1dde534
+[music-nostr]: https://njump.to/nevent1qqs8yj74rvl262tqyrvdyjzpta3ctp0jy7sjvtmshyg8gujxk095z6qpz4mhxue69uhkg6t5w3hjuur4vghhyetvv9usygxnxzwqr9m3aem96em83yc3nw707xlf2mwa8v0l39eqt5t7c5xq9vpsgqqqqqqsanjgkm
+
+### Music
+
+- 🎶 The [**21 Lessons** music album][music-wavlake] by EasyWiz is available on [Wavlake][music-wavlake]
+- 🎶 Make sure to follow [EasyWiz on nostr][music-nostr]
+
+{% include image.html path="./assets/images/21-lessons-wavlake-album.jpg" alt="21 Lessons music album cover" %}
+
+---
+
 ### Reading
 
 - 🇺🇸 🎧 [Chapter I][ch1-audio], [Chapter II][ch2-audio], and [Chapter
   III][ch3-audio] are available as an audio version thanks to [Guy Swann] from
   [The Cryptoconomy][cryptoconomy] podcast.
 - 🇩🇪 🎧 The [German book][de-bibliothek] was read on the [Bitcoin Bibliothek][bibliothek-pod] podcast and is available on all podcasting platforms.
-
----
 
 ### Commentary
 
