@@ -22,7 +22,7 @@ audio: /assets/audio/21lessons/21-lessons.m4a
 [en-guy]: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_256---21-Lessons-of-the-Bitcoin-Rabbit-Hole---Chapter-1-e47u83
 
 [music-wavlake]: https://wavlake.com/album/2836cca3-7c80-4c50-97eb-8ba5c1dde534
-[music-nostr]: https://nostr.to/nevent1qqs8yj74rvl262tqyrvdyjzpta3ctp0jy7sjvtmshyg8gujxk095z6qpz4mhxue69uhkg6t5w3hjuur4vghhyetvv9usygxnxzwqr9m3aem96em83yc3nw707xlf2mwa8v0l39eqt5t7c5xq9vpsgqqqqqqsanjgkm
+[music-nostr]: https://njump.to/nevent1qqs8yj74rvl262tqyrvdyjzpta3ctp0jy7sjvtmshyg8gujxk095z6qpz4mhxue69uhkg6t5w3hjuur4vghhyetvv9usygxnxzwqr9m3aem96em83yc3nw707xlf2mwa8v0l39eqt5t7c5xq9vpsgqqqqqqsanjgkm
 
 ### Music
 
