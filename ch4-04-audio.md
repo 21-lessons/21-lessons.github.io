@@ -39,6 +39,7 @@ audio: /assets/audio/21lessons/21-lessons.m4a
   III][ch3-audio] are available as an audio version thanks to [Guy Swann] from
   [The Cryptoconomy][cryptoconomy] podcast.
 - 🇩🇪 🎧 The [German book][de-bibliothek] was read on the [Bitcoin Bibliothek][bibliothek-pod] podcast and is available on all podcasting platforms.
+
 ### Commentary
 
 Below are recordings of thoughts, discussions, and commentary on 21 Lessons,
